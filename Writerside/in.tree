@@ -3,12 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
+                 name="Faergria Wiki"
                  start-page="starter.md">
 
     <toc-element topic="starter.md">
     </toc-element>
     <toc-element topic="Characters.md"/>
     <toc-element topic="Equipment.md"/>
-    <toc-element topic="Hohefürsten.md"/>
 </instance-profile>
