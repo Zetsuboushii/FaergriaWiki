@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/faergria-docs.iml" filepath="$PROJECT_DIR$/.idea/faergria-docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FaergriaWiki.iml" filepath="$PROJECT_DIR$/.idea/FaergriaWiki.iml" />
     </modules>
   </component>
 </project>
