@@ -10,4 +10,8 @@
         <description>Created after removal of "Empty MD Topic" from Instance Name</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="63c04b19">
+        <description>Created after removal of "Starter" from Faergria Wiki</description>
+        <accepts>starter.html</accepts>
+    </rule>
 </rules>

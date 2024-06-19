@@ -4,10 +4,8 @@
 
 <instance-profile id="in"
                  name="Faergria Wiki"
-                 start-page="starter.md">
+                 start-page="Characters.md">
 
-    <toc-element topic="starter.md">
-    </toc-element>
     <toc-element topic="Characters.md"/>
     <toc-element topic="Equipment.md"/>
 </instance-profile>
