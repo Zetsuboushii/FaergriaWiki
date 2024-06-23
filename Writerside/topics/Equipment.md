@@ -49,8 +49,9 @@ Intelligenz, Weisheit und Charisma.
                 <table>
                 <tr><td>Waffenname</td><td>Str</td><td>Dex</td><td>Con</td><td>Int</td><td>Wis</td><td>Cha</td><td>Schaden</td><td>Acid</td><td>Cold</td><td>Dark</td><td>Fire</td><td>Force</td><td>Lighting</td><td>Necrotic</td><td>Poison</td><td>Psychic</td><td>Radiant</td><td>Thunder</td><td>Fähigkeit</td></tr>
                 <tr><td>Dolch</td><td> </td><td>10/E</td><td> </td><td> </td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
-                <tr><td>Blutdolch d. Sehns.</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>1d8</td><td>2d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Multiattack</td></tr>
-                <tr><td>Schattenglas</td><td> </td><td>20/C</td><td> </td><td> </td><td> </td><td> </td><td>2d4</td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td> </td><td>x2, hinterlässt in Kleidung und Haut keine Schnitte; innere Verletzungen</td></tr>
+                <tr><td>Blutdolch der Sehnsüchte</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>1d8</td><td>2d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Multiattack</td></tr>
+                <!--<tr><td>Schattenglas</td><td> </td><td>20/C</td><td> </td><td> </td><td> </td><td> </td><td>2d4</td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td> </td><td>x2, hinterlässt in Kleidung und Haut keine Schnitte; innere Verletzungen</td></tr>-->
+                <tr><td>Elfisches Silber-Jagdmesser</td><td> </td><td>13/D</td><td> </td><td> </td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>1d8</td><td> </td><td> </td><td>Lautloses Bewegen nach Angriff</td></tr>
                 </table>
             </tab>
             <tab title="Stichschwerter">
@@ -105,7 +106,8 @@ Intelligenz, Weisheit und Charisma.
                 Zweihändig. (Slashing/Piercing, Ranged Melee, Str)
                 <table>
                 <tr><td>Waffenname</td><td>Str</td><td>Dex</td><td>Con</td><td>Int</td><td>Wis</td><td>Cha</td><td>Schaden</td><td>Acid</td><td>Cold</td><td>Dark</td><td>Fire</td><td>Force</td><td>Lighting</td><td>Necrotic</td><td>Poison</td><td>Psychic</td><td>Radiant</td><td>Thunder</td><td>Fähigkeit</td></tr>
-                <tr><td>Herbstlaubhellebarde</td><td>18/C</td><td>18/D</td><td> </td><td>16/E</td><td> </td><td> </td><td>2d10</td><td> </td><td> </td><td>1d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Herbstwinde</td></tr>
+                <!--<tr><td>Herbstlaubhellebarde</td><td>18/C</td><td>18/D</td><td> </td><td>16/E</td><td> </td><td> </td><td>2d10</td><td> </td><td> </td><td>1d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Herbstwinde</td></tr>-->
+                <tr><td>Ritterhellebarde des Feueraspektes</td><td>11/C</td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>2d10</td><td> </td><td> </td><td> </td><td>1d4</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
                 </table>
             </tab>
             <tab title="Kurzbögen">
