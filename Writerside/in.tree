@@ -10,4 +10,6 @@
     <toc-element topic="Characters.md"/>
     <toc-element topic="Equipment.md"/>
     <toc-element topic="Magic.md"/>
+    <toc-element topic="Currency.md"/>
+    <toc-element topic="Alchemy.md"/>
 </instance-profile>

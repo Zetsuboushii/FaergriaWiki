@@ -4,6 +4,12 @@ Magische Zauber werden in Form von Zaubereien und Anrufungen gewirkt. Von der Be
 bis hin zum Herbeirufen der Macht eines Drachenatems, decken Zauber eine Vielzahl von offensiven, defensiven und
 nützlichen Funktionen ab.
 
+Kanalisierungen sind Fähigkeiten, die durch ein einvernehmliches Versprechen zwischen einer Person und einem Hohefürsten
+entstehen. Ein Kanalisierungsobjekt eines Hohefürsten kann im Rahmen der Abklingzeit nur von einer Person gleichzeitig
+verwendet werden. Bei Benutzung wachsen die Fähigkeiten heran.
+
+Flüche sind Fähigkeiten, die über Pakte an Vasallen weitergegeben werden. Sie bilden einen Bruchteil der Kraft des
+Hohefürsten ab.
 <tabs>
 <tab title="Zauber">
 <tabs>
@@ -100,5 +106,38 @@ nützlichen Funktionen ab.
 </table>
 </tab>
 </tabs>
+</tab>
+<tab title="Kanalisierungen">
+<table>
+<tr><td>Stufe</td><td>Anzahl Verwendungen</td></tr>
+<tr><td>1</td><td>0</td></tr>
+<tr><td>2</td><td>25</td></tr>
+<tr><td>3</td><td>50</td></tr>
+<tr><td>4</td><td>75</td></tr>
+<tr><td>5</td><td>100</td></tr>
+</table>
+<tabs>
+<tab title="Talisman von Kaen">
+<table>
+<tr><td>Stufe</td><td>Fähigkeit</td><td>Beschreibung</td><td>Effekt</td><td>Cooldown</td></tr>
+<tr><td>St. 1</td><td>Elementartransfer - Loderndes Feuer</td><td>Versetzt eine Waffe in lodernde Flammen</td><td>phys =&gt; fire</td><td>5 Runden</td></tr>
+<!--<tr><td>St. 2</td><td>Magmaschuss</td><td>Schleudert einen Klumpen glühendes Magma.<br/>Explodiert bei Kontakt</td><td>2d10 fire + 1d4 force,<br/>10ft. Radius Explosion</td><td>6 Runden</td></tr>-->
+<!--<tr><td>St. 3</td><td>Einäschernder Glutregen</td><td>Wirft eine Kugel konzentrierten Feuers in die Lüfte,<br/>lässt diese explodieren und die Glut herabregnen</td><td>4d8 fire,<br/>20ft. Radius</td><td>7 Runden</td></tr>-->
+<!--<tr><td>St. 4</td><td>Kaens Groll</td><td>Entlässt glühende Geister,<br/>die wiederholt nach Verzögerung explodieren.</td><td>3d10 fire + 2d6 necrotic,<br/>3x5 Cone</td><td>10 Runden</td></tr>-->
+</table>
+</tab>
+</tabs>
+</tab>
+<tab title="Flüche">
+<table>
+<tr><td>Name</td><td>Hohefürst</td><td>Beschreibung</td><td>Effekt</td></tr>
+<tr><td>Mimikry</td><td>Serff</td><td> </td><td> </td></tr>
+<tr><td>Kriegeslust</td><td>Bellum</td><td>Der Anwender lässt sein Blut kochen und versetzt sich in Rage</td><td>3 Rnds.,<br/>2x Dmg. Out.,<br/>Move/2</td></tr>
+<tr><td>Wuchernde Ranken der Sünde und Bestrafung</td><td>Volo</td><td>Der Anwender geißelt sich selbst und wirkt diesen Schmerz auf das Ziel durch blutige Dornenranken</td><td>1d8 psychic self<br/>-&gt; 2d10 psychic enemy</td></tr>
+<tr><td>Geofissur</td><td>Terralion</td><td>Der Anwender erzeugt einen tiefen Riss im Gelände</td><td>3d10 force,<br/>3x5 Rect.</td></tr>
+<tr><td>Nebel der Silberjungfer</td><td>Craindre</td><td>Der Anwender erzeugt um sich herum für 5 Runden einen dichten, silbrig-scheinenden Nebel</td><td>5 Rnds.,<br/>3x3 Rad.,<br/>pro Feld 2d6 psychic + frightened</td></tr>
+<tr><td>Treibender Fluch der changierenden Eiffersucht</td><td>Invidianoir</td><td>Die Seelen mehrerer Ziele werden auf eine kopierte Existenzebene transferiert und untereinander vertauscht</td><td>24h vergehen = Tod</td></tr>
+<tr><td>Griff der Gier</td><td>Iddra</td><td>Der Anwender greift in eine astrale Schicht eines Gegners und zerbricht diese. (4 Runden Cooldown)</td><td>2d10 psychic, frightened, 5 ft.</td></tr>
+</table>
 </tab>
 </tabs>
