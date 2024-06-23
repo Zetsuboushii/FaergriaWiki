@@ -115,8 +115,8 @@
                         <!--<tr><td><b>Großherzogin Aquila von Nordholm:</b> Die Gemahlin des Großherzogs von Nordholm.</td><td></td></tr>-->
                         <!--<tr><td><b>Großherzogin Ursula von Nordholm:</b> Ehemalige Großherzogin von Nordholm, ermordet.</td><td></td></tr>-->
                         <tr><td><b>Großherzog Tristan von Nordholm:</b> Regierender Großherzog von Escrigria.</td><td><img src="tristan.png" alt="" /></td></tr>
-                        <!--<tr><td><b>Erbgroßherzog Stephan von Nordholm:</b> Sohn des Großherzogs, tot geglaubt.</td><td><img src="stephan_revealed.png" alt="" /></td></tr>-->
-                        <!--<tr><td><b>Erbgroßherzogin Eliza von Nordholm:</b> Tochter des Großherzogs, tot geglaubt.</td><td><img src="eliza.png" alt="" /></td></tr>-->
+                        <!--<tr><td><b>Prinz Stephan von Nordholm:</b> Sohn des Großherzogs, tot geglaubt.</td><td><img src="stephan_revealed.png" alt="" /></td></tr>-->
+                        <!--<tr><td><b>Prinzessin Eliza von Nordholm:</b> Tochter des Großherzogs, tot geglaubt.</td><td><img src="eliza.png" alt="" /></td></tr>-->
                         <tr><td><b>Stephan:</b> Mysteriöser Mann</td><td><img src="stephan.png" alt="" /></td></tr>
                         <!--<tr><td><b>Adrian von Waldegrav:</b> Adliger Schätzesammler.</td><td><img src="adrian.png" alt="" /></td></tr>-->
                         </table>
@@ -172,10 +172,12 @@
                         <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
                         <tr><td><b>Seloue:</b> Hohefürstin des Wissens.</td><td><img src="seloue.png" alt="" /></td></tr>
                         <tr><td><b>Kurfürstin Solenne von Hal:</b> Regierende Kurfürstin von Hal.</td><td width="300"><img src="solenne.png" alt="" /></td></tr>
-                        <tr><td><b>Erbkurfürstin Sonya von Hal:</b> Assasinin in Grenbrock, Tochter von Solenne.</td><td width="300"><img src="sonya.png" alt="" /></td></tr>
+                        <tr><td><b>Prinzessin Sonya von Hal:</b> Assasinin in Grenbrock, Tochter von Solenne.</td><td width="300"><img src="sonya.png" alt="" /></td></tr>
                         <tr><td><b>Marine Courbet:</b> Leibgarde der Kurfürstin Solenne.</td><td width="300"><img src="marine.png" alt="" /></td></tr>
                         <tr><td><b>U-Ranos:</b> Vergreisender, überreifer umherstreifender Knecht Justicias.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
                         <!--<tr><td><b>Ignaz Doisneau:</b> Alchemist, bekannt für seine Fähigkeiten.</td><td width="300"><img src="ignaz.png" alt="" /></td></tr>-->
+                        <tr><td><b>Julianne:</b> Tavernenbesitzerin in Frelia, bekannt für ihre alkoholischen Mischgetränke.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
+                        <tr><td><b>Theodoric:</b> Chef der Magierpolizei in Hal.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
                         <!--<tr><td><b>Lavande Violette:</b> Bibliothekarin, bewahrt Wissen in Hal auf.</td><td width="300"><img src="lavande.png" alt="" /></td></tr>-->
                         <tr><td><b>Linet:</b> Fahrende Händlerin, reist durch Faergria und verkauft Waren, wird oft beklaut.</td><td width="300"><img src="linet.png" alt="" /></td></tr>
                         </table>
@@ -294,8 +296,8 @@
                     <tab title="Tinorke">
                         <table>
                         <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-                        <tr><td><b>Erbgroßherzogin Kristina von Tinorke:</b> Verstorben, ehemalige voraussichtliche Herrscherin von Tinorke.</td><td width="300"><img src="kristina.png" alt="" /></td></tr>
-                        <tr><td><b>Erbgroßherzog Kristian von Tinorke:</b> Verstorben, ehemaliger voraussichtlicher Herrscher von Tinorke.</td><td width="300"><img src="kristian.png" alt="" /></td></tr>
+                        <tr><td><b>Prinzessin Kristina von Tinorke:</b> Verstorben, ehemalige voraussichtliche Herrscherin von Tinorke.</td><td width="300"><img src="kristina.png" alt="" /></td></tr>
+                        <tr><td><b>Prinz Kristian von Tinorke:</b> Verstorben, ehemaliger voraussichtlicher Herrscher von Tinorke.</td><td width="300"><img src="kristian.png" alt="" /></td></tr>
                         <tr><td><b>Konrad Aulber:</b> Botschafter für Außenpolitik Tinorlands.</td><td width="300"><img src="konrad.png" alt="" /></td></tr>
                         <!--<tr><td><b>Sinmir Ragnarsson:</b> Schmied und Großvater von Siegmund.</td><td width="300"><img src="sinmir.png" alt="" /></td></tr>-->
                         </table>
