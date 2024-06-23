@@ -148,9 +148,9 @@ Intelligenz, Weisheit und Charisma.
                 Talismane werden genutzt, um Beschwörungen zu wirken. (Wei)
                 <table>
                 <tr><td>Talismanname</td><td>Schaden</td><td>Fähigkeit</td></tr>
-                <tr><td>Zweig des Manabaums</td><td>/</td><td>Farones Güte</td></tr>
-                <tr><td>Gerechtigkeit der Libra</td><td>/</td><td>Justicias Licht</td></tr>
-                <tr><td>Gieriger Griff</td><td>1d6 bludgeoning</td><td>Iddras Gier</td></tr>
+                <tr><td>Zweig des Manabaums</td><td>/</td><td><b>Farones Güte:</b> Ermöglicht das Wirken von Farones Naturwundern; Auf eine ausgewählte Beschwörung pro Kampf wird keine Konzentration benötigt</td></tr>
+                <tr><td>Gerechtigkeit der Libra</td><td>/</td><td><b>Justicias Licht:</b> Ermöglicht das Wirken von Göttlichen Fügungen</td></tr>
+                <tr><td>Gieriger Griff</td><td>1d6 bludgeoning</td><td><b>Iddras Gier:</b> Ermöglicht das Wirken von Iddras Beschwörungen</td></tr>
                 </table>
             </tab>
         </tabs>
@@ -189,10 +189,3 @@ Intelligenz, Weisheit und Charisma.
         </tabs>
     </tab>
 </tabs>
-
-
-
-
-
-
-
