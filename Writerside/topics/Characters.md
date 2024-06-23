@@ -176,8 +176,8 @@
                         <tr><td><b>Marine Courbet:</b> Leibgarde der Kurfürstin Solenne.</td><td width="300"><img src="marine.png" alt="" /></td></tr>
                         <tr><td><b>U-Ranos:</b> Vergreisender, überreifer umherstreifender Knecht Justicias.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
                         <!--<tr><td><b>Ignaz Doisneau:</b> Alchemist, bekannt für seine Fähigkeiten.</td><td width="300"><img src="ignaz.png" alt="" /></td></tr>-->
-                        <tr><td><b>Julianne:</b> Tavernenbesitzerin in Frelia, bekannt für ihre alkoholischen Mischgetränke.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
-                        <tr><td><b>Theodoric:</b> Chef der Magierpolizei in Hal.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
+                        <!--<tr><td><b>Julianne:</b> Tavernenbesitzerin in Frelia, bekannt für ihre alkoholischen Mischgetränke.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>-->
+                        <!--<tr><td><b>Theodoric:</b> Chef der Magierpolizei in Hal.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>-->
                         <!--<tr><td><b>Lavande Violette:</b> Bibliothekarin, bewahrt Wissen in Hal auf.</td><td width="300"><img src="lavande.png" alt="" /></td></tr>-->
                         <tr><td><b>Linet:</b> Fahrende Händlerin, reist durch Faergria und verkauft Waren, wird oft beklaut.</td><td width="300"><img src="linet.png" alt="" /></td></tr>
                         </table>
