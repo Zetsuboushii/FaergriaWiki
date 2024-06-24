@@ -14,7 +14,7 @@
                 <tr><td><b>En-Troad:</b> Heiliger Krieger; Recke der Göttin Justicia.</td><td><img src="en_troad.png" alt="" /></td></tr>
                 <tr><td><b>Il-Vernia:</b> Lichtbringende Botin; Reckin der Göttin Justicia.</td><td><img src="il_vernia.png" alt="" /></td></tr>
                 <tr><td><b>O-Gall:</b> Himmlische Bestrafung; Recke der Göttin Justicia.</td><td><img src="o_gall.png" alt="" /></td></tr>
-                <tr><td><b>U-Ranos:</b> Unbeugsame Gerechtigkeit; Recke der Göttin Justicia.</td><td><img src="true-ranos.png" alt="" /></td></tr>
+                <!--<tr><td><b>U-Ranos:</b> Unbeugsame Gerechtigkeit; Recke der Göttin Justicia.</td><td><img src="true-ranos.png" alt="" /></td></tr>-->
                 </table>
             </tab>
             <tab title="Gebirge der Sünde">
