@@ -14,4 +14,8 @@
         <description>Created after removal of "Starter" from Faergria Wiki</description>
         <accepts>starter.html</accepts>
     </rule>
+    <rule id="1b693d7e">
+        <description>Created after removal of "Empty MD Topic" from Faergria Wiki</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>

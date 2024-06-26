@@ -41,15 +41,15 @@
                 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
                 <tr><td><b>Farone:</b> Göttin der Natur und der Magie.</td><td><img src="farone.png" alt="" /></td></tr>
                 <tr><td><b>Finnea:</b> Ur-Magierin und Hüterin der Manaflamme; Reckin der Göttin Farone.</td><td><img src="finnea.png" alt="" /></td></tr>
-                <tr><td><b>Adamar:</b> Magier der Mana-Flamme, Rechte Hand der Ur-Magierin Finnea; Reckin der Göttin Farone.</td><td><img src="" alt="" /></td></tr>
-                <tr><td><b>Phaerille:</b> Klerikerin der Mana-Flamme, Linke Hand der Ur-Magierin Finnea; Reckin der Göttin Farone.</td><td><img src="" alt="" /></td></tr>
+                <!--<tr><td><b>Adamar:</b> Magier der Mana-Flamme, Rechte Hand der Ur-Magierin Finnea; Reckin der Göttin Farone.</td><td><img src="adamar.png" alt="" /></td></tr>-->
+                <!--<tr><td><b>Phaerille:</b> Klerikerin der Mana-Flamme, Linke Hand der Ur-Magierin Finnea; Reckin der Göttin Farone.</td><td><img src="phaerille.png" alt="" /></td></tr>-->
                 </table>
             </tab>
             <tab title="Ofen der Seelen">
                 Diese aschenen Lande galten Geburtsort vielzahliger Seelen. 
                 <table>
                 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-                <tr><td><b>???:</b> Gott der Seelen.</td><td><img src="" alt="" /></td></tr>
+                <!--<tr><td><b>Alcuin:</b> Gott der Seelen.</td><td><img src="alcuin.png" alt="" /></td></tr>-->
                 </table>
             </tab>
         </tabs>
@@ -146,8 +146,8 @@
                         <table>
                         <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
                         <tr><td><b>Finnea:</b> Ur-Magierin und Hüterin der Manaflamme; Fürstin von Farodris.</td><td><img src="finnea.png" alt="" /></td></tr>
-                        <tr><td><b>Adamar:</b> Magier der Mana-Flamme, Rechte Hand der Ur-Magierin Finnea.</td><td><img src="" alt="" /></td></tr>
-                        <tr><td><b>Phaerille:</b> Klerikerin der Mana-Flamme, Linke Hand der Ur-Magierin Finnea.</td><td><img src="" alt="" /></td></tr>
+                        <!--<tr><td><b>Adamar:</b> Magier der Mana-Flamme, Rechte Hand der Ur-Magierin Finnea.</td><td><img src="adamar.png" alt="" /></td></tr>-->
+                        <!--<tr><td><b>Phaerille:</b> Klerikerin der Mana-Flamme, Linke Hand der Ur-Magierin Finnea.</td><td><img src="phaerille.png" alt="" /></td></tr>-->
                         <tr><td><b>Malon Trabalar:</b></td><td width="300"><img src="malon.png" alt="" /></td></tr>
                         <tr><td><b>Eliyen Triszorwyn:</b></td><td width="300"><img src="eliyen.png" alt="" /></td></tr>
                         </table>
@@ -205,7 +205,7 @@
                     <tab title="Darnax">
                         <table>
                         <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-                        <tr><td><b>Prof. Trans. Wulvarax Suskinox:</b> Professor für Transmutationsmagie.</td><td width="300"></td></tr>
+                        <tr><td><b>Prof. Trans. Wulvarax Suskinox:</b> Professor für Transmutationsmagie.</td><td width="300"><img src="suskinox.png" alt="" /></td></tr>
                         <tr><td><b>Kafyire Deh:</b> Schülerin von Prof. Trans. Wulvarax Suskinox.</td><td width="300"><img src="deh.png" alt="" /></td></tr>
                         <tr><td><b>Margrax Thithrazk:</b> Ehemaliger Lehrmeister von Prof. Trans. Wulvarax Suskinox.</td><td width="300"><img src="thithrazk.png" alt="" /></td></tr>
                         </table>
