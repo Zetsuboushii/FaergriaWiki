@@ -34,7 +34,7 @@
 <tr><td>Schweif</td><td>Melee, +12 Hit, 15ft.</td><td>2d8+6 bludgeoning</td></tr>
 </table>
 
-
+<!--
 <h3>Eisiger Herrscher der Wildnis Boreanos, Peiniger der Schneelande</h3>
 <img src="boreanos.png" alt=""/>
 <table>
@@ -61,8 +61,9 @@
 <tr><td>Action</td><td>Description</td><td>Damage</td></tr>
 <tr><td> </td><td> </td><td> </td></tr>
 </table>
+-->
 
-
+<!--
 <h3>Steinernes Donnerungetüm Elektrabrax, Peiniger des Biltzaltars</h3>
 <img src="elektrabrax.png" alt=""/>
 <table>
@@ -89,8 +90,9 @@
 <tr><td>Action</td><td>Description</td><td>Damage</td></tr>
 <tr><td> </td><td> </td><td> </td></tr>
 </table>
+-->
 
-
+<!--
 <h3>Tyrann der Lüfte Faergrias Grawafyr, Peiniger des Palasts des Windes</h3>
 <img src="grawafyr.png" alt=""/>
 <table>
@@ -117,8 +119,9 @@
 <tr><td>Action</td><td>Description</td><td>Damage</td></tr>
 <tr><td> </td><td> </td><td> </td></tr>
 </table>
+-->
 
-
+<!--
 <h3>Grausamer Meeresleviathan Abyssor, Peiniger des Quellheiligtums</h3>
 <img src="abyssor.png" alt=""/>
 <table>
@@ -145,6 +148,7 @@
 <tr><td>Action</td><td>Description</td><td>Damage</td></tr>
 <tr><td> </td><td> </td><td> </td></tr>
 </table>
+-->
 
 
 <h3>Sühneklinge, Verfluchte Seele der Ewigen Rache</h3>
@@ -180,7 +184,7 @@
 <tr><td>Umklammerung der Toten</td><td>Melee, Reach 10 ft.</td><td>+7 to hit</td><td>2d6+4 bludgeoning, restrain</td></tr>
 </table>
 
-
+<!--
 <h3>Tetravora, Vierköpfiges Schreckensranken-Nachtschattengestrüpp</h3>
 <img src="tetravora.png" alt=""/>
 <table>
@@ -207,6 +211,7 @@
 <tr><td>Action</td><td>Description</td><td>Damage</td></tr>
 <tr><td> </td><td> </td><td> </td></tr>
 </table>
+-->
 
 
 <h3>Hadubrand, Diakon des Falschen Glaubens</h3>
