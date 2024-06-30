@@ -7,7 +7,11 @@
                  start-page="Homepage.md">
 
     <toc-element topic="Homepage.md"/>
-    <toc-element topic="Characters.md"/>
+    <toc-element topic="Characters.md">
+        <toc-element topic="Animus.md"/>
+        <toc-element topic="Faergria.md"/>
+        <toc-element topic="Tenebris.md"/>
+    </toc-element>
     <toc-element topic="Equipment.md"/>
     <toc-element topic="Magic.md"/>
     <toc-element topic="Currency.md"/>
