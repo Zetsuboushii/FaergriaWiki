@@ -8,9 +8,27 @@
 
     <toc-element topic="Homepage.md"/>
     <toc-element topic="Characters.md">
-        <toc-element topic="Animus.md"/>
-        <toc-element topic="Faergria.md"/>
-        <toc-element topic="Tenebris.md"/>
+        <toc-element topic="Animus.md">
+            <toc-element topic="CourtOfJustice.md"/>
+            <toc-element topic="SeaOfFate.md"/>
+            <toc-element topic="MountainsOfSin.md"/>
+            <toc-element topic="GardenOfMagic.md"/>
+            <toc-element topic="KilnOfSouls.md"/>
+        </toc-element>
+        <toc-element topic="Faergria.md">
+            <toc-element topic="Adrestia.md"/>
+            <toc-element topic="Escrigria.md"/>
+            <toc-element topic="Farodris.md"/>
+            <toc-element topic="Hal.md"/>
+            <toc-element topic="Hydracion.md"/>
+            <toc-element topic="Inidal.md"/>
+            <toc-element topic="Kluirm.md"/>
+            <toc-element topic="Thaugrien.md"/>
+            <toc-element topic="Tinorland.md"/>
+        </toc-element>
+        <toc-element topic="Tenebris.md">
+            <toc-element topic="Markath.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Equipment.md"/>
     <toc-element topic="Magic.md"/>

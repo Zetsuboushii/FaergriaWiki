@@ -18,4 +18,8 @@
         <description>Created after removal of "Empty MD Topic" from Faergria Wiki</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="4389fe9f">
+        <description>Created after removal of "Undraridor" from Faergria Wiki</description>
+        <accepts>Undraridor.html</accepts>
+    </rule>
 </rules>
