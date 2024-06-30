@@ -251,7 +251,7 @@
                         <tr><td><b>Johann Berg:</b> Ritter der Stadtwache in Grenbrock.</td><td width="300"><img src="johann.png" alt="" /></td></tr>
                         <tr><td><b>Diakon Hadubrand:</b></td><td width="300"></td></tr>
                         <tr><td><b>Arvel:</b> Ehemaliger Meisterdieb, tot.</td><td width="300"></td></tr>
-                        <tr><td><b>Valerius:</b> Assasine und Bruder von Arvel.</td><td width="300"><img src="valerius.png" alt="" /></td></tr>
+                        <tr><td><b>Valerius:</b> Silberner Pfeil; Bruder von Arvel und Früherer Assasine der Diebesgilde.</td><td width="300"><img src="valerius.png" alt="" /></td></tr>
                         <tr><td><b>Sivert:</b> Anführer des Diebeslagers in Grenbrock.</td><td width="300"><img src="sivert.png" alt="" /></td></tr>
                         <tr><td><b>Thorismund:</b> Nekromant, tot.</td><td width="300"><img src="thorismund.png" alt="" /></td></tr>
                         <tr><td><b>Zetta:</b> Amnestische Diebin; ehem. Nonne; verliebt in Arvel.</td><td width="300"><img src="zetta.png" alt="" /></td></tr>
