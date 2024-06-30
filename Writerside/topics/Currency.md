@@ -3,7 +3,7 @@
 Herausgegangen aus der Entwicklung von Glis im Jahr 12n.V. eingeführt, ist Florin ein Sinnbild für den Zusammenhalt
 in Faergria. Überall universell zum Handeln verwendbar, erweist sich Florin als stabile Währung.
 
-## Wechselkurs
+## Wechselkurs {collapsible="true" default-state="expanded"}
 
 | Münzen                 | P           | G        | ***S*** | K         |
 |------------------------|-------------|----------|---------|-----------|
@@ -12,7 +12,7 @@ in Faergria. Überall universell zum Handeln verwendbar, erweist sich Florin als
 | ***Silberflorin (S)*** | 1/10.000    | 1/100    | ***1*** | 100       |
 | Kupferflorin (K)       | 1/1.000.000 | 1/10.000 | 1/100   | **1**     |
 
-## Lebenserhaltungskosten
+## Lebenserhaltungskosten {collapsible="true" default-state="expanded"}
 
 | Standard    | Ausgaben + Thesaurierung |
 |-------------|--------------------------|
@@ -24,7 +24,7 @@ in Faergria. Überall universell zum Handeln verwendbar, erweist sich Florin als
 
 Durchschnittsgehalt: 2250 Silberflorin
 
-## Beispielhafte Preise für alltägliche Güter in Faergria
+## Beispielhafte Preise für alltägliche Güter in Faergria {collapsible="true" default-state="expanded"}
 
 | Artikel               | Preis    |
 |-----------------------|----------|

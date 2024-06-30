@@ -6,6 +6,6 @@ In diesen Gefilden herrscht die Göttin Fortuna. Auf der stillen Wasserebene lä
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<tr><td><b>Fortuna:</b> Göttin des Schicksals.</td><td><img src="fortuna.png" alt="" /></td></tr>
-<!--<tr><td><b>Meilira:</b> Schicksalsklinge; Reckin der Göttin Fortuna.</td><td><img src="meilira.png" alt="" /></td></tr>-->
+<tr><td><h4>Fortuna</h4> Göttin des Schicksals.</td><td><img src="fortuna.png" alt="" /></td></tr>
+<!--<tr><td><h4>Meilira</h4> Schicksalsklinge; Reckin der Göttin Fortuna.</td><td><img src="meilira.png" alt="" /></td></tr>-->
 </table>

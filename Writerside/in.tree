@@ -16,23 +16,76 @@
             <toc-element topic="KilnOfSouls.md"/>
         </toc-element>
         <toc-element topic="Faergria.md">
-            <toc-element topic="Adrestia.md"/>
-            <toc-element topic="Escrigria.md"/>
-            <toc-element topic="Farodris.md"/>
-            <toc-element topic="Hal.md"/>
-            <toc-element topic="Hydracion.md"/>
-            <toc-element topic="Inidal.md"/>
-            <toc-element topic="Kluirm.md"/>
-            <toc-element topic="Thaugrien.md"/>
-            <toc-element topic="Tinorland.md"/>
+            <toc-element topic="Adrestia.md">
+                <toc-element topic="Aegir.md"/>
+                <toc-element topic="Firene.md"/>
+                <toc-element topic="Niddarvellir.md"/>
+                <toc-element topic="Orrin.md"/>
+            </toc-element>
+            <toc-element topic="Escrigria.md">
+                <toc-element topic="Nordholm.md"/>
+                <toc-element topic="Krofenheim.md"/>
+                <toc-element topic="Schachendorf.md"/>
+            </toc-element>
+            <toc-element topic="Farodris.md">
+                <toc-element topic="Yerenas.md"/>
+                <toc-element topic="Teryvnat.md"/>
+            </toc-element>
+            <toc-element topic="Hal.md">
+                <toc-element topic="Frelia.md"/>
+                <toc-element topic="Elpis.md"/>
+                <toc-element topic="Lycia.md"/>
+            </toc-element>
+            <toc-element topic="Hydracion.md">
+                <toc-element topic="Darnax.md"/>
+            </toc-element>
+            <toc-element topic="Inidal.md">
+                <toc-element topic="Alt-Aegir.md">
+                </toc-element>
+                <toc-element topic="Larudia.md"/>
+            </toc-element>
+            <toc-element topic="Kluirm.md">
+                <toc-element topic="Garadzar.md"/>
+            </toc-element>
+            <toc-element topic="Thaugrien.md">
+                <toc-element topic="Grenbrock.md"/>
+                <toc-element topic="Duensberg.md"/>
+                <toc-element topic="Lauburg.md"/>
+                <toc-element topic="Tarporbach.md"/>
+                <toc-element topic="Tellius.md"/>
+            </toc-element>
+            <toc-element topic="Tinorland.md">
+                <toc-element topic="Tinorke.md"/>
+                <toc-element topic="Brodia.md"/>
+                <toc-element topic="Daein.md"/>
+                <toc-element topic="Nifl.md"/>
+            </toc-element>
         </toc-element>
         <toc-element topic="Tenebris.md">
-            <toc-element topic="Markath.md"/>
+            <toc-element topic="Markath.md">
+                <toc-element topic="Llurthargothr.md"/>
+                <toc-element topic="Undraridor.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
-    <toc-element topic="Equipment.md"/>
-    <toc-element topic="Magic.md"/>
+    <toc-element topic="Equipment.md">
+        <toc-element topic="Weapons.md"/>
+        <toc-element topic="Spellcasting.md"/>
+        <toc-element topic="Defense.md"/>
+    </toc-element>
+    <toc-element topic="Magic.md">
+        <toc-element topic="Spells.md">
+        </toc-element>
+        <toc-element topic="Channelings.md"/>
+        <toc-element topic="Incantations.md"/>
+        <toc-element topic="Curses.md"/>
+    </toc-element>
     <toc-element topic="Currency.md"/>
     <toc-element topic="Alchemy.md"/>
-    <toc-element topic="Beastiary.md"/>
+    <toc-element topic="Beastiary.md">
+        <toc-element topic="Bosses.md"/>
+        <toc-element topic="Enemies.md">
+            <toc-element topic="Undead.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>

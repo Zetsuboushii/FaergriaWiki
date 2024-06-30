@@ -1,6 +1,6 @@
 # Alchemie
 
-## Alchemieklassen
+## Alchemieklassen {collapsible="true" default-state="expanded"}
 
 Ein Alchemist gehört je nach Erfahrung in jeweiligen Gebieten einem Alchemistenrang an. Einem Rang erreicht, können
 Alchemisten neue Rezepte kreieren, Rezepte erlernen und Rezepte umsetzen.
@@ -51,7 +51,7 @@ hat das Ziel jedoch noch die Chance den Rettungswurf zu bestehen.
 </tab>
 </tabs>
 
-## Zutaten
+## Zutaten {collapsible="true" default-state="expanded"}
 
 | Name               | Art     | Orte             | Preis p.P. |
 |--------------------|---------|------------------|------------|
@@ -61,7 +61,7 @@ hat das Ziel jedoch noch die Chance den Rettungswurf zu bestehen.
 | Höhlenglühwürmchen | Tier    | Höhlen           |            |
 | Tugsdaleit         |         |                  |            |
 
-## Beschaffen und Sammeln von Zutaten
+## Beschaffen und Sammeln von Zutaten {collapsible="true" default-state="expanded"}
 
 <tabs>
 <tab title="Beschaffen">

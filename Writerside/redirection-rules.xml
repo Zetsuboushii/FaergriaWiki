@@ -22,4 +22,20 @@
         <description>Created after removal of "Undraridor" from Faergria Wiki</description>
         <accepts>Undraridor.html</accepts>
     </rule>
+    <rule id="536b1d8">
+        <description>Created after removal of "Waffen" from Faergria Wiki</description>
+        <accepts>Waffen.html</accepts>
+    </rule>
+    <rule id="4f3ae679">
+        <description>Created after removal of "Magiewirken" from Faergria Wiki</description>
+        <accepts>Magiewirken.html</accepts>
+    </rule>
+    <rule id="2df094aa">
+        <description>Created after removal of "Verteidigung" from Faergria Wiki</description>
+        <accepts>Verteidigung.html</accepts>
+    </rule>
+    <rule id="1bfeb7f">
+        <description>Created after removal of "Untote" from Faergria Wiki</description>
+        <accepts>Untote.html</accepts>
+    </rule>
 </rules>
