@@ -1,5 +1,25 @@
 # Monstrositäten
 
+## Glutling {collapsible="true" default-state="expanded"}
+
+<img src="glutling.png" alt="" width="400"/>
+
+| HP | AC | Move   |
+|----|----|--------|
+| 45 | 13 | 20 ft. |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+| +1  | +0  | +2  | -4  | +0  | -3  |
+
+| Typ          | Weakness | Resistances | Immunities |
+|--------------|----------|-------------|------------|
+| Monstrosität |          |             |            |
+
+| Action | Description        | Attack    | Damage            |
+|--------|--------------------|-----------|-------------------|
+| Stoß   | Melee, Reach 5 ft. | +3 to hit | 1d8+1 bludgeoning |
+
 ## Glutmaul {collapsible="true" default-state="expanded"}
 
 <img src="glutmaul.png" alt="" width="400"/>
@@ -24,27 +44,6 @@
 |--------|---------------------|---------------------------|
 | Biss   | Melee, +7 Hit, 5ft. | 2d6+4 piercing + 1d6 fire |
 | Klauen | Melee, +7 Hit, 5ft. | 1d8+4 slashing            |
-
-## Glutling {collapsible="true" default-state="expanded"}
-
-<img src="glutling.png" alt="" width="400"/>
-
-| HP | AC | Move   |
-|----|----|--------|
-| 45 | 13 | 20 ft. |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-| +1  | +0  | +2  | -4  | +0  | -3  |
-
-| Typ          | Weakness | Resistances | Immunities |
-|--------------|----------|-------------|------------|
-| Monstrosität |          |             |            |
-
-| Action | Description        | Attack    | Damage            |
-|--------|--------------------|-----------|-------------------|
-| Stoß   | Melee, Reach 5 ft. | +3 to hit | 1d8+1 bludgeoning |
-
 
 ## Fingerkrabbler {collapsible="true" default-state="expanded"}
 
@@ -72,7 +71,6 @@
 | Würgegriff   | Melee, Reach 5 ft., ein Ziel                                       | +6 to hit | 1d4+4 bludgeoning, grapple |
 | Psycho-Schub | Ranged Spell Attack, 60 ft.                                        | +5 to hit | 1d8+3 psychic              |
 | Schleppen    | Wenn grapple erfolgreich, kann Ziel um bis zu 10 ft. verschleppen. |           |                            |
-
 
 ## Mimic {collapsible="true" default-state="expanded"}
 

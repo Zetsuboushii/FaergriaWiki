@@ -25,31 +25,6 @@
 |--------|--------------------|-----------|-------------------|
 | Rammen | Melee, Reach 5 ft. | +6 to hit | 2d8+4 bludgeoning |
 
-## Zunderflügler {collapsible="true" default-state="expanded"}
-
-<img src="zunderfluegler.png" alt="" width="400"/>
-
-| HP | AC | Move               |
-|----|----|--------------------|
-| 22 | 14 | 10 ft., fly 60 ft. |
-
-| Str     | Dex    | Con    | Int     | Wis    | Cha     |
-|---------|--------|--------|---------|--------|---------|
-| -1 (-5) | 4 (+4) | 1 (+1) | -4 (-5) | 0 (+0) | -1 (-2) |
-
-| Typ       | Weakness | Resistances                                             | Immunities      |
-|-----------|----------|---------------------------------------------------------|-----------------|
-| Elementar | Wasser   | Bludgeoning, Piercing, Slashing from Nonmagical Attacks | Fire, Exhausted |
-
-| Ability         | Description                                                                        |
-|-----------------|------------------------------------------------------------------------------------|
-| Flammenkörper   | Move through fire without damage; contact deals 1d4 fire damage                    |
-| Licht der Asche | Emits bright light in 10-ft radius when hit, potentially blinding nearby creatures |
-
-| Action    | Description        | Attack    | Damage                    |
-|-----------|--------------------|-----------|---------------------------|
-| Feuerbiss | Melee, Reach 5 ft. | +4 to hit | 1d4+4 piercing + 1d6 fire |
-
 ## Flammentänzerin {collapsible="true" default-state="expanded"}
 
 <img src="flammentaenzerin.png" alt="" width="400"/>
@@ -74,3 +49,28 @@
 | Action         | Description         | Attack    | Damage             | Additional Effect                                                                                   |
 |----------------|---------------------|-----------|--------------------|-----------------------------------------------------------------------------------------------------|
 | Flammenklingen | Melee, Reach 10 ft. | +8 to hit | 2d10+4 fire damage | Target catches on fire, taking 2d6 fire damage at the start of each of its turns until extinguished |
+
+## Zunderflügler {collapsible="true" default-state="expanded"}
+
+<img src="zunderfluegler.png" alt="" width="400"/>
+
+| HP | AC | Move               |
+|----|----|--------------------|
+| 22 | 14 | 10 ft., fly 60 ft. |
+
+| Str     | Dex    | Con    | Int     | Wis    | Cha     |
+|---------|--------|--------|---------|--------|---------|
+| -1 (-5) | 4 (+4) | 1 (+1) | -4 (-5) | 0 (+0) | -1 (-2) |
+
+| Typ       | Weakness | Resistances                                             | Immunities      |
+|-----------|----------|---------------------------------------------------------|-----------------|
+| Elementar | Wasser   | Bludgeoning, Piercing, Slashing from Nonmagical Attacks | Fire, Exhausted |
+
+| Ability         | Description                                                                        |
+|-----------------|------------------------------------------------------------------------------------|
+| Flammenkörper   | Move through fire without damage; contact deals 1d4 fire damage                    |
+| Licht der Asche | Emits bright light in 10-ft radius when hit, potentially blinding nearby creatures |
+
+| Action    | Description        | Attack    | Damage                    |
+|-----------|--------------------|-----------|---------------------------|
+| Feuerbiss | Melee, Reach 5 ft. | +4 to hit | 1d4+4 piercing + 1d6 fire |
