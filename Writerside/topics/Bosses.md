@@ -1,5 +1,7 @@
 # Bossgegner
 
+Bossgegner sind enorm starke, einzigartige Gegner.
+
 ## Antiker Aschefürst Pyrothraxus, Peiniger des Feuersanktuariums {collapsible="true" default-state="expanded"}
 <img src="pyrothraxus.png" alt=""/>
 <table>
