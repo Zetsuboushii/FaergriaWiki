@@ -1,23 +1,10 @@
 # Animus
 
-Animus ist die Elementarebene der Götter der Welt.
-
-## Hof der Gerechtigkeit {collapsible="true" default-state="expanded"}
-
-<a href="CourtOfJustice.md"><img src="courtofjustice.png" alt="" style="block"/></a>
-
-## See des Schicksals {collapsible="true" default-state="expanded"}
-
-<a href="SeaOfFate.md"><img src="seaoffate.png" alt="" style="block"/></a>
-
-## Gebirge der Sünde {collapsible="true" default-state="expanded"}
-
-<a href="MountainsOfSin.md"><img src="mountainsofsin.png" alt="" style="block"/></a>
-
-## Garten der Magie {collapsible="true" default-state="expanded"}
-
-<a href="GardenOfMagic.md">Garten der Magie</a>
-
-## Ofen der Seelen {collapsible="true" default-state="expanded"}
-
+<p>
+Animus ist die Elementarebene der Götter der Welt. Sie ist unterteilt in den
+<a href="CourtOfJustice.md">Hof der Gerechtigkeit</a>, das Reich Justicias, der
+<a href="SeaOfFate.md">See des Schicksals</a>, das Reich Fortunas, das
+<a href="MountainsOfSin.md">Gebirge der Sünde</a>, das Reich Thanatos', der
+<a href="GardenOfMagic.md">Garten der Magie</a>, das Reich Farones, und der
 <a href="KilnOfSouls.md">Ofen der Seelen</a>
+</p>

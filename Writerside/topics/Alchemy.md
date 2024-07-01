@@ -2,13 +2,17 @@
 
 ## Alchemieklassen {collapsible="true" default-state="expanded"}
 
+<p>
 Ein Alchemist gehört je nach Erfahrung in jeweiligen Gebieten einem Alchemistenrang an. Einem Rang erreicht, können
 Alchemisten neue Rezepte kreieren, Rezepte erlernen und Rezepte umsetzen.
-
-Das Herstellen von Tränken erfolgt üblicherweise an Alchemiestationen un benötigen eine gewisse Anzahl an Tagen, bis
-sich die Wirkung der Tränke entfaltet. Pro Alchemiestation können 3 unterschiedliche Tränke gleichzeitig
-hergestelltwerden. Wird zur Herstellung ein Kessel verwendet, kann zwar nur eine Tranksorte gleichzeitig hergestellt
-werden, dann jedoch auch eine Menge äquivalent zu 5 Portionen. Zum Brauen wird als Basis sauberes Wasser benötigt.
+</p>
+<p>
+Das Herstellen von <a href="Potions.md">Tränken</a> und <a href="Poisons.md">Giften</a> erfolgt üblicherweise an
+Alchemiestationen un benötigen eine gewisse Anzahl an Tagen, bis sich die Wirkung der Tränke entfaltet. Pro
+Alchemiestation können 3 unterschiedliche Tränke gleichzeitig hergestelltwerden. Wird zur Herstellung ein Kessel
+verwendet, kann zwar nur eine Tranksorte gleichzeitig hergestellt werden, dann jedoch auch eine Menge äquivalent zu
+5 Portionen. Zum Brauen wird als Basis sauberes Wasser benötigt.
+</p>
 
 | Bezeichnung  | Kürzel | Alchemistenrang | Entdeckungszeit (w) | Studienzeit (d) | Herstellungszeit (d) |
 |--------------|--------|-----------------|---------------------|-----------------|----------------------|
@@ -17,39 +21,6 @@ werden, dann jedoch auch eine Menge äquivalent zu 5 Portionen. Zum Brauen wird 
 | Selten       | S      | C               | 5                   | 9               | 2                    |
 | Sehr selten  | SS     | B               | 12,5                | 22              | 5                    |
 | Legendär     | K      | A               | 25                  | 44              | 10                   |
-
-<tabs>
-<tab title="Tränke, Elixire, Tinkturen und Öle">
-<table>
-<tr><td>Bezeichnung</td><td>Klasse</td><td>Effekt</td><td>Preis</td><td>Materialien (Portion)</td></tr>
-<tr><td>Heiltrank</td><td>G</td><td>2d4+2</td><td>350S</td><td>Goblinherz, Faergriagras</td></tr>
-<tr><td>Großer Heiltrank</td><td>U</td><td>4d4+4</td><td>1.050S</td><td> </td></tr>
-<tr><td>Überlegener Heiltrank</td><td>S</td><td>8d4+8</td><td>3.150S</td><td> </td></tr>
-<tr><td>Ultimativer Heiltrank</td><td>SS</td><td>10d4+20</td><td>10.000S</td><td> </td></tr>
-<tr><td>Gegengift</td><td>G</td><td>Adv. auf ST</td><td>200S</td><td>Purpurhut</td></tr>
-<tr><td>Leuchttinktur</td><td>U</td><td>Leuchten für 1h</td><td>410S</td><td>Höhlenglühwürmchen</td></tr>
-</table>
-</tab>
-<tab title="Gifte">
-Wird ein Ziel mit einem Angriff des Typs Gift getroffen, so muss dieses einen Weisheitsrettungswurf bestehen,
-ansonsten ist es bis zu 5 Runden lang vergiftet und erleidet am Start des Zuges jenen gewürfelten Giftschaden. Davor
-hat das Ziel jedoch noch die Chance den Rettungswurf zu bestehen.
-
-<table>
-<tr><td>Bezeichnung</td><td>Klasse</td><td>Art</td><td>Effekt</td><td>Preis</td><td>Materialien (Portion)</td></tr>
-<tr><td>Schlangengift</td><td>G</td><td>Wunde</td><td>(15) 3d6 poison</td><td>500S</td><td>Schlangenextrakt</td></tr>
-<tr><td>Dunkelliliengift</td><td>U</td><td>Verdaut</td><td>(15) 4d6 poison</td><td>600S</td><td> </td></tr>
-<tr><td>Ätheressenz</td><td>S</td><td>Inhaliert</td><td>(15) bewusstlos 8h</td><td>800S</td><td> </td></tr>
-<tr><td>Assassinentinte</td><td>U</td><td>Wunde</td><td>(17) blind 3R, 3d6 poison</td><td>1000S</td><td> </td></tr>
-<tr><td>Schwacher Wahnsinn</td><td>S</td><td>Wunde</td><td>(16) falsches Feindbild 3R, 2d6 psychic</td><td>2000S</td><td> </td></tr>
-<tr><td>Reißender Wahnsinn</td><td>S</td><td>Wunde</td><td>(18) falsches Feindbild 5R, 4d6 psychic</td><td>3000S</td><td> </td></tr>
-<tr><td>Anti-Mana</td><td>S</td><td>Wunde</td><td>(17) -1 höchster Spellslot</td><td>5000S</td><td> </td></tr>
-<tr><td>Instantane Verrottung</td><td>S</td><td>Haut</td><td>(17) 4d6 necrotic</td><td>1000S</td><td> </td></tr>
-<tr><td>Staub des Niesens</td><td>S</td><td>Inhaliert</td><td>(17)</td><td> </td><td> </td></tr>
-<tr><td>Staub des Erstickens</td><td>S</td><td>Inhaliert</td><td>(17)</td><td> </td><td> </td></tr>
-</table>
-</tab>
-</tabs>
 
 ## Zutaten {collapsible="true" default-state="expanded"}
 
