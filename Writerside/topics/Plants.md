@@ -2,7 +2,7 @@
 
 ## Baummann {collapsible="true" default-state="expanded"}
 
-<img src="" alt="" width="400"/>
+<img src="" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -30,7 +30,7 @@
 
 ## Sanguiflora {collapsible="true" default-state="expanded"}
 
-<img src="sanguiflora.png" alt="" width="400"/>
+<img src="sanguiflora.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -57,7 +57,7 @@
 
 ## Schlundgrün {collapsible="true" default-state="expanded"}
 
-<img src="schlundgruen.png" alt="" width="400"/>
+<img src="schlundgruen.png" alt="" height="400"/>
 
 | HP | AC | Move  |
 |----|----|-------|
@@ -82,7 +82,7 @@
 
 ## Wandelgrün {collapsible="true" default-state="expanded"}
 
-<img src="wandelgruen.png" alt="" width="400"/>
+<img src="wandelgruen.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -106,3 +106,27 @@
 | Verschlingen  | Melee, Reach 5 ft., ein Ziel                 | +4 to hit    | 2d8+2 piercing plus 1d4 Säure bei Beginn jedes Zuges des Opfers im Griff |
 | Giftsporen    | 15 ft. Radius um sich selbst, einmal pro Tag | Kein Angriff | Constitution DC 14 oder vergiftet für 1d6 Runden                         |
 | Schnappsprung | Melee, Reach 10 ft., ein Ziel                | +3 to hit    | 1d6+2 slashing                                                           |
+
+## Winselnder Hibiskus {collapsible="true" default-state="expanded"}
+
+<img src="winselnder_hibiskus.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |

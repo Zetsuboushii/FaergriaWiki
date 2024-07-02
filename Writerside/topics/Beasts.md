@@ -2,7 +2,7 @@
 
 ## Abwassernager {collapsible="true" default-state="expanded"}
 
-<img src="abwassernager.png" alt="" width="400"/>
+<img src="abwassernager.png" alt="" height="400"/>
 
 | HP | AC | Move   | Str | Dex | Con | Int | Wis | Cha |
 |----|----|--------|-----|-----|-----|-----|-----|-----|
@@ -23,7 +23,7 @@
 
 ## Arachnia {collapsible="true" default-state="expanded"}
 
-<img src="arachnia.png" alt="" width="400"/>
+<img src="arachnia.png" alt="" height="400"/>
 
 | HP | AC | Move                 |
 |----|----|----------------------|
@@ -49,7 +49,7 @@
 
 ## Bestienkrieger {collapsible="true" default-state="expanded"}
 
-<img src="bestienkrieger.png" alt="" width="400"/>
+<img src="bestienkrieger.png" alt="" height="400"/>
 
 | HP  | AC | Move   |
 |-----|----|--------|
@@ -76,7 +76,7 @@
 
 ## Bohrschnabel {collapsible="true" default-state="expanded"}
 
-<img src="bohrschnabel.png" alt="" width="400"/>
+<img src="bohrschnabel.png" alt="" height="400"/>
 
 | HP | AC | Move               |
 |----|----|--------------------|
@@ -101,9 +101,33 @@
 | Klauenattacke | Melee, Reach 5 ft., ein Ziel                                          | +5 to hit | 1d4+3 slashing |
 | Sturzflug     | Während des Fluges, +2 to hit, doppelter Schaden auf nächsten Angriff |           |                |
 
+## Grauer Wolf {collapsible="true" default-state="expanded"}
+
+<img src="grauer_wolf.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Prellkäfer {collapsible="true" default-state="expanded"}
 
-<img src="prellkaefer.png" alt="" width="400"/>
+<img src="prellkaefer.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -127,9 +151,33 @@
 | Kopfstoß    | Melee, Reach 5 ft., ein Ziel.          | +5 to hit | 1d6+2 bludgeoning |
 | Volle Ramme | Nur nach Sturmlauf, automatischer Hit. |           | 2d6+2 bludgeoning |
 
+## Riesenflügler {collapsible="true" default-state="expanded"}
+
+<img src="riesenfluegler.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Terraambush {collapsible="true" default-state="expanded"}
 
-<img src="terraambush.png" alt="" width="400"/>
+<img src="terraambush.png" alt="" height="400"/>
 
 | HP | AC | Move                        |
 |----|----|-----------------------------|
@@ -154,7 +202,7 @@
 
 ## Voltfaden {collapsible="true" default-state="expanded"}
 
-<img src="voltfaden.png" alt="" width="400"/>
+<img src="voltfaden.png" alt="" height="400"/>
 
 | HP | AC | Move        | Str | Dex | Con | Int | Wis | Cha |
 |----|----|-------------|-----|-----|-----|-----|-----|-----|

@@ -2,7 +2,7 @@
 
 ## Detonaroc {collapsible="true" default-state="expanded"}
 
-<img src="detonaroc.png" alt="" width="400"/>
+<img src="detonaroc.png" alt="" height="400"/>
 
 | HP | AC | Move        |
 |----|----|-------------|
@@ -25,9 +25,57 @@
 |--------|--------------------|-----------|-------------------|
 | Rammen | Melee, Reach 5 ft. | +6 to hit | 2d8+4 bludgeoning |
 
+## Eisflügler {collapsible="true" default-state="expanded"}
+
+<img src="eisfluegler.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Eisgeist {collapsible="true" default-state="expanded"}
+
+<img src="eisgeist.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Flammentänzerin {collapsible="true" default-state="expanded"}
 
-<img src="flammentaenzerin.png" alt="" width="400"/>
+<img src="flammentaenzerin.png" alt="" height="400"/>
 
 | HP  | AC | Move   |
 |-----|----|--------|
@@ -50,9 +98,57 @@
 |----------------|---------------------|-----------|--------------------|-----------------------------------------------------------------------------------------------------|
 | Flammenklingen | Melee, Reach 10 ft. | +8 to hit | 2d10+4 fire damage | Target catches on fire, taking 2d6 fire damage at the start of each of its turns until extinguished |
 
+## Frostspeer {collapsible="true" default-state="expanded"}
+
+<img src="frostspeer.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Racheschnee {collapsible="true" default-state="expanded"}
+
+<img src="racheschnee.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Zunderflügler {collapsible="true" default-state="expanded"}
 
-<img src="zunderfluegler.png" alt="" width="400"/>
+<img src="zunderfluegler.png" alt="" height="400"/>
 
 | HP | AC | Move               |
 |----|----|--------------------|

@@ -2,7 +2,7 @@
 
 ## Fusée Gelée {collapsible="true" default-state="expanded"}
 
-<img src="rose_chu.png" alt="" width="400"/>
+<img src="rose_chu.png" alt="" height="400"/>
 
 | HP  | AC | Move   |
 |-----|----|--------|

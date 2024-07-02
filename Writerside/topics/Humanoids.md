@@ -1,8 +1,32 @@
 # Humanoide
 
+## Adrestianischer Reiter {collapsible="true" default-state="expanded"}
+
+<img src="adrestianischer_reiter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Adrestianischer Ritter {collapsible="true" default-state="expanded"}
 
-<img src="adrestianischer_ritter.png" alt="" width="400"/>
+<img src="adrestianischer_ritter.png" alt="" height="400"/>
 
 | HP  | AC | Move   |
 |-----|----|--------|
@@ -30,7 +54,7 @@
 
 ## Bandit {collapsible="true" default-state="expanded"}
 
-<img src="bandit.png" alt="" width="400"/>
+<img src="bandit.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -59,7 +83,7 @@
 
 ## Blutstahlritter {collapsible="true" default-state="expanded"}
 
-<img src="blutstahlritter.png" alt="" width="400"/>
+<img src="blutstahlritter.png" alt="" height="400"/>
 
 | HP  | AC | Move   |
 |-----|----|--------|
@@ -86,7 +110,7 @@
 
 ## Elfischer Bogenschütze {collapsible="true" default-state="expanded"}
 
-<img src="elven_archer.png" alt="" width="400"/>
+<img src="elfischer_bogenschuetze.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -111,9 +135,9 @@
 | Multischuss | Ranged, zwei Angriffe gegen ein oder zwei Ziele | +5 to hit | 1d8+3 piercing |
 | Notdolch    | Melee, Reach 5 ft., ein Ziel                    | +5 to hit | 2dd+5 slashing |
 
-## Elfischer Schwertkämpfer {collapsible="true" default-state="expanded"}
+## Elfischer Ritter {collapsible="true" default-state="expanded"}
 
-<img src="elven_swordfighter.png" alt="" width="400"/>
+<img src="elfischer_ritter.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -138,9 +162,57 @@
 | Präzisionsschlag | Ziel genau auswählen für erhöhten Schaden           | +6 to hit | 2d8+3 slashing |
 | Konterangriff    | Als Reaktion auf einen verfehlten Angriff gegen ihn | +6 to hit | 1d8+3 slashing |
 
+## Escrigrianischer Reiter {collapsible="true" default-state="expanded"}
+
+<img src="escrigrianischer_reiter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Escrigrianischer Ritter {collapsible="true" default-state="expanded"}
+
+<img src="escrigrianischer_ritter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Goblin {collapsible="true" default-state="expanded"}
 
-<img src="goblin.png" alt="" width="400"/>
+<img src="goblin.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -163,9 +235,33 @@
 |-------------|--------------------|-----------|-------------------|
 | Holzknüppel | Melee, Reach 5 ft. | +2 to hit | 1d6-1 bludgeoning |
 
+## Halorischer Ritter {collapsible="true" default-state="expanded"}
+
+<img src="halorischer_ritter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Kultist {collapsible="true" default-state="expanded"}
 
-<img src="kultist.png" alt="" width="400"/>
+<img src="kultist.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -190,9 +286,33 @@
 | Verderben       | Melee Spell Attack, Reach 5 ft.             | +2 to hit    | 1d8+3 necrotic                            |
 | Unheilsfluch    | Curse, 60 ft., Wiederladung nach Short Rest | Wisdom DC 14 | Ziel hat Disadvantage on next attack roll |
 
+## Schwarzklingenassassine {collapsible="true" default-state="expanded"}
+
+<img src="schwarzklingenassassine.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Stahlschuppe {collapsible="true" default-state="expanded"}
 
-<img src="stahlschuppe.png" alt="" width="400"/>
+<img src="stahlschuppe.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -214,3 +334,75 @@
 |---------------|---------------------|-----------|-------------------|
 | Hammerarm     | Melee, Reach 5 ft.  | +5 to hit | 1d8+3 bludgeoning |
 | Schwanzschlag | Melee, Reach 10 ft. | +4 to hit | 2d6+3 bludgeoning |
+
+## Thaugriner Reiter {collapsible="true" default-state="expanded"}
+
+<img src="thaugriner_reiter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Thaugriner Ritter {collapsible="true" default-state="expanded"}
+
+<img src="thaugriner_ritter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Tinorischer Ritter {collapsible="true" default-state="expanded"}
+
+<img src="tinorischer_ritter.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |

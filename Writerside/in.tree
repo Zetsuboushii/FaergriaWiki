@@ -88,13 +88,14 @@
     <toc-element topic="Beastiary.md">
         <toc-element topic="Bosses.md"/>
         <toc-element topic="Enemies.md">
-            <toc-element topic="Undead.md"/>
-            <toc-element topic="Monstrosities.md"/>
-            <toc-element topic="Elementary.md"/>
             <toc-element topic="Beasts.md"/>
-            <toc-element topic="Slimes.md"/>
+            <toc-element topic="Elementary.md"/>
             <toc-element topic="Humanoids.md"/>
+            <toc-element topic="Constructs.md"/>
+            <toc-element topic="Monstrosities.md"/>
             <toc-element topic="Plants.md"/>
+            <toc-element topic="Slimes.md"/>
+            <toc-element topic="Undead.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>

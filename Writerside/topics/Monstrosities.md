@@ -2,7 +2,7 @@
 
 ## Glutling {collapsible="true" default-state="expanded"}
 
-<img src="glutling.png" alt="" width="400"/>
+<img src="glutling.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -22,7 +22,7 @@
 
 ## Glutmaul {collapsible="true" default-state="expanded"}
 
-<img src="glutmaul.png" alt="" width="400"/>
+<img src="glutmaul.png" alt="" height="400"/>
 
 | HP  | AC | Move                |
 |-----|----|---------------------|
@@ -47,7 +47,7 @@
 
 ## Fingerkrabbler {collapsible="true" default-state="expanded"}
 
-<img src="fingerkrabbler.png" alt="" width="400"/>
+<img src="fingerkrabbler.png" alt="" height="400"/>
 
 | HP | AC | Move                 |
 |----|----|----------------------|
@@ -74,7 +74,7 @@
 
 ## Mimic {collapsible="true" default-state="expanded"}
 
-<img src="mimic.png" alt="" width="400"/>
+<img src="mimic.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -101,7 +101,7 @@
 
 ## Wurmgesicht {collapsible="true" default-state="expanded"}
 
-<img src="wurmgesicht.png" alt="" width="400"/>
+<img src="wurmgesicht.png" alt="" height="400"/>
 
 | HP | AC | Move   | Str | Dex | Con | Int | Wis | Cha | Typ          |
 |----|----|--------|-----|-----|-----|-----|-----|-----|--------------|

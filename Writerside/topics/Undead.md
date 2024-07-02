@@ -2,7 +2,7 @@
 
 ## Bandagenwandler {collapsible="true" default-state="expanded"}
 
-<img src="bandagenwandler.png" alt="" width="400"/>
+<img src="bandagenwandler.png" alt="" height="400"/>
 
 | HP  | AC | Move                                         | Str | Dex | Con | Int | Wis | Cha |
 |-----|----|----------------------------------------------|-----|-----|-----|-----|-----|-----|
@@ -26,7 +26,7 @@
 
 ## Flammenschädel {collapsible="true" default-state="expanded"}
 
-<img src="flammenschaedel.png" alt="" width="400"/>
+<img src="flammenschaedel.png" alt="" height="400"/>
 
 | HP | AC | Move       |
 |----|----|------------|
@@ -49,9 +49,81 @@
 |----------------|--------------------|-----------|----------|
 | Feuerberührung | Melee, Reach 5 ft. | +3 to hit | 1d6 fire |
 
+## Frostschädel {collapsible="true" default-state="expanded"}
+
+<img src="frostschaedel.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Ghoul {collapsible="true" default-state="expanded"}
+
+<img src="ghoul.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Ghoulratte {collapsible="true" default-state="expanded"}
+
+<img src="ghoul_ratte.png" alt="" height="400"/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Knochenfäule {collapsible="true" default-state="expanded"}
 
-<img src="knochenfaeule.png" alt="" width="400"/>
+<img src="knochenfaeule.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -77,7 +149,7 @@
 
 ## Knochenflosse {collapsible="true" default-state="expanded"}
 
-<img src="knochenflosse.png" alt="" width="400"/>
+<img src="knochenflosse.png" alt="" height="400"/>
 
 | HP | AC | Move        | Str | Dex | Con | Int | Wis | Cha |
 |----|----|-------------|-----|-----|-----|-----|-----|-----|
@@ -98,7 +170,7 @@
 
 ## Knochenhund {collapsible="true" default-state="expanded"}
 
-<img src="knochenhund.png" alt="" width="400"/>
+<img src="knochenhund.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -123,7 +195,7 @@
 
 ## Knochensoldat {collapsible="true" default-state="expanded"}
 
-<img src="knochensoldat.png" alt="" width="400"/>
+<img src="knochensoldat.png" alt="" height="400"/>
 
 | HP | AC | Move   | Str | Dex | Con | Int | Wis | Cha |
 |----|----|--------|-----|-----|-----|-----|-----|-----|
@@ -146,7 +218,7 @@
 
 ## Knochenwächter {collapsible="true" default-state="expanded"}
 
-<img src="knochenwaechter.png" alt="" width="400"/>
+<img src="knochenwaechter.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -167,7 +239,7 @@
 
 ## Maskenschreck {collapsible="true" default-state="expanded"}
 
-<img src="maskenschreck.png" alt="" width="400"/>
+<img src="maskenschreck.png" alt="" height="400"/>
 
 | HP | AC | Move   |
 |----|----|--------|
@@ -191,7 +263,7 @@
 
 ## Nebelschädel {collapsible="true" default-state="expanded"}
 
-<img src="nebelschaedel.png" alt="" width="400"/>
+<img src="nebelschaedel.png" alt="" height="400"/>
 
 | HP | AC | Move       |
 |----|----|------------|
