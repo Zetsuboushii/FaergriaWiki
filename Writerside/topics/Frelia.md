@@ -7,6 +7,7 @@
 <tr><td><h4>Prinzessin Sonya von Hal</h4> Assasinin in Grenbrock, Tochter von Solenne.</td><td width="300"><img src="sonya.png" alt="" /></td></tr>
 <tr><td><h4>Marine Courbet</h4> Leibgarde der Kurfürstin Solenne.</td><td width="300"><img src="marine.png" alt="" /></td></tr>
 <tr><td><h4>U-Ranos</h4> Vergreisender, überreifer umherstreifender Knecht Justicias.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
+<!--<tr><td><h4>Frille</h4> Adlige aus der Stadt Stea Brye, Hauptstadt von Mesmudor im Königreich Kradian.</td><td width="300"><img src="frille.png" alt=""/></td></tr>-->
 <!--<tr><td><h4>Ignaz Doisneau</h4> Alchemist, bekannt für seine Fähigkeiten.</td><td width="300"><img src="ignaz.png" alt="" /></td></tr>-->
 <!--<tr><td><h4>Julianne</h4> Tavernenbesitzerin in Frelia, bekannt für ihre alkoholischen Mischgetränke.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>-->
 <!--<tr><td><h4>Theodoric</h4> Chef der Magierpolizei in Hal.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>-->
