@@ -38,4 +38,16 @@
         <description>Created after removal of "Untote" from Faergria Wiki</description>
         <accepts>Untote.html</accepts>
     </rule>
+    <rule id="4a8f6020">
+        <description>Created after removal of "Blütenschloss Frelia" from Faergria Wiki</description>
+        <accepts>Flower-Castle.html</accepts>
+    </rule>
+    <rule id="6cb237ee">
+        <description>Created after removal of "Kloster "Schicksalsweg"" from Faergria Wiki</description>
+        <accepts>Monastary-Path-of-Fate.html</accepts>
+    </rule>
+    <rule id="771bf205">
+        <description>Created after removal of "Banditenlager" from Faergria Wiki</description>
+        <accepts>Bandit-s-Waypoint.html</accepts>
+    </rule>
 </rules>

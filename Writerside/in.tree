@@ -32,8 +32,10 @@
                 <toc-element topic="Teryvnat.md"/>
             </toc-element>
             <toc-element topic="Hal.md">
-                <toc-element topic="Frelia.md"/>
-                <toc-element topic="Elpis.md"/>
+                <toc-element topic="Frelia.md">
+                </toc-element>
+                <toc-element topic="Elpis.md">
+                </toc-element>
                 <toc-element topic="Lycia.md"/>
             </toc-element>
             <toc-element topic="Hydracion.md">
@@ -50,7 +52,7 @@
             <toc-element topic="Thaugrien.md">
                 <toc-element topic="Grenbrock.md"/>
                 <toc-element topic="Duensberg.md"/>
-                <toc-element topic="Lauburg.md"/>
+                <toc-element topic="Korshaven.md"/>
                 <toc-element topic="Tarporbach.md"/>
                 <toc-element topic="Tellius.md"/>
             </toc-element>
