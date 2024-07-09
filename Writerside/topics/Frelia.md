@@ -15,7 +15,6 @@
 <tr><td><h4>Kurfürstin Solenne von Hal</h4> Regierende Kurfürstin von Hal.</td><td width="300"><img src="solenne.png" alt="" /></td></tr>
 <tr><td><h4>Prinzessin Sonya von Hal</h4> Assasinin in Grenbrock, Tochter von Solenne.</td><td width="300"><img src="sonya.png" alt="" /></td></tr>
 <tr><td><h4>Marine Courbet</h4> Leibgarde der Kurfürstin Solenne.</td><td width="300"><img src="marine.png" alt="" /></td></tr>
-<tr><td><h4>U-Ranos</h4> Vergreisender, überreifer umherstreifender Knecht Justicias.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
 </table>
 
 <!--
@@ -32,5 +31,6 @@
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <tr><td><h4>Seloue</h4> Hohefürstin des Wissens.</td><td><img src="seloue.png" alt="" /></td></tr>
+<tr><td><h4>U-Ranos</h4> Vergreisender, überreifer umherstreifender Knecht Justicias.</td><td width="300"><img src="u-ranos.png" alt=""/></td></tr>
 <!--<tr><td><h4>Lavande Violette</h4> Bibliothekarin, bewahrt Wissen in Hal auf.</td><td width="300"><img src="lavande.png" alt="" /></td></tr>-->
 </table>
