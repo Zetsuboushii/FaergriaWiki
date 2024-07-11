@@ -1,5 +1,7 @@
 # Niddarvellir
 
+<img src="niddarvellir_central_city.jpg" alt=""/>
+
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <tr><td><h4>Craindre</h4> Hohefürstin der Angst.</td><td><img src="" alt="" /></td></tr>

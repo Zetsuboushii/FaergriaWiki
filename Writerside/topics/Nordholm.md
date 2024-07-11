@@ -1,5 +1,7 @@
 # Nordholm
 
+![](nordholm.png)
+
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <!--<tr><td><h4>Adrian von Waldegrav</h4> Adliger Schätzesammler.</td><td><img src="adrian.png" alt="" /></td></tr>-->

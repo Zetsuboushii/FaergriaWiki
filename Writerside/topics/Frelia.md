@@ -1,5 +1,7 @@
 # Frelia
 
+![](../images/places/Hal/Frelia/frelia.png)
+
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <!--<tr><td><h4>Frille</h4> Adlige aus der Stadt Stea Brye, Hauptstadt von Mesmudor im Königreich Kradian.</td><td width="300"><img src="frille.png" alt=""/></td></tr>-->

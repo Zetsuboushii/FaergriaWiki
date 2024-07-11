@@ -7,7 +7,7 @@ die verschiedenen Gebiete zu einem harmonischen Ganzen zu vereinen. Jedes Gebiet
 Nachthimmel, trug seinen Teil zur reichen Kultur und Geschichte dieses Landes bei.
 </p>
 
-<img src="map_iconless.png" alt=""/>
+<img src="faergria.png" alt=""/>
 
 <p>
 Im Westen des Kontinents lag das <a href="Thaugrien.md">Kurfürstentum Thaugrien</a>, ein Land, das von der strengen und gerechten Hand der Kirche
