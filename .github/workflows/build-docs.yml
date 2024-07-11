@@ -76,7 +76,7 @@ jobs:
           name: docs
       - name: Unzip artifact
         run: |
-          unzip -O UTF-8 -qq 'algolia-indexes-IN.zip' -d algolia-indexes
+          unzip -O UTF-8 -qq 'webHelpIN2-all.zip' -d algolia-indexes
           env algolia-key='${{ secrets.ALGOLIA_KEY }}' java -jar /opt/builder/help-publication-agent.jar \
           update-index \
           --application-name 'TTX2CCX6SC' \
