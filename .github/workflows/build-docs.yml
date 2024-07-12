@@ -18,7 +18,7 @@ env:
   ALGOLIA_INDEX_NAME: 'prod_faergriawiki'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
   CONFIG_JSON_PRODUCT: 'IN'
-  CONFIG_JSON_VERSION: '2.0'
+  CONFIG_JSON_VERSION: '1.0'
 
 jobs:
   build:
@@ -43,6 +43,7 @@ jobs:
           path: |
             artifacts/${{ env.ARTIFACT }}
             artifacts/report.json
+            artifacts/${{ env.ALGOLIA_ARTIFACT }}
           retention-days: 7
   deploy:
     environment:
