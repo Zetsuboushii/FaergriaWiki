@@ -13,6 +13,8 @@ Die Hauptstadt der Elfen in Farodris.
 
 ### Tempel der Manaflamme {collapsible="true" default-state="expanded"}
 
+In diesen Hallen wird seit Anbeginn der Zeit die Manaflamme gehütet.
+
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <tr><td><h4>Finnea</h4> Ur-Magierin und Hüterin der Manaflamme; Fürstin von Farodris. Reckin der Göttin Farone.</td><td><img src="" alt="" /></td></tr>
@@ -21,6 +23,12 @@ Die Hauptstadt der Elfen in Farodris.
 </table>
 
 ### Indial-Grenzposten {collapsible="true" default-state="expanded"}
+
+![](farodris_aussenposten.jpg)
+
+<p>
+Mutige Grenzpostler beschützer ihre Brüder und Schwestern der Wälder vor Monster aus <a href="Inidal.md">Inidal</a>.
+</p>
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>

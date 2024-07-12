@@ -1,6 +1,16 @@
 # Königsklippen
 
+<p>
+Die Königsklippen gelten seit jeher als die Geburtsstätte neuer Zeitalter. Innerhalb der Königsfamilie gibt es ein
+Ritus, dass der künftige Herrscher Faergrias den Aegir hinabreist, um sich mit der Natur seines Landes auseinander zu
+setzen.
+</p>
+
 ## Aegir
+
+Diese historische Stadt hält sich nicht zurück, sich selbst neu zu erfinden. Technologische und gesellschaftliche
+Neuheiten treten mit ziemlicher Sicherheit hier zuerst auf. Erst kürzlich wurde eine Teststrecke mitsamt zwei Stationen
+für eine neuartige Fortbewegungsmethode errichtet, die bei den Bewohnern auf gute Kritiken stößt.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
@@ -15,6 +25,9 @@
 </table>
 
 ### Schloss Aegir {collapsible="true" default-state="expanded"}
+
+Im großen, hellen Schloss Aegirs residiert die Köngisfamilie, deren Berater und Garde. Hin und wieder lädt die Königin
+Gäste aus ganz Faergria zu riesigen Banketten und Bällen, obwohl ihr Gatte, der König, recht wenig damit anfangen kann.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>

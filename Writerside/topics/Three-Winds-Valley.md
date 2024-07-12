@@ -1,6 +1,12 @@
 # Tal der drei Winde
 
+Im Norden des Gebirges des Windes kreuzen sich Winde aus West, Nord und Ost. Daher kann es recht starke
+Temperaturschwankungen geben. In den dichten Wäldern ist es zudem oft neblig.
+
 ## Schachendorf
+
+Ein beliebter Wegpunkt vieler Reisender und Händler, die Nordholm als Ziel haben. Die lokale Küche lebt von den
+geschmackvollen Kräutern, die sich hier anbauen lassen. Die erste Zeitung Faergrias soll hier gedruckt worden sein.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
