@@ -50,4 +50,108 @@
         <description>Created after removal of "Banditenlager" from Faergria Wiki</description>
         <accepts>Bandit-s-Waypoint.html</accepts>
     </rule>
+    <rule id="43f6f525">
+        <description>Created after removal of "Aegir" from Faergria Wiki</description>
+        <accepts>Aegir.html</accepts>
+    </rule>
+    <rule id="4d74e4f0">
+        <description><![CDATA[Created after removal of "<Orrin.md>" from Faergria Wiki]]></description>
+        <accepts>Orrin.html</accepts>
+    </rule>
+    <rule id="248c37fd">
+        <description><![CDATA[Created after removal of "<Firene.md>" from Faergria Wiki]]></description>
+        <accepts>Firene.html</accepts>
+    </rule>
+    <rule id="6d4f7414">
+        <description><![CDATA[Created after removal of "<Niddarvellir.md>" from Faergria Wiki]]></description>
+        <accepts>Niddarvellir.html</accepts>
+    </rule>
+    <rule id="c7c2ae2">
+        <description><![CDATA[Created after removal of "<Schachendorf.md>" from Faergria Wiki]]></description>
+        <accepts>Schachendorf.html</accepts>
+    </rule>
+    <rule id="1bb52fb6">
+        <description><![CDATA[Created after removal of "<Krofenheim.md>" from Faergria Wiki]]></description>
+        <accepts>Krofenheim.html</accepts>
+    </rule>
+    <rule id="7ffae672">
+        <description><![CDATA[Created after removal of "<Nordholm.md>" from Faergria Wiki]]></description>
+        <accepts>Nordholm.html</accepts>
+    </rule>
+    <rule id="7a52f0cc">
+        <description><![CDATA[Created after removal of "<Yerenas.md>" from Faergria Wiki]]></description>
+        <accepts>Yerenas.html</accepts>
+    </rule>
+    <rule id="191951c5">
+        <description><![CDATA[Created after removal of "<Teryvnat.md>" from Faergria Wiki]]></description>
+        <accepts>Teryvnat.html</accepts>
+    </rule>
+    <rule id="11ff8074">
+        <description><![CDATA[Created after removal of "<Frelia.md>" from Faergria Wiki]]></description>
+        <accepts>Frelia.html</accepts>
+    </rule>
+    <rule id="39537c66">
+        <description><![CDATA[Created after removal of "<Elpis.md>" from Faergria Wiki]]></description>
+        <accepts>Elpis.html</accepts>
+    </rule>
+    <rule id="4d557dc8">
+        <description><![CDATA[Created after removal of "<Lycia.md>" from Faergria Wiki]]></description>
+        <accepts>Lycia.html</accepts>
+    </rule>
+    <rule id="2cf095e3">
+        <description><![CDATA[Created after removal of "<Darnax.md>" from Faergria Wiki]]></description>
+        <accepts>Darnax.html</accepts>
+    </rule>
+    <rule id="7332a3d1">
+        <description><![CDATA[Created after removal of "<Larudia.md>" from Faergria Wiki]]></description>
+        <accepts>Larudia.html</accepts>
+    </rule>
+    <rule id="7a5ffaaa">
+        <description><![CDATA[Created after removal of "<Alt-Aegir.md>" from Faergria Wiki]]></description>
+        <accepts>Alt-Aegir.html</accepts>
+    </rule>
+    <rule id="51bab74e">
+        <description><![CDATA[Created after removal of "<Garadzar.md>" from Faergria Wiki]]></description>
+        <accepts>Garadzar.html</accepts>
+    </rule>
+    <rule id="58f360a7">
+        <description><![CDATA[Created after removal of "<Grenbrock.md>" from Faergria Wiki]]></description>
+        <accepts>Grenbrock.html</accepts>
+    </rule>
+    <rule id="7a503daf">
+        <description><![CDATA[Created after removal of "<Duensberg.md>" from Faergria Wiki]]></description>
+        <accepts>Duensberg.html</accepts>
+    </rule>
+    <rule id="408dfd24">
+        <description><![CDATA[Created after removal of "<Korshaven.md>" from Faergria Wiki]]></description>
+        <accepts>Korshaven.html</accepts>
+    </rule>
+    <rule id="4739882f">
+        <description><![CDATA[Created after removal of "<Tarporbach.md>" from Faergria Wiki]]></description>
+        <accepts>Tarporbach.html</accepts>
+    </rule>
+    <rule id="7780f946">
+        <description><![CDATA[Created after removal of "<Tellius.md>" from Faergria Wiki]]></description>
+        <accepts>Tellius.html</accepts>
+    </rule>
+    <rule id="1c143a8">
+        <description>Created after removal of "Empty MD Topic" from Faergria Wiki</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="52a0eaba">
+        <description><![CDATA[Created after removal of "<Tinorke.md>" from Faergria Wiki]]></description>
+        <accepts>Tinorke.html</accepts>
+    </rule>
+    <rule id="50a8d11b">
+        <description><![CDATA[Created after removal of "<Nifl.md>" from Faergria Wiki]]></description>
+        <accepts>Nifl.html</accepts>
+    </rule>
+    <rule id="6438db4f">
+        <description><![CDATA[Created after removal of "<Brodia.md>" from Faergria Wiki]]></description>
+        <accepts>Brodia.html</accepts>
+    </rule>
+    <rule id="33d718e0">
+        <description><![CDATA[Created after removal of "<Daein.md>" from Faergria Wiki]]></description>
+        <accepts>Daein.html</accepts>
+    </rule>
 </rules>
