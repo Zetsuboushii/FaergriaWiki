@@ -2,14 +2,16 @@
 
 ## Yerenas
 
-Die Hauptstadt der Elfen in Farodris.
+Die Hauptstadt der Elfen in Farodris ist für die zahlreichen Schneidereien bekannt. In puncto Mode ist Yerenas der
+Vorreiter in Faergria. Die Rüschenkleider der Damen sind regionales Kulturgut geworden.
 
+<!--
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<!--<tr><td><h4>Amlin</h4> Hohefürstin der Zeit</td><td width="300"><img src="amlin.png" alt="" /></td></tr>-->
-<!--<tr><td><h4>Noi</h4> Hexe.</td><td width="300"><img src="noi.png" alt="" /></td></tr>-->
-<!--<tr><td><h4>Viessa Ularel</h4>Maid.</td><td><img src="viessa.png" alt="" /></td></tr>-->
+<tr><td><h4>Noi</h4> Hexe.</td><td width="300"><img src="noi.png" alt="" /></td></tr>
+<tr><td><h4>Viessa Ularel</h4>Maid.</td><td><img src="viessa.png" alt="" /></td></tr>
 </table>
+-->
 
 ### Tempel der Manaflamme {collapsible="true" default-state="expanded"}
 

@@ -2,11 +2,13 @@
 
 ## Tinorke
 
+<!--
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<!--<tr><td><h4>Hama</h4> Hohefürstin der Gesundheit.</td><td width="300"><img src="hama.png" alt="" /></td></tr>-->
-<!--<tr><td><h4>Sinmir Ragnarsson</h4> Schmied und Großvater von Siegmund.</td><td width="300"><img src="sinmir.png" alt="" /></td></tr>-->
+<tr><td><h4>Hama</h4> Hohefürstin der Gesundheit.</td><td width="300"><img src="hama.png" alt="" /></td></tr>
+<tr><td><h4>Sinmir Ragnarsson</h4> Schmied und Großvater von Siegmund.</td><td width="300"><img src="sinmir.png" alt="" /></td></tr>
 </table>
+-->
 
 ### Schloss Tinorke {collapsible="true" default-state="expanded"}
 

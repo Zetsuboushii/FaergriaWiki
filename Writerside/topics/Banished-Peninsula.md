@@ -25,7 +25,9 @@ In diesem uralten Sumpfland sollen sich riesige Schätze befinden. Dennoch kehre
 danach suchen. Wer sich in diesen dunklen Sumpf wagt, könnte dennoch mit sagenumwobenen Relikten sich Ruhm und Ehre
 erkaufen.
 
+<!--
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <tr><td><h4>Craindre</h4> Hohefürstin der Angst.</td><td><img src="" alt="" /></td></tr>
 </table>
+-->

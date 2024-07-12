@@ -2,6 +2,10 @@
 
 ## Teryvnat
 
+Dieses kleine Dorf am Rande der Wälder ist der Eintrittspunkt für viele Reisende in Farodris. An den lokalen
+Marktständen lassen Besucher gerne ein paar Florin da.
+
+
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
 <tr><td><h4>Aelua Vensandoral</h4> Dorfälteste.</td><td width="300"><img src="aelua.png" alt="" /></td></tr>

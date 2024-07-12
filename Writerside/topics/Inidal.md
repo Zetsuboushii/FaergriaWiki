@@ -1,1 +1,3 @@
-# Inidal
+# Goldene Lande von Inidal
+
+Start typing here...

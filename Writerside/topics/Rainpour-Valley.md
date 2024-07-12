@@ -9,7 +9,10 @@ Tieren prächtig zu gedeihen.
 Diese Gärberstadt fertigt die besten Felle, Pelze und Leder aus ganz Faergria an. Das Königshaus legt großen Wert auf
 Regionalität ihrer Gewänder.
 
+<!--
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<!--<tr><td><h4>Serff</h4> Hohefürst des Wahnsinns.</td><td><img src="serff.png" alt="" /></td></tr>-->
+<tr><td><h4>Serff</h4> Hohefürst des Wahnsinns.</td><td><img src="serff.png" alt="" /></td></tr>
+<tr><td><h4>Almund</h4> Buchsammler.</td><td><img src="almund.png" alt="" /></td></tr>
 </table>
+-->

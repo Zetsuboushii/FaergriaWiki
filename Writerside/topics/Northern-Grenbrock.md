@@ -1,6 +1,13 @@
 # Nord-Grenbrock
 
+Der nördliche Teil der Region Grenbrock. Im Norden bei den Bergen wird Kohle abgebaut, die dann im Hafen Grenbrocks
+in alle Welt transportiert wird. An der großen Handelsroute sind viele alte Bauten aus alter Zeit zu erkennen.
+
 ## Grenbrock
+
+Die "Hauptstadt der Gerechtigkeit". Die Kirche hat hier einen hohen politischen Einfluss und vollstreckt die Lehren
+Justicias. Paradoxerweise hat sich hier ebenfalls die berüchtigte Diebesgilde eingenistet, wodurch es oft zu Reiberreien
+zwischen der Stadtwache und der Gilde kommt.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
@@ -8,6 +15,9 @@
 </table>
 
 ### Schloss Grenbrock {collapsible="true" default-state="expanded"}
+
+Der pompöse Sitz des Kurfürsten. In den großen Sälen hängen die Jagdtrophäen vergangener und aktiver Familienmitglieder.
+Der konservative Ton Thaugriens hat hier seinen Ursprung.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
@@ -17,6 +27,10 @@
 </table>
 
 ### Diebesgilde {collapsible="true" default-state="expanded"}
+
+Eine sagenumwobene Gilde, in der sich die talentiertesten Auftragsmörder und Diebe herumtreiben. Ihr Anführer ist
+unbekannt. Die Stadtwache hat einen hohen Betrag auf Hinweise auf seine Identität gegeben. Nur hochrangige Mitglieder
+kennen sein Gesicht. Wer es wagt Verrat zu üben, überlebt dies nicht. In letzter Zeit treten vermehrt Mitglieder aus.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
@@ -29,6 +43,9 @@
 </table>
 
 ### Kirche der Himmlischen Gerechtigkeit {collapsible="true" default-state="expanded"}
+
+Die von Justicia berufenen Vollstrecker der Gerechtigkeit praktizieren hier ihre Gottesdienste. In Thaugrien ist es
+Brauch jeden Sunnesdag in die Kirche zu gehen.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>

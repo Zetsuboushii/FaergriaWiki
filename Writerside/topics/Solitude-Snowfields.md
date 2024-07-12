@@ -8,12 +8,16 @@ als eine Bastion vor den harten Wintern.
 
 ![](nordholm.png)
 
+<!--
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<!--<tr><td><h4>Adrian von Waldegrav</h4> Adliger Schätzesammler.</td><td><img src="adrian.png" alt="" /></td></tr>-->
+<tr><td><h4>Adrian von Waldegrav</h4> Adliger Schätzesammler.</td><td><img src="adrian.png" alt="" /></td></tr>
 </table>
+-->
 
 ### Schneebergfried {collapsible="true" default-state="expanded"}
+
+Eine massive Konstruktion, die als sicherste Festung Faergrias gilt.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>

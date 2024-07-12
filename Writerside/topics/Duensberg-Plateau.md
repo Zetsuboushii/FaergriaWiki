@@ -1,6 +1,12 @@
 # Dünsberg-Plateau
 
+Eine recht zurückgezogene und bewaldete Gegend im Zentrum Thaugriens.
+
 ## Dünsberg
+
+Dieses unscheinbare Dörfchen abgelegen der Großstädte Thaugriens beherbergt die wohl herzlichsten Bewohner aus ganz
+Faergria. Die offenen Einwohner treffen sich regelmäßig gesellschaftlich in der lokalen Taverne. Tradition ist die
+Apfelernte und das Apfelweinkeltern im Spätsommer.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
@@ -12,6 +18,9 @@
 </table>
 
 ## Jagdschloss Dünsberg {collapsible="true" default-state="expanded"}
+
+Ein einsames Jagdschloss außerhalb von Dünsberg. Der einstige Besitzer ist auf mysteriöse Art verschwunden. Neuerdings
+kommt der Butler dieses Schlosses öfters nach Dünsberg für Besorgungen und heuert gelegentlich Handwerker an.
 
 <table>
 <tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
