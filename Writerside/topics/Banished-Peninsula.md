@@ -1,4 +1,4 @@
-# Halbinsel der Verbannte
+# Halbinsel der Verbannten
 
 Diese Halbinsel wurde früher als Gefängnisinsel Adrestias genutzt.
 
