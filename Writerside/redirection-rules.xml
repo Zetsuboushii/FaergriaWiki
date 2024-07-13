@@ -162,4 +162,12 @@
         <description>Created after removal of "Charaktere" from Faergria Wiki</description>
         <accepts>Characters.html</accepts>
     </rule>
+    <rule id="1bf9a962">
+        <description>Created after removal of "Eliza" from Lorekeeper Wiki</description>
+        <accepts>Eliza.html</accepts>
+    </rule>
+    <rule id="440eeff0">
+        <description>Created after removal of "Charaktere" from Faergria Wiki</description>
+        <accepts>Characters.html</accepts>
+    </rule>
 </rules>

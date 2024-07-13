@@ -1,0 +1,3 @@
+# Scarlet
+
+Start typing here...
