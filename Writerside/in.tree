@@ -7,7 +7,7 @@
                  start-page="Homepage.md">
 
     <toc-element topic="Homepage.md"/>
-    <toc-element topic="Characters.md">
+    <toc-element topic="Places.md">
         <toc-element topic="Animus.md">
             <toc-element topic="CourtOfJustice.md"/>
             <toc-element topic="SeaOfFate.md"/>

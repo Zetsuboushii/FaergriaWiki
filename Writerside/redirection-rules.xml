@@ -154,4 +154,12 @@
         <description><![CDATA[Created after removal of "<Daein.md>" from Faergria Wiki]]></description>
         <accepts>Daein.html</accepts>
     </rule>
+    <rule id="a4e88e4">
+        <description>Created after removal of "Adamar" from Faergria Wiki</description>
+        <accepts>Adamar.html</accepts>
+    </rule>
+    <rule id="5310f96d">
+        <description>Created after removal of "Charaktere" from Faergria Wiki</description>
+        <accepts>Characters.html</accepts>
+    </rule>
 </rules>
