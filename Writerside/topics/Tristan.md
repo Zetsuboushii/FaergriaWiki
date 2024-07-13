@@ -1,3 +1,3 @@
-# Tristan
+# Großherzog Tristan von Nordholm
 
 Start typing here...

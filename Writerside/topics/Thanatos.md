@@ -1,3 +1,41 @@
-# Thanatos
+# Thanatos, Gott der Sünde und der Finsternis
 
-Start typing here...
+<table>
+<tr><td>
+<p>
+</p>
+
+</td><td width="300">
+<!-- Edit here -->
+<img src="thanatos.png" alt="" />
+</td></tr>
+</table>
+
+## Allgemeine Informationen
+
+- **Volk:**
+- **Klasse:**
+- **Gesinnung:**
+- **Verbleib:**
+
+## Aussehen
+
+- **Alter:**
+- **Größe:**
+- **Gewicht:**
+- **Augenfarbe:**
+- **Haarfarbe:**
+
+<!--
+## Beziehungen
+
+<list columns="3">
+<li>
+</li>
+</list>
+
+## Notizen
+
+- **Ziele:** 
+- **Geheimnisse:** 
+-->

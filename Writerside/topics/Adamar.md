@@ -17,24 +17,26 @@ in Schwierigkeiten gerät, wenn er mit Leuten umgehen muss.
 </td></tr>
 </table>
 
-## Allgemeine Informationen
+<procedure title="Allgemeine Informationen">
+<list columns="3">
+<li><b>Volk:</b> Elfen</li>
+<li><b>Klasse:</b> Recke</li>
+<li><b>Gesinnung:</b> TN</li>
+<li><b>Verbleib:</b> am Leben</li>
+</list>
+</procedure>
 
-- **Volk:** Elf
-- **Klasse:** Recke
-- **Gesinnung:** TN
--
-    - **Verbleib:** am Leben
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> Unbekannt</li>
+<li><b>Größe:</b> 1,85m</li>
+<li><b>Gewicht:</b> 64kg</li>
+<li><b>Augenfarbe:</b> Türkis</li>
+<li><b>Haarfarbe:</b> Smaragd</li>
+</list>
+</procedure>
 
-## Aussehen
-
-- **Alter:** Unbekannt
-- **Größe:** 1,85m
-- **Gewicht:** 64kg
-- **Augenfarbe:** Türkis
-- **Haarfarbe:** Smaragd
-
-## Beziehungen
-
+<procedure title="Beziehungen">
 <list columns="3">
 <li>
 <b><a href="Finnea.md">Finnea</a>:</b> Große Schwester
@@ -49,8 +51,11 @@ in Schwierigkeiten gerät, wenn er mit Leuten umgehen muss.
 <b><a href="Nayru.md">Nayru</a>:</b> Reckenkollegin
 </li>
 </list>
+</procedure>
 
-## Notizen
-
-- **Ziele:**
-- **Geheimnisse:** 
+<procedure title="Notizen">
+<list columns="3">
+<li><b>Ziele:</b></li>
+<li><b>Geheimnisse:</b></li>
+</list>
+</procedure>

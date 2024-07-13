@@ -5,3 +5,8 @@ Eis, wohin das Auge reicht. Trotz der unliebsamen Temperaturen kann es tagsüber
 Sonne auf dem Eis merklich warm werden. Wer nach <a href="Eternal-Ice-Glacier.md">Darnax</a> will, sollte eher
 per Boot dort anlegen und den Fußweg vermeiden.
 </p>
+
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+</list>
+</procedure>

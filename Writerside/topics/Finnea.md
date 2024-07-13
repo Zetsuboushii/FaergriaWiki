@@ -1,3 +1,3 @@
-# Finnea
+# Finnea, Ur-Magierin und Hüterin der Manaflamme
 
 Start typing here...

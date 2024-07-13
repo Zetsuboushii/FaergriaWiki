@@ -5,11 +5,12 @@ Königshauses Adrestias im Dienste der Königsfamilie steht und laut Legenden ei
 soll. Bevor die Drachen in Faergria vernichtet wurden, sollen es einst hier Drachenritter gegeben haben, die diese
 Giganten gezähmt haben.
 
-## Orrin
+## Orrin { collapsible="true" default-state="expanded" }
 
-<table>
-<tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<tr><td><h4>Balthus</h4> Drachenritter und Meister von Nayru. Hüter des Erbes von Orrin.</td><td><img src="" alt="" /></td></tr>
-<tr><td><h4>Nayru</h4> Trägerin des Erbes von Orrin.</td><td><img src="nayru.png" alt="" /></td></tr>
-<tr><td><h4>Odiak</h4> Letzter Drache Faergrias.</td><td><img src="orobas.png" alt="" /></td></tr>
-</table>
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+<li><a href="Balthus.md"></a></li>
+<li><a href="Nayru.md"></a></li>
+<li><a href="Orobas.md"></a></li>
+</list>
+</procedure>

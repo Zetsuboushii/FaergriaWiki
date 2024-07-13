@@ -23,48 +23,41 @@ Ar-Merer etwas über die Stränge.
 </td></tr>
 </table>
 
-## Allgemeine Informationen
-
-- **Volk:** Engel
-- **Klasse:** Recke
-- **Gesinnung:** LN
-- **Verbleib:** am Leben
-
-## Aussehen
-
-- **Alter:** Unbekannt
-- **Größe:** 2,01m
-- **Gewicht:** 77kg
-- **Augenfarbe:** Blau-Gelb
-- **Haarfarbe:** Dunkelblau
-
-## Beziehungen
-
+<procedure title="Allgemeine Informationen">
 <list columns="3">
-<li>
-<b><a href="Justicia.md">Justicia</a>:</b> "Mutter" und Göttin
-</li>
-<li>
-<b><a href="En-Troad.md">En-Troad</a>:</b> Bruder
-</li>
-<li>
-<b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester
-</li>
-<li>
-<b><a href="O-Gall.md">O-Gall</a>:</b> Bruder
-</li>
-<li>
-<b><a href="U-Ranos.md">U-Ranos</a>:</b> Bruder, Rivale
-</li>
-<li>
-<b><a href="Thanatos.md">Thanatos</a>:</b> Todfeind
-</li>
-<li>
-<b><a href="Fortuna.md">Fortuna</a>:</b> "Tante"
-</li>
+<li><b>Volk:</b> Engel</li>
+<li><b>Klasse:</b> Recke</li>
+<li><b>Gesinnung:</b> LN</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
+</procedure>
 
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> Unbekannt</li>
+<li><b>Größe:</b> 2,01m</li>
+<li><b>Gewicht:</b> 77kg</li>
+<li><b>Augenfarbe:</b> Blau-Gelb</li>
+<li><b>Haarfarbe:</b> Dunkelblau</li>
+</list>
+</procedure>
+
+<procedure title="Beziehungen">
+<list columns="3">
+<li><b><a href="Justicia.md">Justicia</a>:</b> "Mutter" und Göttin</li>
+<li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
+<li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester</li>
+<li><b><a href="O-Gall.md">O-Gall</a>:</b> Bruder</li>
+<!-- <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Bruder, Rivale</li> -->
+<li><b><a href="Thanatos.md">Thanatos</a>:</b> Todfeind</li>
+<li><b><a href="Fortuna.md">Fortuna</a>:</b> "Tante"</li>
+</list>
+</procedure>
+
+
+<!--
 ## Notizen
 
 - **Ziele:** Gottwerdung, Erschaffung einer neuen Welt
 - **Geheimnisse:** Zusammenarbeit mit Malusdur, heimliche Liebe für Justicia
+-->

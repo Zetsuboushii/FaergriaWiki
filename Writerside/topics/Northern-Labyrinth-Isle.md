@@ -5,3 +5,8 @@ Eine kleine Insel, auf der ein eigenartiges Labyrinth mit hohen Mauern errichtet
 ist unklar. Es hegt einen mystischen Schleier der Ungewissheit. Es hat eine unbestreitbare Ähnlichkeit zu dem
 Labyrinth auf der <a href="Southern-Labyrinth-Isle.md">Südlichen Labyrinthinsel</a>.
 </p>
+
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+</list>
+</procedure>

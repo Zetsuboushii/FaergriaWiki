@@ -1,3 +1,3 @@
 # Julianne
 
-Start typing here...
+Tavernenbesitzerin in Frelia, bekannt für ihre alkoholischen Mischgetränke

@@ -2,12 +2,16 @@
 
 Start typing here...
 
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+</list>
+</procedure>
+
 ## Alt-Aegir
 
 Start typing here...
 
-<!--
-<table>
-<tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-</table>
--->
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+</list>
+</procedure>

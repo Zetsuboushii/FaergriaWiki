@@ -170,4 +170,12 @@
         <description>Created after removal of "Charaktere" from Faergria Wiki</description>
         <accepts>Characters.html</accepts>
     </rule>
+    <rule id="50ef2322">
+        <description>Created after removal of "Rekitach" from Faergria Wiki</description>
+        <accepts>Rekitach.html</accepts>
+    </rule>
+    <rule id="662a7b7e">
+        <description>Created after removal of "Blathus" from Lorekeeper Wiki</description>
+        <accepts>Blathus.html</accepts>
+    </rule>
 </rules>

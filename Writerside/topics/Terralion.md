@@ -1,3 +1,3 @@
-# Terralion
+# Terralion, Hohefürst der Erde
 
 Start typing here...

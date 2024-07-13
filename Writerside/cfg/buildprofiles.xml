@@ -9,7 +9,7 @@
     </variables>
     <build-profile instance="in">
         <variables>
-            <noindex-content>false</noindex-content>
+            <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
     <build-profile instance="lw">

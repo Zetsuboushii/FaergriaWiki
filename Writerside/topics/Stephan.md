@@ -1,3 +1,3 @@
-# Stephan
+# Prinz Stephan von Nordholm
 
 Start typing here...

@@ -1,3 +1,3 @@
-# Serff
+# Serff, Hohefürst des Wahnsinns
 
 Start typing here...

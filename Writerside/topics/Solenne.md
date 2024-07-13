@@ -1,3 +1,3 @@
-# Solenne
+# Kurfürstin Solenne von Hal
 
 Start typing here...

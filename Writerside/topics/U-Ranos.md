@@ -2,7 +2,9 @@
 
 <table>
 <tr><td>
-<!-- Kurze Beschreibung here -->
+<p>
+Vergreisender, überreifer umherstreifender Knecht Justicias
+</p>
 
 </td><td width="300">
 <!-- Ignore -->

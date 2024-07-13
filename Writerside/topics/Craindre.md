@@ -1,3 +1,3 @@
-# Craindre
+# Craindre, Hohefürstin der Angst
 
 Start typing here...

@@ -1,28 +1,28 @@
 # Dickicht der Wahrheit
 
-## Yerenas
+## Yerenas { collapsible="true" default-state="expanded" }
 
 Die Hauptstadt der Elfen in Farodris ist für die zahlreichen Schneidereien bekannt. In puncto Mode ist Yerenas der
 Vorreiter in Faergria. Die Rüschenkleider der Damen sind regionales Kulturgut geworden.
 
-<!--
-<table>
-<tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<tr><td><h4>Noi</h4> Hexe.</td><td width="300"><img src="noi.png" alt="" /></td></tr>
-<tr><td><h4>Viessa Ularel</h4>Maid.</td><td><img src="viessa.png" alt="" /></td></tr>
-</table>
--->
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+<!-- <li><a href="Noi.md"></a></li> -->
+<!-- <li><a href="Viessa.md"></a></li> -->
+</list>
+</procedure>
 
 ### Tempel der Manaflamme {collapsible="true" default-state="expanded"}
 
 In diesen Hallen wird seit Anbeginn der Zeit die Manaflamme gehütet.
 
-<table>
-<tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<tr><td><h4>Finnea</h4> Ur-Magierin und Hüterin der Manaflamme; Fürstin von Farodris. Reckin der Göttin Farone.</td><td><img src="" alt="" /></td></tr>
-<tr><td><h4>Adamar</h4> Magier der Mana-Flamme, Rechte Hand der Ur-Magierin Finnea. Reckin der Göttin Farone.</td><td><img src="" alt="" /></td></tr>
-<tr><td><h4>Phaerille</h4> Klerikerin der Mana-Flamme, Linke Hand der Ur-Magierin Finnea. Recke der Göttin Farone.</td><td><img src="" alt="" /></td></tr>
-</table>
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+<!-- <li><a href="Finnea.md"></a></li> -->
+<!-- <li><a href="Adamar.md"></a></li> -->
+<!-- <li><a href="Phaerille.md"></a></li> -->
+</list>
+</procedure>
 
 ### Indial-Grenzposten {collapsible="true" default-state="expanded"}
 
@@ -32,8 +32,9 @@ In diesen Hallen wird seit Anbeginn der Zeit die Manaflamme gehütet.
 Mutige Grenzpostler beschützer ihre Brüder und Schwestern der Wälder vor Monster aus <a href="Inidal.md">Inidal</a>.
 </p>
 
-<table>
-<tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<tr><td><h4>Malon Trabalar</h4> Wache am Grenzposten nach Inidal.</td><td width="300"><img src="malon.png" alt="" /></td></tr>
-<tr><td><h4>Eliyen Triszorwyn</h4> Wache am Grenzposten nach Inidal.</td><td width="300"><img src="eliyen.png" alt="" /></td></tr>
-</table>
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+<li><a href="Malon.md"></a></li>
+<li><a href="Eliyen.md"></a></li>
+</list>
+</procedure>

@@ -1,3 +1,3 @@
 # Frille
 
-Start typing here...
+Adlige aus der Stadt Stea Brye, Hauptstadt von Mesmudor im Königreich Kradian

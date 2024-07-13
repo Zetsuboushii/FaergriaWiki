@@ -31,7 +31,6 @@ Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen
 - **Gewicht:** 70kg
 - **Augenfarbe:** Gold
 - **Haarfarbe:** Tief blau
-
 <!-- - **Maße:** 99/80-65-95 -->
 
 ## Beziehungen

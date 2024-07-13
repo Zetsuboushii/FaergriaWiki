@@ -1,3 +1,3 @@
-# Phaerille
+# Phaerille, Klerikerin der Manaflamme
 
 Start typing here...

@@ -4,15 +4,14 @@ An den Gebirgswänden dieser Senke bleiben Wolken häufig hängen, weshalb es hi
 an den Aegir, ist das Wasser in dieser Region nicht knapp. Die hohe Feuchtigkeit ermöglicht es vielen Pflanzen und
 Tieren prächtig zu gedeihen.
 
-## Renais
+## Renais { collapsible="true" default-state="expanded" }
 
 Diese Gärberstadt fertigt die besten Felle, Pelze und Leder aus ganz Faergria an. Das Königshaus legt großen Wert auf
 Regionalität ihrer Gewänder.
 
-<!--
-<table>
-<tr><td>Name und Beschreibung</td><td width="300">Portrait</td></tr>
-<tr><td><h4>Serff</h4> Hohefürst des Wahnsinns.</td><td><img src="serff.png" alt="" /></td></tr>
-<tr><td><h4>Almund</h4> Buchsammler.</td><td><img src="almund.png" alt="" /></td></tr>
-</table>
--->
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+<!-- <li><a href="Serff.md"></a></li> -->
+<!-- <li><a href="Almund.md"></a></li> -->
+</list>
+</procedure>
