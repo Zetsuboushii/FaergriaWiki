@@ -266,8 +266,6 @@
         <toc-element topic="Channelings.md"/>
         <toc-element topic="Curses.md"/>
     </toc-element>
-    <toc-element topic="Currency.md"/>
-    <toc-element topic="Faergrian-Time.md"/>
     <toc-element topic="Alchemy.md">
         <toc-element topic="Potions.md"/>
         <toc-element topic="Poisons.md"/>
@@ -285,4 +283,7 @@
             <toc-element topic="Undead.md"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Currency.md"/>
+    <toc-element topic="Faergrian-Time.md"/>
+    <toc-element topic="Folks.md"/>
 </instance-profile>

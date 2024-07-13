@@ -21,7 +21,7 @@ ist Artie geflüchtet, hat Nayru angegriffen und wurde kurz darauf von Marjorie 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Volk:</b> Menschen</li>
-<li><b>Klasse:</b></li>
+<li><b>Klasse:</b> Bürger</li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> exekutiert</li>
 </list>
@@ -39,7 +39,7 @@ ist Artie geflüchtet, hat Nayru angegriffen und wurde kurz darauf von Marjorie 
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li><b><a href="Sivert.md"></a>:</b> Abkommen, später Erpresser</li>
+<li><b><a href="Sivert.md"></a>:</b> Verhandlungspartner, später Erpresser</li>
 </list>
 </procedure>
 

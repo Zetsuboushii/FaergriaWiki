@@ -14,7 +14,7 @@
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Volk:</b> Dämonen</li>
-<li><b>Klasse:</b> Recking</li>
+<li><b>Klasse:</b> Reckin</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> vermisst</li>
 </list>
