@@ -3,7 +3,7 @@
 <table>
 <tr><td>
 <p>
-
+Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der Welt.
 </p>
 
 </td><td width="300">
