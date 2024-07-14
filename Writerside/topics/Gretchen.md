@@ -1,4 +1,4 @@
-# Gretchen Bell
+# Gretchen
 
 <table>
 <tr><td>
