@@ -22,7 +22,7 @@
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> 55</li>
+<li><b>Alter:</b> 46</li>
 <li><b>Größe:</b> 1,80m</li>
 <li><b>Gewicht:</b> 97kg</li>
 <li><b>Augenfarbe:</b> Braun</li>
