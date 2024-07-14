@@ -49,9 +49,11 @@ Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der 
 <li>
 <b><a href="O-Gall.md">O-Gall</a>:</b> "Sohn", Recke
 </li>
+<!--
 <li>
 <b><a href="U-Ranos.md">U-Ranos</a>:</b> "Sohn", Recke
 </li>
+-->
 <li>
 <b><a href="Fortuna.md">Fortuna</a>:</b> Schwester 
 </li>

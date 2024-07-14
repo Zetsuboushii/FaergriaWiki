@@ -44,7 +44,7 @@ Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Neffe</li>
 <li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Nichte</li>
 <li><b><a href="O-Gall.md">O-Gall</a>:</b> Neffe</li>
-<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Lieblingsneffe</li>
+<!-- <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Lieblingsneffe</li> -->
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Guter Freund</li>
 <li><b><a href="Farone.md">Farone</a>:</b> Freundin</li>
 <!-- <li><b><a href="Alcuin.md">Alcuin</a>:</b> Bruder</li> -->
