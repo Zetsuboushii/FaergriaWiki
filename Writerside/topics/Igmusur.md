@@ -3,7 +3,14 @@
 <table>
 <tr><td>
 <p>
-Ehemaliger Hofkleriker von Aegir und Dorfältester
+Der alte Igmusur war einst Hofkleriker am <a href="Kings-Cliffs.md" anchor="schloss-aegir"></a> im Dienste des
+<a href="Gralnach.md">Königs</a>. <a href="Marisa.md">Prinzessin Marisa</a> war während dieser Zeit seine Schülerin.
+Aus unbekannten Gründen wurde er vom Hof verbannt und lebt seitdem wieder in seiner Heimat+
+<a href="Duensberg-Plateau.md" anchor="d-nsberg"></a>.
+<br></br><br></br>
+Vor vielen vielen Jahren lernte Igmusur <a href="U-Ranos.md">U-Ranos</a> kennen. Seitdem pilgern die beiden Kumpanen
+gelegentlich durch Faergria. Ihre Pilgerreisen hat Igmusur säuberlichst dokumentiert und liest gerne ihren alten
+Abenteuer.
 </p>
 
 </td><td width="300">
@@ -12,29 +19,33 @@ Ehemaliger Hofkleriker von Aegir und Dorfältester
 </td></tr>
 </table>
 
-## Allgemeine Informationen
+<procedure title="Allgemeine Informationen">
+<list columns="3">
+<li><b>Volk:</b> Menschen</li>
+<li><b>Klasse:</b> Kleriker</li>
+<li><b>Gesinnung:</b> NG</li>
+<li><b>Verbleib:</b> am Leben</li>
+</list>
+</procedure>
 
-- **Volk:**
-- **Klasse:**
-- **Gesinnung:**
-- **Verbleib:**
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> 73</li>
+<li><b>Größe:</b> 1,76m</li>
+<li><b>Gewicht:</b> 59kg</li>
+<li><b>Augenfarbe:</b> Braun</li>
+<li><b>Haarfarbe:</b> Weiß</li>
+</list>
+</procedure>
 
-## Aussehen
-
-- **Alter:**
-- **Größe:**
-- **Gewicht:**
-- **Augenfarbe:**
-- **Haarfarbe:**
+<procedure title="Beziehungen">
+<list columns="3">
+<li><b><a href="Marisa.md">Marisa</a>:</b> Schülerin</li>
+<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Langjähriger Freund</li>
+</list>
+</procedure>
 
 <!--
-## Beziehungen
-
-<list columns="3">
-<li>
-</li>
-</list>
-
 ## Notizen
 
 - **Ziele:** 
