@@ -1,4 +1,4 @@
-# Siegmund
+# Siegmund "Der Rabe"
 
 <table>
 <tr><td>

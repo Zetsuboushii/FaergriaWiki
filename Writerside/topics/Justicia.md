@@ -3,7 +3,7 @@
 <table>
 <tr><td>
 <p>
-Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der Welt.
+Die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der Welt.
 </p>
 
 </td><td width="300">
@@ -15,7 +15,7 @@ Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Volk:</b> Gott</li>
-<li><b>Klasse:</b> Gott</li>
+<li><b>Klasse:</b> Göttin der Gerechtigkeit und des Lichts</li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> verschwunden</li>
 </list>

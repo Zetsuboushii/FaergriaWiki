@@ -42,5 +42,5 @@
 ## Notizen
 
 - **Ziele:** 
-- **Geheimnisse:** 
+- **Geheimnisse:** Thanatos Reckin "Nonne des Neids" in Spe?
 -->

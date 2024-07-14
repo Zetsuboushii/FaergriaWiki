@@ -3,7 +3,7 @@
 <table>
 <tr><td>
 <p>
-Ehemalige Schülerin von <a href="Suskinox.md"></a>
+Ehemalige Schülerin von <a href="Suskinox.md"></a>.
 </p>
 
 </td><td width="300">
