@@ -1,4 +1,4 @@
-# Reichart Kummers
+# Reichart
 
 <table>
 <tr><td>

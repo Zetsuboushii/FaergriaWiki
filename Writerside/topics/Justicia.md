@@ -32,9 +32,11 @@ Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der 
 ## Beziehungen
 
 <list columns="3">
+<!--
 <li>
 <b><a href="Inoro.md">Inoro</a>:</b> Erster "Sohn", Recke
 </li>
+-->
 <li>
 <b><a href="Ar-Merer.md">Ar-Merer</a>:</b> "Sohn", Recke
 </li>
@@ -58,7 +60,8 @@ Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der 
 </li>
 <li>
 <b><a href="Farone.md">Farone</a>:</b> Kollegin
-</li<!--
+</li>
+<!--
 <li>
 <b><a href="Alcuin.md">Alcuin</a>:</b> Bruder
 </li>
@@ -68,7 +71,9 @@ Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der 
 </li>
 </list>
 
+<!--
 ## Notizen
 
 - **Ziele:** Ihre Recken gut führen, Gerechtigkeit in der Welt
 - **Geheimnisse:** Die Wahrheit über Inoros Tod
+-->

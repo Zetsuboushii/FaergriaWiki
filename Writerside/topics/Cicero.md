@@ -33,7 +33,7 @@ Umherirrender Narr.
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li><b><a href="Serff.md"></a>:</b> Herr</li>
+<li><b>Serff:</b> Herr</li>
 </list>
 </procedure>
 

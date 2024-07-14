@@ -18,44 +18,40 @@ Attacken schon oft zuteil.
 </td></tr>
 </table>
 
-## Allgemeine Informationen
-
-- **Volk:** Dämonen
-- **Klasse:** Recke
-- **Gesinnung:** CG
-- **Verbleib:** verschwunden
-
-## Aussehen
-
-- **Alter:** Unbekannt
-- **Größe:** 1,82m
-- **Gewicht:** 51kg
-- **Augenfarbe:** Scharlachrot
-- **Haarfarbe:** Schwarz
-
-<!-- - **Maße:** 99/75-65-87 -->
-
-## Beziehungen
-
+<procedure title="Allgemeine Informationen">
 <list columns="3">
-<li>
-<b><a href="Thanatos.md">Thanatos</a>:</b> "Vater" und Gott
-</li>
-<li>
-<b><a href="Cinnabar.md">Cinnabar</a>:</b> Kleine Schwester
-</li>
-<li>
-<b><a href="Eliza.md">Eliza</a>:</b> Kleine Schwester
-</li>
-<li>
-<b><a href="Nayru.md">Nayru</a>:</b> Freundin
-</li>
-<li>
-<b><a href="U-Ranos.md">U-Ranos</a>:</b> Schwager
-</li>
+<li><b>Volk:</b> Dämonen</li>
+<li><b>Klasse:</b> Recke</li>
+<li><b>Gesinnung:</b> CG</li>
+<li><b>Verbleib:</b> verschwunden</li>
 </list>
+</procedure>
 
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> Unbekannt</li>
+<li><b>Größe:</b> 1,82m</li>
+<li><b>Gewicht:</b> 51kg</li>
+<li><b>Augenfarbe:</b> Scharlachrot</li>
+<li><b>Haarfarbe:</b> Pechschwarz</li>
+<!-- <li><b>Maße:</b> 99/75-65-87</li> -->
+</list>
+</procedure>
+
+<procedure title="Beziehungen">
+<list columns="3">
+<li><b><a href="Thanatos.md">Thanatos</a>:</b> "Vater" und Gott</li>
+<li><b><a href="Cinnabar.md">Cinnabar</a>:</b> Kleine Schwester</li>
+<li><b><a href="Eliza.md">Eliza</a>:</b> Kleine Schwester</li>
+<li><b><a href="Nayru.md">Nayru</a>:</b> Freundin</li>
+<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Schwager</li>
+</list>
+</procedure>
+
+
+<!--
 ## Notizen
 
 - **Ziele:**
 - **Geheimnisse:** 
+-->

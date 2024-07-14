@@ -32,8 +32,8 @@
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li><b><a href="Gralnach.md"></a>:</b> König</li>
-<li><b><a href="Cathlen.md"></a>:</b> Königin</li>
+<li><b>König Gralnach:</b> König</li>
+<li><b>Königin Cathlen:</b> Königin</li>
 </list>
 </procedure>
 
