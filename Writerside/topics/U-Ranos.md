@@ -36,7 +36,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> <!--Engel--> Mensch</li>
+<li><b>Volk:</b> Mensch</li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> LG/NG</li>
 <li><b>Verbleib:</b> am Leben</li>
@@ -45,7 +45,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> <!--349-->69</li>
+<li><b>Alter:</b> 69</li>
 <li><b>Größe:</b> 1,82m</li>
 <li><b>Gewicht:</b> 80kg</li>
 <li><b>Augenfarbe:</b> Gold</li>
