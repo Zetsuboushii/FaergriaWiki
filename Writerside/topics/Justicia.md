@@ -58,10 +58,11 @@ Justicia, die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der 
 </li>
 <li>
 <b><a href="Farone.md">Farone</a>:</b> Kollegin
-</li>
+</li<!--
 <li>
 <b><a href="Alcuin.md">Alcuin</a>:</b> Bruder
 </li>
+-->
 <li>
 <b><a href="Seloue.md">Seloue</a>:</b> Beste Freundin
 </li>
