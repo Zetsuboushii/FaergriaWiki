@@ -36,7 +36,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Engel</li>
+<li><b>Volk:</b> <!--Engel--> Mensch</li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> LG/NG</li>
 <li><b>Verbleib:</b> am Leben</li>
@@ -45,7 +45,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> 349</li>
+<li><b>Alter:</b> <!--349-->69</li>
 <li><b>Größe:</b> 1,82m</li>
 <li><b>Gewicht:</b> 80kg</li>
 <li><b>Augenfarbe:</b> Gold</li>
@@ -58,7 +58,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 <li><b><a href="Nayru.md">Nayru</a>:</b> Reisegefährtin (inoffiziell Teil seiner Familie)</li>
 <li><b><a href="Siegmund.md">Siegmund</a>:</b> Reisegefährte (inoffiziell Teil seiner Familie)</li>
 <!--<li><b><a href="">Inoro</a>:</b> Großer Bruder</li>-->
-<li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> missverstandener Bruder</li>
+<!--<li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> missverstandener Bruder</li>-->
 <!--<li><b><a href="">En-Troad</a>:</b> Bruder</li>-->
 <!--<li><b><a href="">Il-Vernia</a>:</b> Schwester</li>-->
 <!--<li><b><a href="">O-Gall</a>:</b> Bruder</li>-->
