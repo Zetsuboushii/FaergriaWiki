@@ -16,7 +16,7 @@ Dorfälteste von <a href="Duskwood.md" anchor="teryvnat"></a> und Besitzerin der
 <list columns="3">
 <li><b>Volk:</b> Elfen</li>
 <li><b>Klasse:</b> Tavernenbesitzer</li>
-<li><b>Gesinnung:</b></li>
+<li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>

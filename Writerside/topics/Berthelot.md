@@ -32,7 +32,7 @@
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li></li>
+<li><b>Banditenbande:</b> Familie</li>
 </list>
 </procedure>
 

@@ -39,6 +39,7 @@ Abenteurern zurückkommt.
 <list columns="3">
 <li><b><a href="Hosgrid.md"></a>:</b> Vater</li>
 <li><b><a href="Jofina.md"></a>:</b> Künftige Verlobte</li>
+<li><b><a href="Burdig.md"></a>:</b> Guter Freund der Familie</li>
 </list>
 </procedure>
 
