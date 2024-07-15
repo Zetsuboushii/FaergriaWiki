@@ -15,30 +15,35 @@ sie jedoch unterschätzen oder ihr Böses wollen, kann sie durchaus im Kampf seh
 </td></tr>
 </table>
 
-## Allgemeine Informationen
-
-- **Volk:** Schutzgeist (Fuchsgeist)
-- **Klasse:** Hohefürst
-- **Gesinnung:** LG
-- **Verbleib:** am Leben
-
-## Aussehen
-
-- **Alter:** Unbekannt (sehr junge menschliche Gestalt)
-- **Größe:** 1,44m
-- **Gewicht:** 36kg
-- **Augenfarbe:** Kristallweiß
-- **Haarfarbe:** Schneeweiß
-
-<!-- - **Maße:** 65/65-55-70 -->
-
-## Beziehungen
-
+<procedure title="Allgemeine Informationen">
 <list columns="3">
-
+<li><b>Volk:</b> Schutzgeist (Fuchsgeist)</li>
+<li><b>Klasse:</b> Hohefürst</li>
+<li><b>Gesinnung:</b> LG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
+</procedure>
 
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> Unbekannt (sehr junge menschliche Gestalt)</li>
+<li><b>Größe:</b> 1,44m</li>
+<li><b>Gewicht:</b> 36kg</li>
+<li><b>Augenfarbe:</b> Kristallweiß</li>
+<li><b>Haarfarbe:</b> Schneeweiß</li>
+<!-- <li><b>Maße:</b> 65/65-55-70</li> -->
+</list>
+</procedure>
+
+<procedure title="Beziehungen">
+<list columns="3">
+<li></li>
+</list>
+</procedure>
+
+<!--
 ## Notizen
 
 - **Ziele:** Schutz der Schneefüchse, Erhalt des Eises und Schnees
 - **Geheimnisse:** 
+-->

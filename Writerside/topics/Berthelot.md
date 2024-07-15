@@ -3,6 +3,11 @@
 <table>
 <tr><td>
 <p>
+Berthelot wurde schon im frühen Jugendalter aus <a href="Obsidian-Borderlands.md" anchor="elpis"></a> verbannt, weil er
+dabei erwischt wurde, wie er einen fahrenden Händler in der Nähe des Dorfes überfallen und ermordet hat. Seitdem
+wanderte Berthelot durch <a href="Hal.md">Hal</a> und überfiel weiterhin Reisende und Händler, um über die Runden zu
+kommen. Über die Zeit nahm Berthelot immer mehr gleichgesinnte jeden Alters unter seine Fittiche, da er sich für sie
+verantwortlich fühlte.
 </p>
 
 </td><td width="300">
@@ -32,7 +37,7 @@
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li><b>Banditenbande:</b> Familie</li>
+<li><b>Banditenbande:</b> "Familie"</li>
 </list>
 </procedure>
 
