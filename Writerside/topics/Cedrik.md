@@ -3,6 +3,8 @@
 <table>
 <tr><td>
 <p>
+Ein durch die Lande streifender Betrüger, der seine Opfer ermordet und sich mit Hilfe von Illusionsmagie in jenes Opfer
+verwandelt, um unbemerkt im Haushalt des Opfers unterzukommen.
 </p>
 
 </td><td width="300">

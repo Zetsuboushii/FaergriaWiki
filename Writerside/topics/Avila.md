@@ -3,7 +3,10 @@
 <table>
 <tr><td>
 <p>
-
+Diese liebreizende Hohefürstin nimmt ihre Aufgabe als Verkupplerin etwas zu ernst. Eigentlich sollte sie auf Anliegen
+reagieren, die ihr in ihrem Tempel beigetragen werden, jedoch ist Avila die meiste Zeit über auf Reisen in ganz
+Faergria, um potenziellen Pärchen den "Schubser in die richtige Richtung" zu geben. Spricht man sie auf diese
+Obzession an, wird sie schnell beleidigt.
 </p>
 
 </td><td width="300">
@@ -16,7 +19,7 @@
 <list columns="3">
 <li><b>Volk:</b> Halbelfen</li>
 <li><b>Klasse:</b> Hohefürstin</li>
-<li><b>Gesinnung:</b> LG</li>
+<li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>

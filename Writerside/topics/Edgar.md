@@ -3,6 +3,9 @@
 <table>
 <tr><td>
 <p>
+Der ängstliche und zerstreute Koch im <a href="Duensberg-Plateau.md" anchor="jagdschloss-d-nsberg"></a>. Schon als
+Junge hat Edgar angefangen zu kochen und verfeinert seine Kochkünste seit jeher. Er liebt es neue Kreationen zu
+erfinden, die er am liebsten seine kleine Schwester <a href="Eris.md">Eris</a> verköstigen lässt. 
 </p>
 
 </td><td width="300">
@@ -11,29 +14,37 @@
 </td></tr>
 </table>
 
-## Allgemeine Informationen
+<procedure title="Allgemeine Informationen">
+<list columns="3">
+<li><b>Volk:</b> Menschen</li>
+<li><b>Klasse:</b> Koch</li>
+<li><b>Gesinnung:</b> CN</li>
+<li><b>Verbleib:</b> am Leben</li>
+</list>
+</procedure>
 
-- **Volk:**
-- **Klasse:**
-- **Gesinnung:**
-- **Verbleib:**
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> 27</li>
+<li><b>Größe:</b> 1,89m</li>
+<li><b>Gewicht:</b> 74kg</li>
+<li><b>Augenfarbe:</b> Braun</li>
+<li><b>Haarfarbe:</b> Braun</li>
+</list>
+</procedure>
 
-## Aussehen
-
-- **Alter:**
-- **Größe:**
-- **Gewicht:**
-- **Augenfarbe:**
-- **Haarfarbe:**
+<procedure title="Beziehungen">
+<list columns="3">
+<li><b><a href="Eris.md">Eris</a>:</b> Kleine Schwester</li>
+<li><b><a href="Dorian.md"></a>:</b> Ehem. Herr</li>
+<li><b><a href="Grete.md">Grete</a>:</b> Freundin und Kollegin</li>
+<li><b><a href="Siegmund.md">Siegmund</a>:</b> Herr</li>
+<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Herr</li>
+<li><b><a href="Nayru.md">Nayru</a>:</b> Herrin</li>
+</list>
+</procedure>
 
 <!--
-## Beziehungen
-
-<list columns="3">
-<li>
-</li>
-</list>
-
 ## Notizen
 
 - **Ziele:** 
