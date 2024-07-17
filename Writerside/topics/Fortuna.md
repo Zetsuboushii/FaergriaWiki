@@ -20,7 +20,7 @@ Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Volk:</b> Gott</li>
-<li><b>Klasse:</b> Gott</li>
+<li><b>Klasse:</b> Göttin des Schicksals</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> verschwunden</li>
 </list>

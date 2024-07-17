@@ -3,6 +3,9 @@
 <table>
 <tr><td>
 <p>
+Der vor jugendlicher Reinheit strotzende Hohefürst Ouin genießt seine Existenz in seinem Tempel im Dorf der Pikori.
+Gelegentlich treibt er sich jedoch in Menschengestalt am <a href="Lake-of-Youth.md"></a> herum und plückt Blumen.
+Er kann es nicht leiden, wenn Personen zu
 </p>
 
 </td><td width="300">
@@ -11,29 +14,34 @@
 </td></tr>
 </table>
 
-## Allgemeine Informationen
+<procedure title="Allgemeine Informationen">
+<list columns="3">
+<li><b>Volk:</b> Pikori</li>
+<li><b>Klasse:</b> Hohefürst</li>
+<li><b>Gesinnung:</b> NG</li>
+<li><b>Verbleib:</b> am Leben</li>
+</list>
+</procedure>
 
-- **Volk:**
-- **Klasse:**
-- **Gesinnung:**
-- **Verbleib:**
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> Unbekannt</li>
+<li><b>Größe:</b> 1,63m</li>
+<li><b>Gewicht:</b> 53kg</li>
+<li><b>Augenfarbe:</b> Rosa</li>
+<li><b>Haarfarbe:</b> Blond</li>
+</list>
+</procedure>
 
-## Aussehen
+<procedure title="Beziehungen">
+<list columns="3">
+<li><b><a href="Hama.md">Hama</a>:</b> Große Schwester</li>
+<li><b><a href="Mudo.md">Mudo</a>:</b> Freund</li>
+</list>
+</procedure>
 
-- **Alter:**
-- **Größe:**
-- **Gewicht:**
-- **Augenfarbe:**
-- **Haarfarbe:**
 
 <!--
-## Beziehungen
-
-<list columns="3">
-<li>
-</li>
-</list>
-
 ## Notizen
 
 - **Ziele:** 

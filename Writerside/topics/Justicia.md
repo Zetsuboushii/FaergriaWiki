@@ -3,7 +3,9 @@
 <table>
 <tr><td>
 <p>
-Die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der Welt.
+Die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der Welt. Justicia ist die älteste unter den Gottheiten,
+auch wenn man es ihr nicht ansieht. Ihr Glaube ist in Faergria am weitesten verbreitet. Mit viel Sorgsamkeit nimmt sie
+sich der Gebete an, die an sie gerichtet werden und lässt Gerechtigkeit dort walten, wo Unrecht geschieht.
 </p>
 
 </td><td width="300">
@@ -28,7 +30,7 @@ Die lichtbringende Göttin als Sinnbild für die Gerechtigkeit in der Welt.
 <li><b>Gewicht:</b> 72kg</li>
 <li><b>Augenfarbe:</b> Gold</li>
 <li><b>Haarfarbe:</b> Gülden</li>
-<!-- <li><b>Maße:</b> 100/85-70-90</li> -->
+<!-- <li><b>Maße:</b> 102/85-70-90</li> -->
 </list>
 </procedure>
 

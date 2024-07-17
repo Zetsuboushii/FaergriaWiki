@@ -137,7 +137,8 @@
         <toc-element topic="Francis.md"/>
         <toc-element topic="Gretchen.md"/>
         <toc-element topic="Grete.md"/>
-        <toc-element topic="Grund.md"/>
+        <toc-element topic="Grund.md">
+        </toc-element>
         <toc-element topic="Hama.md"/>
         <toc-element topic="Hartwin.md"/>
         <toc-element topic="Hindrik.md"/>
