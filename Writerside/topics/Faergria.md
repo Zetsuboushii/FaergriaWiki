@@ -1,4 +1,4 @@
-# Faergria
+# Vereinigtes Königreich Faergria
 
 <p>
 Im Jahr 394 nach der Vereinigung unter König Gunthard dem Gütigen erstrahlte das Vereinigte Königreich Faergria in einer

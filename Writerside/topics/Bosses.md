@@ -2,212 +2,6 @@
 
 Bossgegner sind enorm starke, einzigartige Gegner.
 
-<!--
-## Grausamer Meeresleviathan Abyssor, Peiniger des Quellheiligtums {collapsible="true" default-state="expanded"}
-
-<img src="abyssor.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-<!--
-## Uralter Baumwächter {collapsible="true" default-state="expanded"}
-
-<img src="baumwaechter.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-<!--
-## Eisiger Herrscher der Wildnis Boreanos, Peiniger der Schneelande {collapsible="true" default-state="expanded"}
-
-<img src="boreanos.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-<!--
-## Ealhhild, Feuerhexe des Nordens {collapsible="true" default-state="expanded"}
-
-<img src="ealhhild.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-<!--
-## Steinernes Donnerungetüm Elektrabrax, Peiniger des Biltzaltars {collapsible="true" default-state="expanded"}
-
-<img src="elektrabrax.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-<!--
-## Godfred {collapsible="true" default-state="expanded"}
-
-<img src="godfred.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-<!--
-## Tyrann der Lüfte Faergrias Grawafyr, Peiniger des Palasts des Windes {collapsible="true" default-state="expanded"}
-
-<img src="grawafyr.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
--->
-
-## Hadubrand, Diakon des Falschen Glaubens {collapsible="true" default-state="expanded"}
-
-<img src="hadubrand.png" alt=""/>
-
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
-
-| Str | Dex | Con | Int | Wis | Cha |
-|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
-
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
-
-| Ability | Description |
-|---------|-------------|
-|         |             |
-
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
-
 ## Antiker Aschefürst Pyrothraxus, Peiniger des Feuersanktuariums {collapsible="true" default-state="expanded"}
 
 <img src="pyrothraxus.png" alt=""/>
@@ -237,7 +31,174 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Klauen                    | Melee, +12 Hit, 5ft.  | 2d6+6 slashing             |
 | Schweif                   | Melee, +12 Hit, 15ft. | 2d8+6 bludgeoning          |
 
-<!--
+## Grausamer Meeresleviathan Abyssor, Peiniger des Quellheiligtums {collapsible="true" default-state="expanded"}
+
+<img src="abyssor.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Eisiger Herrscher der Wildnis Boreanos, Peiniger der Schneelande {collapsible="true" default-state="expanded"}
+
+<img src="boreanos.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Steinernes Donnerungetüm Elektrabrax, Peiniger des Biltzaltars {collapsible="true" default-state="expanded"}
+
+<img src="elektrabrax.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Tyrann der Lüfte Faergrias Grawafyr, Peiniger des Palasts des Windes {collapsible="true" default-state="expanded"}
+
+<img src="grawafyr.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Ealhhild, Feuerhexe des Nordens {collapsible="true" default-state="expanded"}
+
+<img src="ealhhild.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Godfred {collapsible="true" default-state="expanded"}
+
+<img src="godfred.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
+## Hadubrand, Diakon des Falschen Glaubens {collapsible="true" default-state="expanded"}
+
+<img src="hadubrand.png" alt=""/>
+
+| HP | AC | Move |
+|----|----|------|
+|    |    |      |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |
+
+| Typ | Weakness | Resistances | Immunities |
+|-----|----------|-------------|------------|
+|     |          |             |            |
+
+| Ability | Description |
+|---------|-------------|
+|         |             |
+
+| Action | Description | Attack | Damage |
+|--------|-------------|--------|--------|
+|        |             |        |        |
+
 ## Roter Wolf {collapsible="true" default-state="expanded"}
 
 <img src="roter_wolf.png" alt=""/>
@@ -261,7 +222,6 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Action | Description | Attack | Damage |
 |--------|-------------|--------|--------|
 |        |             |        |        |
--->
 
 ## Sühneklinge, Verfluchte Seele der Ewigen Rache {collapsible="true" default-state="expanded"}
 
@@ -293,7 +253,6 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Klagendes Stöhnen      | 20 ft. Radius, einmal pro Tag    | Wisdom DC 16 | 2d8 necrotic, frightened          |
 | Umklammerung der Toten | Melee, Reach 10 ft.              | +7 to hit    | 2d6+4 bludgeoning, restrain       |
 
-<!--
 ## Tetravora, Vierköpfiges Schreckensranken-Nachtschattengestrüpp {collapsible="true" default-state="expanded"}
 
 <img src="tetravora.png" alt=""/>
@@ -317,9 +276,7 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Action | Description | Attack | Damage |
 |--------|-------------|--------|--------|
 |        |             |        |        |
--->
 
-<!--
 ## Wandelnde Festung {collapsible="true" default-state="expanded"}
 
 <img src="wandelnde_festung.png" alt=""/>
@@ -343,4 +300,3 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Action | Description | Attack | Damage |
 |--------|-------------|--------|--------|
 |        |             |        |        |
--->
