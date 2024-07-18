@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <primary-label id="npc" short-name="NPC" name="Non-Playable Character" color="red">
+        Charakter wird vom DM gespielt
+    </primary-label>
+    <primary-label id="player" short-name="PC" name="Player Character" color="blue">
+        Charakter wird von einem Spieler gespielt
+    </primary-label>
+    <primary-label id="lore" short-name="L" name="Lore" color="tangerine">
+        Dieser und unter untergeordnete Einträge enthalten Informationen zur Welt
+    </primary-label>
+    <primary-label id="mechanics" short-name="M" name="Spielmechaniken" color="purple">
+        Dieser und unter untergeordnete Einträge enthalten Informationen essenziell für den Spielablauf
+    </primary-label>
+
+    <secondary-label id="animus" name="Animus" color="strawberry">Charakter stammt aus dem Animus</secondary-label>
+    <secondary-label id="justice" name="Hof der Gerechtigkeit" color="strawberry">Charakter stammt aus dem Hof der Gerechtigkeit</secondary-label>
+    <secondary-label id="fate" name="See des Schicksals" color="strawberry">Charakter stammt aus dem See des Schicksals</secondary-label>
+    <secondary-label id="sin" name="Gebirge der Sünde" color="strawberry">Charakter stammt aus dem Gebirge der Sünde</secondary-label>
+    <secondary-label id="magic" name="Garten der Magie" color="strawberry">Charakter stammt aus dem Garten der Magie</secondary-label>
+    <secondary-label id="souls" name="Ofen der Seelen" color="strawberry">Charakter stammt aus dem Ofen der Seelen</secondary-label>
+
+    <secondary-label id="faergria" name="Faergria" color="strawberry">Charakter stammt aus dem Vereinten Königreich Faergria</secondary-label>
+    <secondary-label id="thaugrien" name="Thaugrier" color="strawberry">Charakter stammt aus Thaugrien</secondary-label>
+    <secondary-label id="escrigria" name="Escrigrianer" color="strawberry">Charakter stammt aus Escrigria</secondary-label>
+    <secondary-label id="kluirm" name="Kluirm" color="strawberry">Charakter stammt aus Kluirm</secondary-label>
+    <secondary-label id="hal" name="Hale" color="strawberry">Charakter stammt aus Hal</secondary-label>
+    <secondary-label id="farodris" name="Farodre" color="strawberry">Charakter stammt aus Farodris</secondary-label>
+    <secondary-label id="inidal" name="Inidale" color="strawberry">Charakter stammt aus Inidal</secondary-label>
+    <secondary-label id="tinorland" name="Tinore" color="strawberry">Charakter stammt aus Tinorland</secondary-label>
+    <secondary-label id="adrestia" name="Adrestianer" color="strawberry">Charakter stammt aus Adrestia</secondary-label>
+    <secondary-label id="hydracion" name="Hydracier" color="strawberry">Charakter stammt aus Hydracion</secondary-label>
+
+    <secondary-label id="tenebris" name="Tenebris" color="strawberry">Charakter stammt aus Tenebris</secondary-label>
+    <secondary-label id="markath" name="Markather" color="strawberry">Charakter stammt aus Markath</secondary-label>
+
+    <secondary-label id="1" name="1. Generation" color="purple">Charakter ist Hohefürst der ersten Generation</secondary-label>
+    <secondary-label id="2" name="2. Generation" color="purple">Charakter ist Hohefürst der zweiten Generation</secondary-label>
+    <secondary-label id="3" name="3. Generation" color="purple">Charakter ist Hohefürst der dritten Generation</secondary-label>
+    <secondary-label id="4" name="4. Generation" color="purple">Charakter ist Hohefürst der vierten Generation</secondary-label>
+    <secondary-label id="5" name="5. Generation" color="purple">Charakter ist Hohefürst der fünften Generation</secondary-label>
+</labels>

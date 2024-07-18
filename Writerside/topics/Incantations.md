@@ -1,5 +1,7 @@
 # Anrufungen
 
+<primary-label ref="mechanics"/>
+
 Anrufungen basieren auf der Kraft des Glaubens an eine höhere Macht.
 
 ## Kirche der himmlischen Gerechtigkeit {collapsible="true" default-state="expanded"}

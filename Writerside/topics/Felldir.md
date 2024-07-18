@@ -1,5 +1,11 @@
 # Felldir, Kommandant der Stadtwache Grenbrock
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="thaugrien"/>
+
 <table>
 <tr><td>
 <p>
@@ -19,7 +25,7 @@ zumindest bis <a href="Siegmund.md">Siegmund, der Meisterdieb</a> und
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Paladin</li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>

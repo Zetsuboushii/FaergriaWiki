@@ -1,5 +1,11 @@
 # O-Gall, Himmlische Bestrafung
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="justice"/>
+
 <table>
 <tr><td>
 <p>

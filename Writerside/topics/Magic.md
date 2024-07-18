@@ -1,5 +1,7 @@
 # Magie
 
+<primary-label ref="mechanics"/>
+
 <p>
 Magische Zauber werden in Form von <a href="Spells.md">Zaubereien</a> und <a href="Incantations.md">Anrufungen</a>
 gewirkt. Von der Beschwörung von Schimmerstein-Kieseln bis hin zum Herbeirufen der Macht eines Drachenatems, decken

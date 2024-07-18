@@ -1,5 +1,11 @@
 # Kaen, Hohefürstin des Feuers
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="1"/>
+
 <table>
 <tr><td>
 <p>
@@ -17,7 +23,7 @@ Ihre zynische und abweisende Art schreckt viele ab, doch so bekommen die meisten
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Mensch</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>
@@ -37,10 +43,9 @@ Ihre zynische und abweisende Art schreckt viele ab, doch so bekommen die meisten
 
 <procedure title="Beziehungen">
 <list columns="3">
-<!-- <li><b><a href="Invidianoir.md">Invidianoir</a>:</b> Schwester</li> -->
+<!-- <li><b><a href="Invidianoir.md">Invidianoir</a>:</b> Kleine Schwester</li> -->
 </list>
 </procedure>
-
 
 <!--
 ## Notizen

@@ -1,5 +1,7 @@
 # Waffen
 
+<primary-label ref="mechanics"/>
+
 Waffen skalieren auf die Attribute Stärke, Geschicklichkeit, Konsitution, Intelligenz, Weisheit und Charisma mit
 folgenden Klassen:
 

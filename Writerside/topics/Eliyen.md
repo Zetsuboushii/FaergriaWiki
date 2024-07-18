@@ -1,5 +1,11 @@
 # Eliyen
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="farodris"/>
+
 <table>
 <tr><td>
 <p>

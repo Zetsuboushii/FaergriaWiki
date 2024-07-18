@@ -1,5 +1,7 @@
 # Kanalisierungen
 
+<primary-label ref="mechanics"/>
+
 Kanalisierungen sind positive Zauber und Fähigkeiten, die durch ein einvernehmliches Versprechen zwischen einer Person
 und einem Hohefürsten entstehen. Ein Kanalisierungsobjekt eines Hohefürsten kann im Rahmen der Abklingzeit nur von einer
 Person gleichzeitig verwendet werden. Bei Benutzung wachsen die Fähigkeiten heran.

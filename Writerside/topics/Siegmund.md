@@ -1,5 +1,9 @@
 # Siegmund "Der Rabe"
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
 <table>
 <tr><td>
 <p>

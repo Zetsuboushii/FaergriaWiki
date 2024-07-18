@@ -1,5 +1,11 @@
 # Ar-Merer, Erbarmungsloser Inquisitor
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="justice"/>
+
 <table>
 <tr><td>
 <p>
@@ -25,7 +31,7 @@ Ar-Merer etwas über die Stränge.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Engel</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="engel"></a></li>
 <li><b>Klasse:</b> Recke</li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>

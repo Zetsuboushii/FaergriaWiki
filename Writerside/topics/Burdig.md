@@ -1,5 +1,11 @@
 # Burdig
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="thaugrien"/>
+
 <table>
 <tr><td>
 <p>
@@ -20,7 +26,7 @@ seit jeher Junggeselle).
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Tavernenbesitzer</li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>

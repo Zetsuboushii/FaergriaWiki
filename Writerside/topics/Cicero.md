@@ -1,5 +1,11 @@
 # Cicero
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="farodris"/>
+
 <table>
 <tr><td>
 <p>
@@ -18,7 +24,7 @@ Auf unerklärliche Weise entkam Cicero eines Nachts aus dem Kerker und wurde auf
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Elfen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Vasall</li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> verstorben</li>

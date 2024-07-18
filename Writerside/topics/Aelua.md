@@ -1,5 +1,11 @@
 # Aelua
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="farodris"/>
+
 <table>
 <tr><td>
 <p>
@@ -14,7 +20,7 @@ Dorfälteste von <a href="Duskwood.md" anchor="teryvnat"></a> und Besitzerin der
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Elfen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Tavernenbesitzer</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>

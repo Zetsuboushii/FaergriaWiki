@@ -1,5 +1,11 @@
 # Sonya, Prinzessin von Hal
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="hal"/>
+
 <table>
 <tr><td>
 <p>
@@ -22,7 +28,7 @@ Zeit eine Assassinin in der Diebesgilde und feste Kollegin von Valerius.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Assassinin</li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> am Leben</li>

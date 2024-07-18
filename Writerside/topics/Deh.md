@@ -1,5 +1,11 @@
 # Deh
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="hydracion"/>
+
 <table>
 <tr><td>
 <p>
@@ -14,7 +20,7 @@ Ehemalige Schülerin von <a href="Suskinox.md"></a>.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Drakonier</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="drakonier"></a></li>
 <li><b>Klasse:</b> Klerikerin</li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>

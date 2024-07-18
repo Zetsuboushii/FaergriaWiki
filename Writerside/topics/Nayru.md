@@ -1,5 +1,11 @@
 # Nayru
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="adrestia"/>
+
 <table>
 <tr><td>
 <p>

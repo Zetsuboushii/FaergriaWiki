@@ -1,5 +1,11 @@
 # Joist
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="hal"/>
+
 <table>
 <tr><td>
 <p>

@@ -1,5 +1,7 @@
 # Zaubereien
 
+<primary-label ref="mechanics"/>
+
 Zauber werden durch Forschung und Wissen erschaffen. Es ist möglich Zauber zu erlernen.
 
 ## Wassermagie {collapsible="true" default-state="expanded"}

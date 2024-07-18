@@ -1,4 +1,10 @@
-# Mudo
+# Mudo, Hohefürst der Sterblichkeit
+
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="2"/>
 
 <table>
 <tr><td>

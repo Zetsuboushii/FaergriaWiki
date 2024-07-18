@@ -1,5 +1,11 @@
 # Edgar
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="thaugrien"/>
+
 <table>
 <tr><td>
 <p>
@@ -16,7 +22,7 @@ erfinden, die er am liebsten seine kleine Schwester <a href="Eris.md">Eris</a> v
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Koch</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>

@@ -1,5 +1,11 @@
 # Prof. Trans. Wulvarax Suskinox
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="hydracion"/>
+
 <table>
 <tr><td>
 <p>

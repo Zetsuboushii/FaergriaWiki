@@ -1,5 +1,11 @@
 # Karl
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="thaugrien"/>
+
 <table>
 <tr><td>
 <p>
@@ -18,7 +24,7 @@ Während der Abwesenheit der Schlossherren kümmert sich Karl um das Grundstück
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Butler</li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>

@@ -1,5 +1,7 @@
 # Animus
 
+<primary-label ref="lore"/>
+
 <p>
 Animus ist die Elementarebene der Götter der Welt. Sie ist unterteilt in den
 <a href="CourtOfJustice.md">Hof der Gerechtigkeit</a>, das Reich Justicias, der

@@ -1,5 +1,11 @@
 # Justicia, Göttin der Gerechtigkeit und des Lichts
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="justice"/>
+
 <table>
 <tr><td>
 <p>

@@ -1,9 +1,9 @@
 # Faergrianische Zeitrechnung
 
+<primary-label ref="lore"/>
+
 Die faergrianische Zeitrechnung beginnt ab der Vereinigung des Königreiches im Jahre 0 nach Vereinigung (n.V.).
 Ein Tag hat 24 Stunden, eine Woche sieben Tage, ein Mond hat vier Wochen, ein Jahr hat zwölf Monde.
-
-## Namensschemata { collapsible="true" default-state="expanded" }
 
 Tage der Woche
 : **Lunesdag** (Lun): Tag des Mondes

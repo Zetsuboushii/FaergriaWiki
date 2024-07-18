@@ -1,5 +1,9 @@
 # U-Ranos, Unbeugsame Gerechtigkeit
 
+<primary-label ref="player"/>
+
+<secondary-label ref="faergria"/>
+
 <table>
 <tr><td>
 <p>
@@ -36,7 +40,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Mensch</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> LG/NG</li>
 <li><b>Verbleib:</b> am Leben</li>

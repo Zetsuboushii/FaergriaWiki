@@ -1,5 +1,11 @@
 # Avila, Hohefürstin der Liebe
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="3"/>
+
 <table>
 <tr><td>
 <p>
@@ -17,7 +23,7 @@ Obzession an, wird sie schnell beleidigt.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Halbelfen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
 <li><b>Klasse:</b> Hohefürstin</li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> am Leben</li>

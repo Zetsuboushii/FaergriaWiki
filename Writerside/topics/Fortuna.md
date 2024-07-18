@@ -1,5 +1,11 @@
 # Fortuna, Göttin des Schicksals
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="fate"/>
+
 <table>
 <tr><td>
 <p>

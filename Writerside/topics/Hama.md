@@ -1,5 +1,11 @@
 # Hama, Hohefürstin der Gesundheit
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="2"/>
+
 <table>
 <tr><td>
 <p>
@@ -18,7 +24,7 @@ kann. <a href="Seloue.md">Seloue</a> weiß sehr viel über Hama, da sie sehr oft
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Pikori</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="pikori"></a></li>
 <li><b>Klasse:</b> Hohefürstin</li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>

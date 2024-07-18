@@ -14,7 +14,7 @@
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Götter</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
 <li><b>Klasse:</b> Gott</li>
 <li><b>Gesinnung:</b> LE</li>
 <li><b>Verbleib:</b> verbannt</li>

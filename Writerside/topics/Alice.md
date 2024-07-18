@@ -1,5 +1,11 @@
 # Alice
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="escrigria"/>
+
 <table>
 <tr><td>
 <p>
@@ -21,7 +27,7 @@ diesen Vorfall.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Halbelfen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
 <li><b>Klasse:</b> Nekromant</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>

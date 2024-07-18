@@ -1,5 +1,11 @@
 # Invidianoir, Hohefürstin der Eifersucht
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="4"/>
+
 <table>
 <tr><td>
 <p>

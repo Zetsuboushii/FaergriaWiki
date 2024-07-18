@@ -1,4 +1,10 @@
-# Scarlet, Erzmagier der Wollust
+# Scarlet, Erzmagierin der Wollust
+
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="sin"/>
 
 <table>
 <tr><td>
@@ -20,7 +26,7 @@ Attacken schon oft zuteil.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Dämonen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
 <li><b>Klasse:</b> Recke</li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> verschwunden</li>

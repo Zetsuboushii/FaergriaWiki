@@ -1,5 +1,11 @@
 # Farone, Göttin der Natur und der Magie
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="magic"/>
+
 <table>
 <tr><td>
 <p>

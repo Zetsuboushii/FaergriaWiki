@@ -1,5 +1,11 @@
 # Iddra, Hohefürstin der Gier
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="4"/>
+
 <table>
 <tr><td>
 <p>
@@ -26,7 +32,7 @@ Bunde zu ihrer Hohefürstengeneration hat sie gebrochen und schlägt sich aktuel
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Dämonen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
 <li><b>Klasse:</b> Diebin</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>

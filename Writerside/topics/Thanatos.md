@@ -1,5 +1,11 @@
 # Thanatos, Gott der Sünde und der Finsternis
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="animus"/>
+
+<secondary-label ref="sin"/>
+
 <table>
 <tr><td>
 <p>

@@ -1,5 +1,7 @@
 # Verteidigung
 
+<primary-label ref="mechanics"/>
+
 Ausgangs-AC: <b>8</b>
 <tabs>
 <tab title="Rüstungen">

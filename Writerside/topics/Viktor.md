@@ -1,5 +1,11 @@
 # Viktor
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="tinorland"/>
+
 <table>
 <tr><td>
 <p>

@@ -1,5 +1,11 @@
 # Carmesine
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="hal"/>
+
 <table>
 <tr><td>
 <p>
@@ -32,7 +38,7 @@ hinter einer Ecke hervor sieht, und beobachtet ihn heimlich.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Nonne</li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>

@@ -1,5 +1,7 @@
 # Flüche
 
+<primary-label ref="mechanics"/>
+
 Flüche sind mächtige negative Zauber und Fähigkeiten von Hohefürsten.
 
 ## Flüche erster Klasse

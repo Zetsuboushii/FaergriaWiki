@@ -1,5 +1,11 @@
 # Fubuki, Hohefürstin des Eises
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="1"/>
+
 <table>
 <tr><td>
 <p>

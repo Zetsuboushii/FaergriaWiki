@@ -1,5 +1,11 @@
 # Reisen
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="tenebris"/>
+
+<secondary-label ref="markath"/>
+
 <table>
 <tr><td>
 <p>

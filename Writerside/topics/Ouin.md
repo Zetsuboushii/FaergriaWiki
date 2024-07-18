@@ -1,4 +1,10 @@
-# Ouin
+# Ouin, Hohefürst der Jugend
+
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="3"/>
 
 <table>
 <tr><td>
@@ -16,7 +22,7 @@ Er kann es nicht leiden, wenn Personen zu
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Pikori</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="pikori"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
@@ -39,7 +45,6 @@ Er kann es nicht leiden, wenn Personen zu
 <li><b><a href="Mudo.md">Mudo</a>:</b> Freund</li>
 </list>
 </procedure>
-
 
 <!--
 ## Notizen

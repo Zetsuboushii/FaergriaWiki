@@ -1,5 +1,11 @@
 # Seloue, Hohefürstin der Weisheit
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="2"/>
+
 <table>
 <tr><td>
 <p>
@@ -20,7 +26,7 @@ auch schnell grantig werden.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Halbelfen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>

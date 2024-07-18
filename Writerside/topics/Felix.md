@@ -1,5 +1,11 @@
 # Felix
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="thaugrien"/>
+
 <table>
 <tr><td>
 <p>

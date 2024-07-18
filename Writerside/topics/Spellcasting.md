@@ -1,5 +1,7 @@
 # Magiewirken
 
+<primary-label ref="mechanics"/>
+
 <tabs>
 <tab title="Stäbe">
 Stäbe werden genutzt, um Zauber zu wirken. (Int)

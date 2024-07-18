@@ -1,5 +1,11 @@
 # Artie
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="escrigria"/>
+
 <table>
 <tr><td>
 <p>
@@ -20,7 +26,7 @@ ist Artie geflüchtet, hat Nayru angegriffen und wurde kurz darauf von Marjorie 
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Bürger</li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> exekutiert</li>

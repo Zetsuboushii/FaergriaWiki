@@ -1,5 +1,11 @@
 # Falk
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="faergria"/>
+
+<secondary-label ref="escrigria"/>
+
 <table>
 <tr><td>
 <p>
