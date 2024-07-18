@@ -1,5 +1,7 @@
 # Gifte
 
+<primary-label ref="mechanics"/>
+
 Wird ein Ziel mit einem Angriff des Typs Gift getroffen, so muss dieses einen Weisheitsrettungswurf bestehen,
 ansonsten ist es bis zu 5 Runden lang vergiftet und erleidet am Start des Zuges jenen gewürfelten Giftschaden. Davor
 hat das Ziel jedoch noch die Chance den Rettungswurf zu bestehen.

@@ -1,5 +1,7 @@
 # Tränke, Elixire, Tinkturen und Öle
 
+<primary-label ref="mechanics"/>
+
 Ein Trank ist äquivalent zu einer Portion.
 
 <table>

@@ -1,5 +1,7 @@
 # Alchemie
 
+<primary-label ref="mechanics"/>
+
 ## Alchemieklassen {collapsible="true" default-state="expanded"}
 
 <p>
