@@ -31,7 +31,7 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Klauen                    | Melee, +12 Hit, 5ft.  | 2d6+6 slashing             |
 | Schweif                   | Melee, +12 Hit, 15ft. | 2d8+6 bludgeoning          |
 
-## Grausamer Meeresleviathan Abyssor, Peiniger des Quellheiligtums {collapsible="true" default-state="expanded"}
+## Grausamer Meeresleviathan Abyssor, Peiniger des Meerestempels {collapsible="true" default-state="expanded"}
 
 <img src="abyssor.png" alt=""/>
 
