@@ -106,7 +106,9 @@
     <toc-element topic="Currency.md"/>
     <toc-element topic="Folks.md"/>
     <toc-element topic="Religion.md"/>
-    <toc-element topic="Faergrian-Time.md"/>
+    <toc-element topic="Faergrian-Time.md">
+        <toc-element topic="Year-349.md"/>
+    </toc-element>
     <toc-element topic="Characters.md">
         <toc-element topic="Aelua.md"/>
         <toc-element topic="Alice.md"/>

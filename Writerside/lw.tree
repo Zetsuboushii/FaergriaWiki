@@ -98,6 +98,7 @@
             <toc-element topic="Kradian.md">
                 <toc-element topic="Mesmudor.md"/>
             </toc-element>
+            <toc-element topic="Kouyoukuni.md"/>
         </toc-element>
         <toc-element topic="Tenebris.md">
             <toc-element topic="Markath.md">
@@ -105,6 +106,12 @@
                 <toc-element topic="Undraridor.md"/>
             </toc-element>
         </toc-element>
+    </toc-element>
+    <toc-element topic="Currency.md"/>
+    <toc-element topic="Folks.md"/>
+    <toc-element topic="Religion.md"/>
+    <toc-element topic="Faergrian-Time.md">
+        <toc-element topic="Year-349.md"/>
     </toc-element>
     <toc-element topic="Characters.md">
         <toc-element topic="Adamar.md"/>
@@ -297,8 +304,4 @@
             <toc-element topic="Undead.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Currency.md"/>
-    <toc-element topic="Faergrian-Time.md"/>
-    <toc-element topic="Folks.md"/>
-    <toc-element topic="Religion.md"/>
 </instance-profile>

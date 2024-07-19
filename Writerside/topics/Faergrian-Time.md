@@ -1,4 +1,4 @@
-# Faergrianische Zeitrechnung
+# Faergrianischer Kalender
 
 <primary-label ref="lore"/>
 

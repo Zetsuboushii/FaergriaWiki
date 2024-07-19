@@ -1,0 +1,3 @@
+# Kaiserreich Kouyoukuni
+
+Start typing here...
