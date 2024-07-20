@@ -18,6 +18,8 @@ als eine Bastion vor den harten Wintern.
 
 Ein massives Bauwerk, die als sicherste Festung Faergrias gilt.
 
+![]()
+
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">
 <!-- <li><a href="Aquila.md"></a></li> -->

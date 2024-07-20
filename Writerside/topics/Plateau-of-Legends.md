@@ -9,8 +9,5 @@ Giganten gezähmt haben.
 
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">
-<li><a href="Balthus.md"></a></li>
-<li><a href="Nayru.md"></a></li>
-<li><a href="Orobas.md"></a></li>
 </list>
 </procedure>

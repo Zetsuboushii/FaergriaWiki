@@ -12,6 +12,8 @@ Diese historische Stadt hält sich nicht zurück, sich selbst neu zu erfinden. T
 Neuheiten treten mit ziemlicher Sicherheit hier zuerst auf. Erst kürzlich wurde eine Teststrecke mitsamt zwei Stationen
 für eine neuartige Fortbewegungsmethode errichtet, die bei den Bewohnern auf gute Kritiken stößt.
 
+![](aegir.png)
+
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">
 <li><a href="Ezekiel.md"></a></li>
@@ -24,6 +26,8 @@ für eine neuartige Fortbewegungsmethode errichtet, die bei den Bewohnern auf gu
 </procedure>
 
 ### Schloss Aegir {collapsible="true" default-state="expanded"}
+
+![]()
 
 Im großen, hellen Schloss Aegirs residiert die Köngisfamilie, deren Berater und Garde. Hin und wieder lädt die Königin
 Gäste aus ganz Faergria zu riesigen Banketten und Bällen, obwohl ihr Gatte, der König, recht wenig damit anfangen kann.
@@ -39,6 +43,8 @@ Gäste aus ganz Faergria zu riesigen Banketten und Bällen, obwohl ihr Gatte, de
 </procedure>
 
 ### Adrestianische Eisenbahn {collapsible="true" default-state="expanded"}
+
+![](adrestian_railway_tfz.jpg)
 
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">

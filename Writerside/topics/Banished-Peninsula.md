@@ -9,7 +9,7 @@ den aus Faergria Verbannten in Eigenregie geführt wird. Das Oberhaupt der Stadt
 bekannt. Dennoch munkelt man, dass es sich um eine mysteriöse Frau mit großem Reichtum handeln soll, die innerhalb
 der Stadt mit viel Respekt geachtet wird.
 
-<img src="niddarvellir_central_city.jpg" alt=""/>
+![](niddarvellir_central_city.jpg)
 
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">
@@ -24,6 +24,8 @@ der Stadt mit viel Respekt geachtet wird.
 In diesem uralten Sumpfland sollen sich riesige Schätze befinden. Dennoch kehren nur die allerwenigsten zurück, die
 danach suchen. Wer sich in diesen dunklen Sumpf wagt, könnte dennoch mit sagenumwobenen Relikten sich Ruhm und Ehre
 erkaufen.
+
+![](drakensumpf.jpg)
 
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">

@@ -8,6 +8,8 @@ das <a href="Kluirm.md"></a> feste Handelspartner. Die Abenteurergilde lockt sei
 Gemäuer.
 </p>
 
+![]()
+
 <procedure title="Charaktere aktuell an diesem Ort">
 <list columns="3">
 <!-- <li><a href="Gerhard.md"></a></li> -->

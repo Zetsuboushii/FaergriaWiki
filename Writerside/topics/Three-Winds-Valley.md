@@ -16,3 +16,21 @@ geschmackvollen Kräutern, die sich hier anbauen lassen. Die erste Zeitung Faerg
 <li><a href="Alice.md"></a></li>
 </list>
 </procedure>
+
+## Kirchenruine { collapsible="true" default-state="expanded" }
+
+![](three_winds_valley_church_ruins.jpg)
+
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+</list>
+</procedure>
+
+## Fortunas Tempel am Bergpass { collapsible="true" default-state="expanded" }
+
+![](three_winds_valley_temple.jpg)
+
+<procedure title="Charaktere aktuell an diesem Ort">
+<list columns="3">
+</list>
+</procedure>
