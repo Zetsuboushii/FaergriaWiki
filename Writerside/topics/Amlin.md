@@ -9,7 +9,13 @@
 <table>
 <tr><td>
 <p>
-
+Die leicht eingeschnappte Hohefürstin der Zeit treibt sich meist alleine in ihrem
+<a href="Forgotten-Woods.md" anchor="tempel-der-zeit">Tempel</a> jenseits der Zeit herum. Amlin ist die Wächterin der
+Zeit und der Weltlinien. Amlins Fähigkeit über die Zeit zu gebieten umfasst unter anderem das Anhalten und Verlangsamen
+der Zeit in einem Bereich, und das Entsenden von Personen in die Vergangenheit, Gegenwart und Zukunft.
+<br></br><br></br>
+Ihre Einsamkeit macht Amlin insgeheim ziemlich zu schaffen. Seit vielen Äonen halt sie ihren Plüschhasen in Ehren und
+kuschelt mit diesen, wenn sie sich einsam fühlt.
 </p>
 
 </td><td width="300">

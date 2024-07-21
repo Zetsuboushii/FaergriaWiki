@@ -18,28 +18,31 @@ Apothekerin, betreibt eine Apotheke
 </td></tr>
 </table>
 
-## Allgemeine Informationen
-
-- **Volk:**
-- **Klasse:**
-- **Gesinnung:**
-- **Verbleib:**
-
-## Aussehen
-
-- **Alter:**
-- **Größe:**
-- **Gewicht:**
-- **Augenfarbe:**
-- **Haarfarbe:**
-
-<!--
-## Beziehungen
-
+<procedure title="Allgemeine Informationen">
 <list columns="3">
-<li>
-</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Klasse:</b> Hohefürst</li>
+<li><b>Gesinnung:</b> CG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
+</procedure>
+
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> Unbekannt</li>
+<li><b>Größe:</b> 1,59m</li>
+<li><b>Gewicht:</b> 48kg</li>
+<li><b>Augenfarbe:</b> Violett</li>
+<li><b>Haarfarbe:</b> Blond</li>
+<!-- <li><b>Maße:</b> 80/68-58-84</li> -->
+</list>
+</procedure>
+
+<procedure title="Beziehungen">
+<list columns="3">
+<li></li>
+</list>
+</procedure>
 
 ## Notizen
 

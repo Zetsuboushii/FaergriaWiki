@@ -33,7 +33,7 @@ Als Hohefürstin der Eifersucht sät Invidianoir jene dunkle Emotion in die Herz
 - **Augenfarbe:** Rot
 - **Haarfarbe:** Rot
 
-<!-- - **Maße:** 105/85-68-100 -->
+<!-- - **Maße:** 108/85-68-100 -->
 
 ## Beziehungen
 

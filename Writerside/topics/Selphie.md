@@ -18,29 +18,32 @@ Waise in Obhut von Tannivh
 </td></tr>
 </table>
 
-## Allgemeine Informationen
+<procedure title="Allgemeine Informationen">
+<list columns="3">
+<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
+<li><b>Klasse:</b> </li>
+<li><b>Gesinnung:</b> </li>
+<li><b>Verbleib:</b> </li>
+</list>
+</procedure>
 
-- **Volk:**
-- **Klasse:**
-- **Gesinnung:**
-- **Verbleib:**
+<procedure title="Aussehen">
+<list columns="3">
+<li><b>Alter:</b> </li>
+<li><b>Größe:</b> </li>
+<li><b>Gewicht:</b> </li>
+<li><b>Augenfarbe:</b> </li>
+<li><b>Haarfarbe:</b> </li>
+</list>
+</procedure>
 
-## Aussehen
-
-- **Alter:**
-- **Größe:**
-- **Gewicht:**
-- **Augenfarbe:**
-- **Haarfarbe:**
+<procedure title="Beziehungen">
+<list columns="3">
+<li></li>
+</list>
+</procedure>
 
 <!--
-## Beziehungen
-
-<list columns="3">
-<li>
-</li>
-</list>
-
 ## Notizen
 
 - **Ziele:** 

@@ -112,6 +112,7 @@
     <toc-element topic="Characters.md">
         <toc-element topic="Aelua.md"/>
         <toc-element topic="Alice.md"/>
+        <toc-element topic="Amlin.md"/>
         <toc-element topic="Ar-Merer.md"/>
         <toc-element topic="Artie.md"/>
         <toc-element topic="Avarne.md"/>
@@ -150,6 +151,7 @@
         <toc-element topic="Hama.md"/>
         <toc-element topic="Hartwin.md"/>
         <toc-element topic="Hindrik.md"/>
+        <toc-element topic="Horizont.md"/>
         <toc-element topic="Hosgrid.md"/>
         <toc-element topic="Iddra.md"/>
         <toc-element topic="Igmusur.md"/>
@@ -172,6 +174,7 @@
         <toc-element topic="Marisa.md"/>
         <toc-element topic="Marjorie.md"/>
         <toc-element topic="Modaharius.md"/>
+        <toc-element topic="Morgen.md"/>
         <toc-element topic="Mudo.md"/>
         <toc-element topic="Narcian.md"/>
         <toc-element topic="Nayru.md"/>
@@ -196,6 +199,7 @@
         <toc-element topic="Thanatos.md"/>
         <toc-element topic="Thithrazk.md"/>
         <toc-element topic="Thorismund.md"/>
+        <toc-element topic="Trost.md"/>
         <toc-element topic="Troy.md"/>
         <toc-element topic="U-Ranos.md"/>
         <toc-element topic="Valerius.md"/>
