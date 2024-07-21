@@ -14,7 +14,7 @@ für eine neuartige Fortbewegungsmethode errichtet, die bei den Bewohnern auf gu
 
 ![](aegir.png)
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Ezekiel.md"></a></li>
 <li><a href="Isabella.md"></a></li>
@@ -27,18 +27,15 @@ für eine neuartige Fortbewegungsmethode errichtet, die bei den Bewohnern auf gu
 
 ### Schloss Aegir {collapsible="true" default-state="expanded"}
 
-![]()
-
 Im großen, hellen Schloss Aegirs residiert die Köngisfamilie, deren Berater und Garde. Hin und wieder lädt die Königin
 Gäste aus ganz Faergria zu riesigen Banketten und Bällen, obwohl ihr Gatte, der König, recht wenig damit anfangen kann.
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Narcian.md"></a></li>
 <li><a href="Marisa.md"></a></li>
 <li><a href="Cassius.md"></a></li>
 <li><a href="Erika.md"></a></li>
-<li><a href="Igmusur.md"></a></li>
 </list>
 </procedure>
 
@@ -46,7 +43,7 @@ Gäste aus ganz Faergria zu riesigen Banketten und Bällen, obwohl ihr Gatte, de
 
 ![](adrestian_railway_tfz.jpg)
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Cornelius.md"></a></li>
 <li><a href="Reichart.md"></a></li>

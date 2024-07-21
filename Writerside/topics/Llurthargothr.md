@@ -1,6 +1,6 @@
 # Llurthargothr
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li>Herzog Horizont</li>
 <li><a href="Fluestern.md"></a></li>

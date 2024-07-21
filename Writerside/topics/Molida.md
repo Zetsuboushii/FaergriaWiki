@@ -5,7 +5,3 @@ beliebtes Ausflugsziel, da die unberührte Natur und spannende Ruinen viele Fors
 anlocken. Dennoch hält sich die These, dass es immer noch eine Zivilisation hier gibt, die sich nahe der Berge
 versteckt hält.
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-</list>
-</procedure>

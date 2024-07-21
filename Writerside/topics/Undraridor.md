@@ -1,6 +1,6 @@
 # Undraridor
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Grund.md"></a></li>
 </list>

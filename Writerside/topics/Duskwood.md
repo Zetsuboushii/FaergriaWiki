@@ -5,7 +5,7 @@
 Dieses kleine Dorf am Rande der Wälder ist der Eintrittspunkt für viele Reisende in Farodris. An den lokalen
 Marktständen lassen Besucher gerne ein paar Florin da.
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Aelua.md"></a></li>
 <li><a href="Tannivh.md"></a></li>

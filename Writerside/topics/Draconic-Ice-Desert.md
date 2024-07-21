@@ -6,7 +6,3 @@ Sonne auf dem Eis merklich warm werden. Wer nach <a href="Eternal-Ice-Glacier.md
 per Boot dort anlegen und den Fußweg vermeiden.
 </p>
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-</list>
-</procedure>

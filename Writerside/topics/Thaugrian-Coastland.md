@@ -2,7 +2,7 @@
 
 ## Korshaven
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Marina.md"></a></li> -->
 </list>

@@ -10,7 +10,7 @@ Frelia und auch Hal neben der Großen Bibliothek einen Namen in Faergria gemacht
 
 ![](../images/places/Hal/Frelia/frelia.png)
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Frille.md"></a></li> -->
 <!-- <li><a href="Ignaz.md"></a></li> -->
@@ -24,7 +24,7 @@ Frelia und auch Hal neben der Großen Bibliothek einen Namen in Faergria gemacht
 Der Grundriss der Schlossanlage ist angelehnt an eine Blüte. Die vielen Grünflächen und Gärten stehen unter strengster
 Obhut von Kurfürstin Solenne.
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li>Kurfürstin Solenne von Hal</li>
 <li><a href="Sonya.md"></a></li>
@@ -35,7 +35,7 @@ Obhut von Kurfürstin Solenne.
 <!--
 ## Magieakademie von Hal {collapsible="true" default-state="expanded"}
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Theodoric.md"></a></li>
 </list>
@@ -49,7 +49,7 @@ Wälzer wie ihre eigenen Kinder; und das seit die Bibliothek erbaut wurde. Die B
 zur Magieakademie von Hal, daher treiben sich gerade zur Klausurenphase viele Akademiestudenten in den weitläufigen
 Gängen herum.
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Seloue.md"></a></li>
 <!-- <li><a href="Lavande.md"></a></li> -->

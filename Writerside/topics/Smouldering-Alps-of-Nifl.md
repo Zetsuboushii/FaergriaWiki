@@ -2,14 +2,11 @@
 
 ## Nifl
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-</list>
-</procedure>
+
 
 ### Badenhaus "Souffle d'Air" {collapsible="true" default-state="expanded"}
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Vernik.md"></a></li>
 <li><a href="Rosemarie.md"></a></li>
@@ -18,7 +15,7 @@
 
 ## Glutberg {collapsible="true" default-state="expanded"}
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Kaen.md"></a></li>
 </list>

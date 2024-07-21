@@ -2,7 +2,7 @@
 
 ## Brodia
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Viktor.md"></a></li>
 <li><a href="Modaharius.md"></a></li>

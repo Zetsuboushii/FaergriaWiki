@@ -11,7 +11,7 @@ der Stadt mit viel Respekt geachtet wird.
 
 ![](niddarvellir_central_city.jpg)
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Iddra.md"></a></li>
 <li><a href="Osswald.md"></a></li>
@@ -26,9 +26,3 @@ danach suchen. Wer sich in diesen dunklen Sumpf wagt, könnte dennoch mit sagenu
 erkaufen.
 
 ![](drakensumpf.jpg)
-
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-<!-- <li><a href="Craindre.md"></a></li> -->
-</list>
-</procedure>

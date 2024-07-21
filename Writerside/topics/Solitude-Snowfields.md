@@ -8,7 +8,7 @@ als eine Bastion vor den harten Wintern.
 
 ![](nordholm.png)
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Adrian.md"></a></li> -->
 </list>
@@ -20,7 +20,7 @@ Ein massives Bauwerk, die als sicherste Festung Faergrias gilt.
 
 ![]()
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Aquila.md"></a></li> -->
 <!-- <li><a href="Tristan.md"></a></li> -->

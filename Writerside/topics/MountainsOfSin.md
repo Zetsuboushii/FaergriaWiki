@@ -5,8 +5,3 @@ gelegt.
 
 <img src="mountainsofsin.png" alt="" style="block"/>
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-
-</list>
-</procedure>

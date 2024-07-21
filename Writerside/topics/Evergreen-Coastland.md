@@ -2,7 +2,7 @@
 
 ## Tinorke
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Sinmir.md"></a></li> -->
 </list>
@@ -10,7 +10,7 @@
 
 ### Schloss Tinorke {collapsible="true" default-state="expanded"}
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Konrad.md"></a></li>
 </list>

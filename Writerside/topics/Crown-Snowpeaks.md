@@ -7,7 +7,7 @@ Trotz der Höhe treiben sich viele Schneefüchse umher, die friedlich sind, sola
 
 ![]()
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li>Fubuki, Hohefürstin des Eises</li>
 </list>

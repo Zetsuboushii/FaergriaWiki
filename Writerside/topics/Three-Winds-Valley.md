@@ -8,7 +8,7 @@ Temperaturschwankungen geben. In den dichten Wäldern ist es zudem oft neblig.
 Ein beliebter Wegpunkt vieler Reisender und Händler, die Nordholm als Ziel haben. Die lokale Küche lebt von den
 geschmackvollen Kräutern, die sich hier anbauen lassen. Die erste Zeitung Faergrias soll hier gedruckt worden sein.
 
-<procedure title="Charaktere aktuell an diesem Ort">
+<procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Falk.md"></a></li>
 <li><a href="Gretchen.md"></a></li>
@@ -21,16 +21,7 @@ geschmackvollen Kräutern, die sich hier anbauen lassen. Die erste Zeitung Faerg
 
 ![](three_winds_valley_church_ruins.jpg)
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-</list>
-</procedure>
-
 ## Fortunas Tempel am Bergpass { collapsible="true" default-state="expanded" }
 
 ![](three_winds_valley_temple.jpg)
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-</list>
-</procedure>

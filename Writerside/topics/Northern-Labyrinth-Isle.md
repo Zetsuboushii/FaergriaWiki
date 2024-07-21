@@ -6,7 +6,3 @@ ist unklar. Es hegt einen mystischen Schleier der Ungewissheit. Es hat eine unbe
 Labyrinth auf der <a href="Southern-Labyrinth-Isle.md">Südlichen Labyrinthinsel</a>.
 </p>
 
-<procedure title="Charaktere aktuell an diesem Ort">
-<list columns="3">
-</list>
-</procedure>
