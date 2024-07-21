@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Besitzer der Hafenspelunke "Kleines Fässchen"
+Besitzer der Hafenspelunke "Kleines Fässchen".
 </p>
 
 </td><td width="300">
@@ -20,20 +20,20 @@ Besitzer der Hafenspelunke "Kleines Fässchen"
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Klasse:</b> Bürger</li>
+<li><b>Gesinnung:</b> TN</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> 49</li>
+<li><b>Größe:</b> 1,73m</li>
+<li><b>Gewicht:</b> 71kg</li>
+<li><b>Augenfarbe:</b> Schwarz</li>
+<li><b>Haarfarbe:</b> Schwarz</li>
 </list>
 </procedure>
 

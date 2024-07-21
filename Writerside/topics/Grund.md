@@ -19,7 +19,7 @@
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="tieflinge"></a></li>
 <li><b>Klasse:</b> </li>
 <li><b>Gesinnung:</b> </li>
 <li><b>Verbleib:</b> </li>

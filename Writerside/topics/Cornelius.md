@@ -9,6 +9,8 @@
 <table>
 <tr><td>
 <p>
+Cornelius arbeitet bei der <a href="Kings-Cliffs.md" anchor="adrestianische-eisenbahn">Adrestianischen Eisenbahn</a> als
+Kondukteur. An Bord ist er für die Zufriedenheit und Sicherheit der Fahrgäste verantwortlich.
 </p>
 
 </td><td width="300">

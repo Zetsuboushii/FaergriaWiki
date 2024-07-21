@@ -4,6 +4,8 @@
 
 <secondary-label ref="faergria"/>
 
+<secondary-label ref="thanatos"/>
+
 <table>
 <tr><td>
 <p>
@@ -26,7 +28,7 @@ las Scarlet im Vorbeigehen das aufgeschlagene Tagebuch von Eliza, woraufhin dies
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Menschen (früher) / Dämonen (aktuell)</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
 <li><b>Klasse:</b> Paladin</li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>
@@ -50,6 +52,7 @@ las Scarlet im Vorbeigehen das aufgeschlagene Tagebuch von Eliza, woraufhin dies
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> Größte Schwester</li>
 <li><b><a href="Cinnabar.md">Cinnabar</a>:</b> Große Schwester</li>
 <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Liebster</li>
+<li><b><a href="Nayru.md">Nayru</a>:</b> Freundin</li>
 </list>
 </procedure>
 

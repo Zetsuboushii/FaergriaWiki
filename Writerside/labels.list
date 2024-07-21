@@ -36,6 +36,12 @@
     <secondary-label id="tenebris" name="Tenebris" color="strawberry">Charakter stammt aus Tenebris</secondary-label>
     <secondary-label id="markath" name="Markather" color="strawberry">Charakter stammt aus Markath</secondary-label>
 
+    <secondary-label id="thanatos" name="Recke Thanatos'" color="purple">Charakter befindet sich in der Reckenschaft des Gottes Thanatos</secondary-label>
+    <secondary-label id="justicia" name="Recke Justicias" color="purple">Charakter befindet sich in der Reckenschaft der Göttin Justicia</secondary-label>
+    <secondary-label id="fortuna" name="Recke Fortunas" color="purple">Charakter befindet sich in der Reckenschaft der Göttin Fortuna</secondary-label>
+    <secondary-label id="farone" name="Recke Farones" color="purple">Charakter befindet sich in der Reckenschaft der Göttin Farone</secondary-label>
+    <secondary-label id="alcuin" name="Recke Alcuins" color="purple">Charakter befindet sich in der Reckenschaft des Gottes Alcuin</secondary-label>
+
     <secondary-label id="1" name="1. Generation" color="purple">Charakter ist Hohefürst der ersten Generation</secondary-label>
     <secondary-label id="2" name="2. Generation" color="purple">Charakter ist Hohefürst der zweiten Generation</secondary-label>
     <secondary-label id="3" name="3. Generation" color="purple">Charakter ist Hohefürst der dritten Generation</secondary-label>

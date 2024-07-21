@@ -1,5 +1,11 @@
 # Morgen
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="tenebris"/>
+
+<secondary-label ref="markath"/>
+
 <table>
 <tr><td>
 <p>
@@ -14,7 +20,7 @@
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Volk:</b> Tieflinge</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="tieflinge"></a></li>
 <li><b>Klasse:</b> Hexenmeisterin</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>

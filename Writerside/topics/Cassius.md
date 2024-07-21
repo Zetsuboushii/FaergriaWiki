@@ -20,7 +20,7 @@
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
-<li><b>Klasse:</b> Minister</li>
+<li><b>Klasse:</b> Adliger</li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

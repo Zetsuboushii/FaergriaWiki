@@ -6,6 +6,8 @@
 
 <secondary-label ref="adrestia"/>
 
+<secondary-label ref="farone"/>
+
 <table>
 <tr><td>
 <p>

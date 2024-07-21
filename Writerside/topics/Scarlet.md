@@ -6,6 +6,8 @@
 
 <secondary-label ref="sin"/>
 
+<secondary-label ref="thanatos"/>
+
 <table>
 <tr><td>
 <p>

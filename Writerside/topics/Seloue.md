@@ -46,7 +46,7 @@ auch schnell grantig werden.
 
 <procedure title="Beziehungen">
 <list columns="3">
-<!-- <li><b><a href="Lavande.md">Lavande</a>:</b> Lehrling</li> -->
+<li><b><a href="Lavande.md">Lavande</a>:</b> Lehrling</li>
 <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Ziehsohn</li>
 <li><b><a href="Justicia.md">Justicia</a>:</b> Beste Freundin</li>
 <li><b><a href="Hama.md">Hama</a>:</b> "Beste" Freundin</li>

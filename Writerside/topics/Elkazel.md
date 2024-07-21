@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Jäger
+Jäger in <a href="Duskwood.md" anchor="teryvnat"></a>. Beschützt das Dorf und vor allem seine Schwester.
 </p>
 
 </td><td width="300">
@@ -21,25 +21,25 @@ Jäger
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Klasse:</b> Jäger</li>
+<li><b>Gesinnung:</b> NG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> 270</li>
+<li><b>Größe:</b> 1,78m</li>
+<li><b>Gewicht:</b> 68kg</li>
+<li><b>Augenfarbe:</b> Grün</li>
+<li><b>Haarfarbe:</b> Schwarz</li>
 </list>
 </procedure>
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li></li>
+<li><b><a href="Caeda.md">Caeda</a>:</b> Kleine Schwester</li>
 </list>
 </procedure>
 

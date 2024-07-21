@@ -1,5 +1,11 @@
 # Trost
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="tenebris"/>
+
+<secondary-label ref="markath"/>
+
 <table>
 <tr><td>
 <p>
@@ -13,16 +19,16 @@
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="tieflinge"></a></li>
+<li><b>Klasse:</b> Bürger</li>
+<li><b>Gesinnung:</b> NG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
+<li><b>Alter:</b> 115</li>
 <li><b>Größe:</b> </li>
 <li><b>Gewicht:</b> </li>
 <li><b>Augenfarbe:</b> </li>

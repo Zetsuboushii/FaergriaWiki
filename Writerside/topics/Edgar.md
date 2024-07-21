@@ -41,6 +41,7 @@ erfinden, die er am liebsten seine kleine Schwester <a href="Eris.md">Eris</a> v
 
 <procedure title="Beziehungen">
 <list columns="3">
+<li><b><a href="Karl.md"></a>:</b> Freund und Kollege</li>
 <li><b><a href="Eris.md">Eris</a>:</b> Kleine Schwester</li>
 <li><b><a href="Dorian.md"></a>:</b> Ehem. Herr</li>
 <li><b><a href="Grete.md">Grete</a>:</b> Freundin und Kollegin</li>

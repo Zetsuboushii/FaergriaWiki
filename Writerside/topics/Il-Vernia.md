@@ -6,6 +6,8 @@
 
 <secondary-label ref="justice"/>
 
+<secondary-label ref="justicia"/>
+
 <table>
 <tr><td>
 <p>

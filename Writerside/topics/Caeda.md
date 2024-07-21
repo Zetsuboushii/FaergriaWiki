@@ -33,7 +33,7 @@ starben.
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> 271</li>
+<li><b>Alter:</b> 251</li>
 <li><b>Größe:</b> 1,62m</li>
 <li><b>Gewicht:</b> 53kg</li>
 <li><b>Augenfarbe:</b> Blau</li>
