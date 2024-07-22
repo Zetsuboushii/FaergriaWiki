@@ -1,4 +1,4 @@
-# Troy
+# Troy von Eichenhain
 
 <primary-label ref="npc"/>
 

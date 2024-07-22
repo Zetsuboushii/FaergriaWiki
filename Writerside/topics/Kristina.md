@@ -1,4 +1,4 @@
-# Kristina
+# Kristina von Tinorke, Großherzogin von Tinorland A.D.
 
 <primary-label ref="npc"/>
 

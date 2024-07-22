@@ -1,4 +1,4 @@
-# Sonya, Prinzessin von Hal
+# Sonya von Frelia, Prinzessin von Hal
 
 <primary-label ref="npc"/>
 

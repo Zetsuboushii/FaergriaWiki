@@ -6,6 +6,8 @@
 
 <secondary-label ref="thaugrien"/>
 
+<secondary-label ref="fortuna"/>
+
 <table>
 <tr><td>
 <p>

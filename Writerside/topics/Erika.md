@@ -8,6 +8,8 @@
 
 <secondary-label ref="vasall"/>
 
+<secondary-label ref="justicia"/>
+
 <table>
 <tr><td>
 <p>

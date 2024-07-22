@@ -6,6 +6,8 @@
 
 <secondary-label ref="escrigria"/>
 
+<secondary-label ref="thanatos"/>
+
 <table>
 <tr><td>
 <p>

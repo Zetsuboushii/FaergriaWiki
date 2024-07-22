@@ -1,4 +1,4 @@
-# Jofina
+# Jofina von Salten
 
 <primary-label ref="npc"/>
 

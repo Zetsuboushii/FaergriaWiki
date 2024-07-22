@@ -1,4 +1,4 @@
-# Konrad
+# Konrad von Silberbach
 
 <primary-label ref="npc"/>
 

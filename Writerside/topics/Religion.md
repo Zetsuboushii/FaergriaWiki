@@ -61,5 +61,10 @@ Abenteuer in Elyria lebendig machen.
 
 <procedure title="Orden der Heiligen Hand">
 <p><b>Glaubenszentrum:</b> <a href="Hama.md"></a></p>
-<p><b>Art des Glaubens:</b> Kult</p>
+<p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
+</procedure>
+
+<procedure title="Kinder des Waldes">
+<p><b>Glaubenszentrum:</b> <a href="Farone.md"></a></p>
+<p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
 </procedure>

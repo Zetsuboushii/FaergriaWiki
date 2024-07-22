@@ -20,7 +20,7 @@ Buchhändler in der Stadt.
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> </li>
 <li><b>Gesinnung:</b> </li>
 <li><b>Verbleib:</b> </li>

@@ -36,11 +36,13 @@
     <secondary-label id="tenebris" name="Tenebris" color="strawberry">Charakter stammt aus Tenebris</secondary-label>
     <secondary-label id="markath" name="Markather" color="strawberry">Charakter stammt aus Markath</secondary-label>
 
-    <secondary-label id="thanatos" name="Thanatos" color="purple">Charakter gehört dem Glauben an Thanatos an</secondary-label>
-    <secondary-label id="justicia" name="Justicia" color="purple">Charakter gehört dem Glauben an Justicia an</secondary-label>
-    <secondary-label id="fortuna" name="Fortuna" color="purple">Charakter gehört dem Glauben an Fortuna an</secondary-label>
-    <secondary-label id="farone" name="Farone" color="purple">Charakter gehört dem Glauben an Farone an</secondary-label>
+    <secondary-label id="thanatos" name="Abgrundkirche der Glimmenden Sünde" color="purple">Charakter gehört dem Glauben an Thanatos an</secondary-label>
+    <secondary-label id="justicia" name="Kirche der Himmlischen Gerechtigkeit" color="purple">Charakter gehört dem Glauben an Justicia an</secondary-label>
+    <secondary-label id="fortuna" name="Schicksalsjünger Fortunas" color="purple">Charakter gehört dem Glauben an Fortuna an</secondary-label>
+    <secondary-label id="farone" name="Kinder des Waldes" color="purple">Charakter gehört dem Glauben an Farone an</secondary-label>
     <secondary-label id="alcuin" name="Alcuin" color="purple">Charakter gehört dem Glauben an Alcuin an</secondary-label>
+    <secondary-label id="malusdur" name="Klauen des Hasses" color="purple">Charakter gehört dem Glauben an Malusdur an</secondary-label>
+    <secondary-label id="hama" name="Orden der Heiligen Hand" color="purple">Charakter gehört dem Glauben an Hama an</secondary-label>
 
     <secondary-label id="thanatos_recke" name="Recke Thanatos'" color="purple">Charakter befindet sich in der Reckenschaft des Gottes Thanatos</secondary-label>
     <secondary-label id="justicia_recke" name="Recke Justicias" color="purple">Charakter befindet sich in der Reckenschaft der Göttin Justicia</secondary-label>

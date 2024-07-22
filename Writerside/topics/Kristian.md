@@ -1,4 +1,4 @@
-# Kristian
+# Kristian von Tinorke, Großherzog von Tinorland A.D.
 
 <primary-label ref="npc"/>
 

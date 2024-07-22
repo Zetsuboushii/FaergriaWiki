@@ -1,4 +1,4 @@
-# Francis
+# Francis von Falkenhayn
 
 <primary-label ref="npc"/>
 
@@ -6,10 +6,15 @@
 
 <secondary-label ref="escrigria"/>
 
+<secondary-label ref="vasall"/>
+
+<secondary-label ref="malusdur"/>
+
 <table>
 <tr><td>
 <p>
-Bekannt als "Magier"
+Dieser trickreiche Trickzauberer begeistert leidenschaftlich große Zuschauerschaften. Francis' Motto ist es, "Wünsche
+der Personen im Publikum wahr werden zu lassen". 
 </p>
 
 </td><td width="300">
@@ -21,19 +26,19 @@ Bekannt als "Magier"
 <procedure title="Allgemeine Informationen">
 <list columns="3">
 <li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Klasse:</b> Zauberer</li>
+<li><b>Gesinnung:</b> CG</li>
+<li><b>Verbleib:</b> verstorben</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> 28</li>
+<li><b>Größe:</b> 1,72m</li>
+<li><b>Gewicht:</b> 58kg</li>
+<li><b>Augenfarbe:</b> Orange</li>
+<li><b>Haarfarbe:</b> Weiß</li>
 </list>
 </procedure>
 

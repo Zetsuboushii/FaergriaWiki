@@ -6,6 +6,8 @@
 
 <secondary-label ref="hal"/>
 
+<secondary-label ref="fortuna"/>
+
 <table>
 <tr><td>
 <p>

@@ -6,6 +6,8 @@
 
 <secondary-label ref="farodris"/>
 
+<secondary-label ref="farone"/>
+
 <table>
 <tr><td>
 <p>
@@ -20,7 +22,7 @@ Jäger in <a href="Duskwood.md" anchor="teryvnat"></a>. Beschützt das Dorf und 
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Jäger</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>

@@ -1,4 +1,4 @@
-# Marisa, Prinzessin von Faergria
+# Marisa von Aegir, Prinzessin von Faergria
 
 <primary-label ref="npc"/>
 

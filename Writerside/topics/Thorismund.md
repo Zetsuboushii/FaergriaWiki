@@ -1,4 +1,4 @@
-# Thorismund
+# Thorismund "Der Schmierige"
 
 <primary-label ref="npc"/>
 

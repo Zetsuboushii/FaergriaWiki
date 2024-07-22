@@ -1,4 +1,4 @@
-# Jervar
+# Jervar von Grenbrock, Kurfürst von Thaugrien
 
 <primary-label ref="npc"/>
 
