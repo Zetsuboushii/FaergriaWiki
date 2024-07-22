@@ -1,4 +1,4 @@
-# Herzog Horizont
+# Horizont, Herzog von Markath
 
 <primary-label ref="npc"/>
 

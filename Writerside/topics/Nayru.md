@@ -6,7 +6,7 @@
 
 <secondary-label ref="adrestia"/>
 
-<secondary-label ref="farone"/>
+<secondary-label ref="farone_recke"/>
 
 <table>
 <tr><td>

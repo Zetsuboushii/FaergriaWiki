@@ -6,7 +6,7 @@
 
 <secondary-label ref="sin"/>
 
-<secondary-label ref="thanatos"/>
+<secondary-label ref="thanatos_recke"/>
 
 <table>
 <tr><td>

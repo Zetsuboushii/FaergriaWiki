@@ -9,7 +9,11 @@
 <table>
 <tr><td>
 <p>
-Wache am Grenzposten nach Inidal
+Eliyen ist derzeit stationiert am <a href="Thicket-of-Truth.md" anchor="indial-grenzposten"></a>, wo sie zusammen mit
+<a href="Malon.md"></a> die Wälder von <a href="Farodris.md"></a> vor Monstern aus <a href="Inidal.md"></a> beschützt.
+<br></br><br></br>
+Ihre aufgeschlossene und zuversichtliche Art, macht sie eine beliebte Kollegin unter den Grenzpostlern in Farodris.
+Eliyens größter Wunsch ist es, einmal nach <a href="Thicket-of-Truth.md" anchor="yerenas"></a> zu gehen.
 </p>
 
 </td><td width="300">

@@ -6,7 +6,7 @@
 
 <secondary-label ref="justice"/>
 
-<secondary-label ref="justicia"/>
+<secondary-label ref="justicia_recke"/>
 
 <table>
 <tr><td>

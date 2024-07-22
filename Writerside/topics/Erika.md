@@ -6,10 +6,16 @@
 
 <secondary-label ref="adrestia"/>
 
+<secondary-label ref="vasall"/>
+
 <table>
 <tr><td>
 <p>
-Oberste Ritterin der Leibgarde der Königsfamilie
+Erika ist seit 389 n.V. die oberste Ritterin und die Leibgarde der Königsfamilie in
+<a href="Kings-Cliffs.md" anchor="aegir"></a>. Sie hat angefangen als einfache Knappin am
+<a href="Kings-Cliffs.md" anchor="schloss-aegir"></a>, durch ihr Talent im Umgang mit Großäxten und Schwertern stieg
+sie schnell in den Rängen hinauf, wurde zur Ritterin geschlagen und schließlich durch ihre Freudschaft zu
+<a href="Marisa.md"></a> zur Leibgarde der Königsfamilie ernannt.
 </p>
 
 </td><td width="300">
@@ -20,26 +26,27 @@ Oberste Ritterin der Leibgarde der Königsfamilie
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Klasse:</b> Ritterin</li>
+<li><b>Gesinnung:</b> NG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> 24</li>
+<li><b>Größe:</b> 1,71m</li>
+<li><b>Gewicht:</b> 62kg</li>
+<li><b>Augenfarbe:</b> Rot</li>
+<li><b>Haarfarbe:</b> Blond</li>
 </list>
 </procedure>
 
 <procedure title="Beziehungen">
 <list columns="3">
-<li></li>
+<li><b><a href="Marisa.md">Marisa</a>:</b> Beste Freundin</li>
+<li><b><a href="Lilia.md">Lilia</a>:</b> Schwester</li>
 </list>
 </procedure>
 

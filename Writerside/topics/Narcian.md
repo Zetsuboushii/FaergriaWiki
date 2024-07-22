@@ -1,4 +1,4 @@
-# Prinz Narcian von Faergria
+# Narcian, Prinz von Faergria
 
 <primary-label ref="npc"/>
 

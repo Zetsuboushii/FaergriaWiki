@@ -6,6 +6,8 @@
 
 <secondary-label ref="farodris"/>
 
+<secondary-label ref="vasall"/>
+
 <table>
 <tr><td>
 <p>
