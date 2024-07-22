@@ -61,7 +61,7 @@ hinter einer Ecke hervor sieht, und beobachtet ihn heimlich.
 <procedure title="Beziehungen">
 <list columns="3">
 <li><b><a href="Felix.md"></a>:</b> Heimliche Liebe und Glaubensbruder</li>
-<li><b><a href="Perrotus.md"></a>:</b> Vater im Kloster</li>
+<li><b><a href="Perrotus.md"></a>:</b> Ziehvater</li>
 </list>
 </procedure>
 
