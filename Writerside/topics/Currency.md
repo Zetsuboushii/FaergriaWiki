@@ -3,7 +3,7 @@
 <primary-label ref="lore"/>
 
 Herausgegangen aus der Entwicklung von Glis im Jahr 12n.V. eingeführt, ist Florin ein Sinnbild für den Zusammenhalt
-in Faergria. Überall universell zum Handeln verwendbar, erweist sich Florin als stabile Währung.
+in Faergria. Überall universell zum Handeln verwendbar erweist sich Florin als stabile Währung.
 
 ## Wechselkurs {collapsible="true" default-state="expanded"}
 

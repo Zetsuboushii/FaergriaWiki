@@ -25,7 +25,7 @@ der Personen im Publikum wahr werden zu lassen".
 
 <procedure title="Allgemeine Informationen">
 <list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Zauberer</li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> verstorben</li>

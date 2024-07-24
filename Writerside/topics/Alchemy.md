@@ -38,7 +38,7 @@ verwendet, kann zwar nur eine Tranksorte gleichzeitig hergestellt werden, dann j
 
 <tabs>
 <tab title="Beschaffen">
-Verschiedene benötigte Zutaten sind an bestimmten Orten zu finden. Um zu entscheiden welche Zutat gefunden
+Verschiedene benötigte Zutaten sind an bestimmten Orten zu finden. Um zu entscheiden, welche Zutat gefunden
 werden können, muss der Alchemist einen Naturkunde-Wurf bestehen:
 <table>
 <tr><td width="75">Wurf</td><td>Effekt</td></tr>
