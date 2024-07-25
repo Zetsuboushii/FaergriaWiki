@@ -41,7 +41,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> LG/NG</li>
@@ -60,7 +60,7 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Nayru.md">Nayru</a>:</b> Reisegefährtin (inoffiziell Teil seiner Familie)</li>
 <li><b><a href="Siegmund.md">Siegmund</a>:</b> Reisegefährte (inoffiziell Teil seiner Familie)</li>
 <!--<li><b><a href="">Inoro</a>:</b> Großer Bruder</li>-->

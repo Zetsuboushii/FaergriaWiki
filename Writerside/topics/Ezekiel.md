@@ -24,7 +24,7 @@ tatsächlich ermöglichen sollte, sich aus den Fängen seiner Vergangenheit zu b
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Hexer</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -43,7 +43,7 @@ tatsächlich ermöglichen sollte, sich aus den Fängen seiner Vergangenheit zu b
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

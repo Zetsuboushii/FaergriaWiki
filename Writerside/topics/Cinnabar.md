@@ -27,7 +27,7 @@ aufgeschlossener geworden.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
 <li><b>Klasse:</b> Reckin</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -47,7 +47,7 @@ aufgeschlossener geworden.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> "Vater" und Gott</li>
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> Große Schwester</li>
 <li><b><a href="Eliza.md">Eliza</a>:</b> Schwester</li>

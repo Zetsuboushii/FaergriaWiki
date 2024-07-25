@@ -25,7 +25,7 @@ auch schnell grantig werden.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -45,7 +45,7 @@ auch schnell grantig werden.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Lavande.md">Lavande</a>:</b> Lehrling</li>
 <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Ziehsohn</li>
 <li><b><a href="Justicia.md">Justicia</a>:</b> Beste Freundin</li>

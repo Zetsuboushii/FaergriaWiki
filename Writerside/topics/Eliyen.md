@@ -25,7 +25,7 @@ Eliyens größter Wunsch ist es, einmal nach <a href="Thicket-of-Truth.md" ancho
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Bogenschützin</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -44,7 +44,7 @@ Eliyens größter Wunsch ist es, einmal nach <a href="Thicket-of-Truth.md" ancho
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Malon.md"></a>:</b> Freund und Kollege</li>
 </list>
 </procedure>

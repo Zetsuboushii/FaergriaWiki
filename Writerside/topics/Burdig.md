@@ -27,7 +27,7 @@ seit jeher Junggeselle).
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Bürger</li>
 <li><b>Gesinnung:</b> LG</li>
@@ -46,7 +46,7 @@ seit jeher Junggeselle).
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Hosgrid.md">Hosgrid</a>:</b> Langjähriger Freund</li>
 <li><b><a href="Karl.md">Karl</a>:</b> Bruder</li>
 </list>

@@ -18,7 +18,7 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Volk:</b> </li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> CE</li>
@@ -37,7 +37,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 </list>
 </procedure>
 

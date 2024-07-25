@@ -23,7 +23,7 @@ Modaharius das Aushängeschild Brodias geworden.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> Untoter</li>
 <li><b>Klasse:</b> Wasserzauberer</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -42,7 +42,7 @@ Modaharius das Aushängeschild Brodias geworden.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

@@ -12,7 +12,7 @@ Hat dem Herzogen Horizont ihre Treue geschworen und kämpft seitan für ihn.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
 <li><b>Klasse:</b> Paladin</li>
 <li><b>Gesinnung:</b> LN</li>
@@ -32,7 +32,7 @@ Hat dem Herzogen Horizont ihre Treue geschworen und kämpft seitan für ihn.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Ziehvater und Gott</li>
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> Größte Schwester</li>
 <li><b><a href="Cinnabar.md">Cinnabar</a>:</b> Große Schwester</li>

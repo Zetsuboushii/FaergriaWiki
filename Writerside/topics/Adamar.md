@@ -18,7 +18,7 @@ in Schwierigkeiten gerät, wenn er mit Leuten umgehen muss.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Recke</li>
 <li><b>Gesinnung:</b> TN</li>
@@ -37,7 +37,7 @@ in Schwierigkeiten gerät, wenn er mit Leuten umgehen muss.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li>
 <b><a href="Finnea.md">Finnea</a>:</b> Große Schwester
 </li>

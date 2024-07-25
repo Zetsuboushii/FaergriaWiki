@@ -18,7 +18,7 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="tieflinge"></a></li>
 <li><b>Klasse:</b> </li>
 <li><b>Gesinnung:</b> </li>
@@ -37,7 +37,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

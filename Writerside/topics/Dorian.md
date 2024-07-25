@@ -20,9 +20,9 @@ Dorian ist der verstorbene und ehemalige Schlossherr des
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Adliger</li>
+<li><b>Klasse:</b> Aristokrat</li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> verstorben</li>
 </list>
@@ -39,7 +39,7 @@ Dorian ist der verstorbene und ehemalige Schlossherr des
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Karl.md"></a>:</b> Ehemaliger Butler</li>
 <li><b><a href="Edgar.md"></a>:</b> Ehemaliger Koch</li>
 <li><b><a href="Eris.md"></a>:</b> Ehemalige Maid</li>

@@ -25,7 +25,7 @@ ist Artie geflüchtet, hat Nayru angegriffen und wurde kurz darauf von Marjorie 
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Bürger</li>
 <li><b>Gesinnung:</b> NE</li>
@@ -44,7 +44,7 @@ ist Artie geflüchtet, hat Nayru angegriffen und wurde kurz darauf von Marjorie 
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Sivert.md"></a>:</b> Verhandlungspartner, später Erpresser</li>
 </list>
 </procedure>

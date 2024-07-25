@@ -9,6 +9,9 @@
 <table>
 <tr><td>
 <p>
+Hama ist die Hohefürstin der Gesundheit und Glaubenszentrum des
+<a href="Religion.md" anchor="bekannte-religionen-und-kulte">Ordens der Heilenden Hand</a>.
+<br></br><br></br>
 Diese lebensfrohe Hohefürstin sorgt sich gerne um andere, wobei sie dabei auch etwas zu überfürsorglich sein kann.
 Gerade mit ihren Freunden kann sie stundenlang plaudern, was vielen mit der Zeit auf die Nerven geht. Wenn es mal nicht
 nach ihrem Kopf geht, wird sie schnell traurig und fängt an zu weinen, was man nur durch Umarmungen wieder gut machen
@@ -23,7 +26,7 @@ kann. <a href="Seloue.md">Seloue</a> weiß sehr viel über Hama, da sie sehr oft
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="pikori"></a></li>
 <li><b>Klasse:</b> Hohefürstin</li>
 <li><b>Gesinnung:</b> LG</li>
@@ -43,7 +46,7 @@ kann. <a href="Seloue.md">Seloue</a> weiß sehr viel über Hama, da sie sehr oft
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Ouin.md">Ouin</a>:</b> Kleiner Bruder</li>
 <li><b><a href="Seloue.md">Seloue</a>:</b> Beste Freundin</li>
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Bester Freund</li>

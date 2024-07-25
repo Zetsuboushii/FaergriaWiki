@@ -21,9 +21,9 @@ Dorfälteste von <a href="Duskwood.md" anchor="teryvnat"></a> und Besitzerin der
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
-<li><b>Klasse:</b> Tavernenbesitzer</li>
+<li><b>Klasse:</b> Bürgerin</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -40,7 +40,7 @@ Dorfälteste von <a href="Duskwood.md" anchor="teryvnat"></a> und Besitzerin der
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

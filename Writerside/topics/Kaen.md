@@ -22,7 +22,7 @@ Ihre zynische und abweisende Art schreckt viele ab, doch so bekommen die meisten
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> CN</li>
@@ -42,7 +42,7 @@ Ihre zynische und abweisende Art schreckt viele ab, doch so bekommen die meisten
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <!-- <li><b><a href="Invidianoir.md">Invidianoir</a>:</b> Kleine Schwester</li> -->
 </list>
 </procedure>

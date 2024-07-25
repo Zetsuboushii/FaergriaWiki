@@ -34,7 +34,7 @@ gänzlich gerötet war, was Carmesine als schlimmes Fieber diagnostizierte.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> LG</li>
@@ -53,7 +53,7 @@ gänzlich gerötet war, was Carmesine als schlimmes Fieber diagnostizierte.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Carmesine.md">Carmesine</a>:</b> Heimliche Liebe und Glaubensschwester</li>
 <li><b><a href="Perrotus.md">Vater Perrotus</a>:</b> Ziehvater</li>
 </list>

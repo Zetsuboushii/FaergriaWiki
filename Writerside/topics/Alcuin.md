@@ -13,7 +13,7 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
 <li><b>Klasse:</b> Gott</li>
 <li><b>Gesinnung:</b> LE</li>
@@ -32,7 +32,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><a href="Justicia.md"><b>Justicia:</b></a> Schwester</li>
 </list>
 </procedure>

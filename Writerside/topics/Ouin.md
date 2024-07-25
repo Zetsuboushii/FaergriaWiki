@@ -21,7 +21,7 @@ Er kann es nicht leiden, wenn Personen zu
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="pikori"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -40,7 +40,7 @@ Er kann es nicht leiden, wenn Personen zu
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Hama.md">Hama</a>:</b> Große Schwester</li>
 <li><b><a href="Mudo.md">Mudo</a>:</b> Freund</li>
 </list>

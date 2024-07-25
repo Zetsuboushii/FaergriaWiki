@@ -3,7 +3,7 @@
 <table>
 <tr><td>
 <p>
-Adliger Schätzesammler aus <a href="Solitude-Snowfields.md" anchor="nordholm"></a>.
+Aristokrat Schätzesammler aus <a href="Solitude-Snowfields.md" anchor="nordholm"></a>.
 </p>
 
 </td><td width="300">
@@ -13,9 +13,9 @@ Adliger Schätzesammler aus <a href="Solitude-Snowfields.md" anchor="nordholm"><
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Adliger</li>
+<li><b>Klasse:</b> Aristokrat</li>
 <li><b>Gesinnung:</b></li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -32,7 +32,7 @@ Adliger Schätzesammler aus <a href="Solitude-Snowfields.md" anchor="nordholm"><
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

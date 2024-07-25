@@ -20,7 +20,7 @@ verwandelt, um unbemerkt im Haushalt des Opfers unterzukommen.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Dieb</li>
 <li><b>Gesinnung:</b> NE</li>
@@ -39,7 +39,7 @@ verwandelt, um unbemerkt im Haushalt des Opfers unterzukommen.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 
 </list>
 </procedure>

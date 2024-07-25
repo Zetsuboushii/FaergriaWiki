@@ -12,7 +12,7 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Herrscherin</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -32,7 +32,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Gralnach.md"></a>:</b> Gemahl</li>
 <li><b><a href="Marisa.md"></a>:</b> Tochter</li>
 <li><b><a href="Narcian.md"></a>:</b> Sohn</li>

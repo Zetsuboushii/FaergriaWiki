@@ -34,7 +34,7 @@ Valerius wurde offizieller Vasall von Mudo und ist nun unter dem Namen "Silberne
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Assassine</li>
 <li><b>Gesinnung:</b> TN</li>
@@ -53,7 +53,7 @@ Valerius wurde offizieller Vasall von Mudo und ist nun unter dem Namen "Silberne
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Mudo.md">Mudo</a>:</b> Herr</li>
 <li><b><a href="Sonya.md">Sonya</a>:</b> Teampartnerin und Geliebte</li>
 <li><b>Arvel:</b> Bruder</li>

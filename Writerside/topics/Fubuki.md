@@ -22,7 +22,7 @@ sie jedoch unterschätzen oder ihr Böses wollen, kann sie durchaus im Kampf seh
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Volk:</b> Schutzgeist (Fuchsgeist)</li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> LG</li>
@@ -42,7 +42,7 @@ sie jedoch unterschätzen oder ihr Böses wollen, kann sie durchaus im Kampf seh
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

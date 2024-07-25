@@ -22,7 +22,7 @@ Obzession an, wird sie schnell beleidigt.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
 <li><b>Klasse:</b> Hohefürstin</li>
 <li><b>Gesinnung:</b> CG</li>
@@ -42,7 +42,7 @@ Obzession an, wird sie schnell beleidigt.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 </list>
 </procedure>
 

@@ -20,7 +20,7 @@ Kondukteur. An Bord ist er für die Zufriedenheit und Sicherheit der Fahrgäste 
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Bürger</li>
 <li><b>Gesinnung:</b> TN</li>
@@ -39,7 +39,7 @@ Kondukteur. An Bord ist er für die Zufriedenheit und Sicherheit der Fahrgäste 
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Reichart.md"></a>:</b> Arbeitskollege</li>
 </list>
 </procedure>

@@ -27,7 +27,7 @@ Zeit eine Assassinin in der Diebesgilde und feste Kollegin von Valerius.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Assassinin</li>
 <li><b>Gesinnung:</b> TN</li>
@@ -46,7 +46,7 @@ Zeit eine Assassinin in der Diebesgilde und feste Kollegin von Valerius.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Solenne.md">Kurfürstin Solenne von Hal</a>:</b> Mutter</li>
 <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Vertrauter</li>
 <li><b><a href="Valerius.md">Valerius</a>:</b> Teampartner und Geliebter</li>

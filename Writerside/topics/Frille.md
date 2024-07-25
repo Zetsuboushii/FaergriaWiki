@@ -1,3 +1,3 @@
 # Frille
 
-Adlige aus der Stadt Stea Brye, Hauptstadt von Mesmudor im Kaiserreich Kradian
+Aristokratin aus der Stadt Stea Brye, Hauptstadt von Mesmudor im Kaiserreich Kradian

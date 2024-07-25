@@ -32,7 +32,7 @@ Ar-Merer etwas über die Stränge.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="engel"></a></li>
 <li><b>Klasse:</b> Recke</li>
 <li><b>Gesinnung:</b> LN</li>
@@ -51,7 +51,7 @@ Ar-Merer etwas über die Stränge.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Justicia.md">Justicia</a>:</b> "Mutter" und Göttin</li>
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
 <li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester</li>

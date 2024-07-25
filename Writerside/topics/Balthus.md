@@ -19,7 +19,7 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Drachenritter</li>
 <li><b>Gesinnung:</b> ?</li>
@@ -38,7 +38,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Nayru.md"></a>:</b> Lehrling</li>
 </list>
 </procedure>

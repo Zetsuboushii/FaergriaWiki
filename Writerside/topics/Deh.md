@@ -21,7 +21,7 @@ Zaubern der Klerikerklasse will sie Leuten in Not helfen.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="drakonier"></a></li>
 <li><b>Klasse:</b> Klerikerin</li>
 <li><b>Gesinnung:</b> LG</li>
@@ -39,7 +39,7 @@ Zaubern der Klerikerklasse will sie Leuten in Not helfen.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Suskinox.md">Suskinox</a>:</b> Ehemaliger Professor</li>
 <li><b><a href="Thithrazk.md">Thirthrazk</a>:</b> Lehrmeister</li>
 </list>

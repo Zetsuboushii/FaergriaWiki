@@ -23,7 +23,7 @@ Während der Abwesenheit der Schlossherren kümmert sich Karl um das Grundstück
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Butler</li>
 <li><b>Gesinnung:</b> LN</li>
@@ -42,7 +42,7 @@ Während der Abwesenheit der Schlossherren kümmert sich Karl um das Grundstück
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Dorian.md">Dorian</a>:</b> Ehemaliger Schlossherr</li>
 <li><b><a href="Edgar.md">Edgar</a>:</b> Angestellter</li>
 <li><b><a href="Eris.md">Eris</a>:</b> Angestellte</li>

@@ -26,7 +26,7 @@ leidet Thanatos sehr unter den Diskriminierungen, die seit jenem Vorfall über i
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Volk:</b> Gott</li>
 <li><b>Klasse:</b> Gott der Sünde und der Finsternis</li>
 <li><b>Gesinnung:</b> CG</li>
@@ -45,7 +45,7 @@ leidet Thanatos sehr unter den Diskriminierungen, die seit jenem Vorfall über i
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <!-- <li><b><a href="Farone.md">Farone</a>:</b> Schwester</li> -->
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> "Tochter" und Reckin</li>
 <li><b><a href="Cinnabar.md">Cinnabar</a>:</b> "Tochter" und Reckin</li>

@@ -25,9 +25,9 @@ starben.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
-<li><b>Klasse:</b> Händlerin</li>
+<li><b>Klasse:</b> Bürgerin</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -45,7 +45,7 @@ starben.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Elkazel.md"></a>:</b> Bruder</li>
 </list>
 </procedure>

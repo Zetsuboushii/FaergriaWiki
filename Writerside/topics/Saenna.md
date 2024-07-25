@@ -12,9 +12,9 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Adlige</li>
+<li><b>Klasse:</b> Aristokratin</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -31,7 +31,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

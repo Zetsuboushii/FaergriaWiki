@@ -27,7 +27,7 @@ Attacken schon oft zuteil.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
 <li><b>Klasse:</b> Recke</li>
 <li><b>Gesinnung:</b> CG</li>
@@ -47,7 +47,7 @@ Attacken schon oft zuteil.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> "Vater" und Gott</li>
 <li><b><a href="Cinnabar.md">Cinnabar</a>:</b> Kleine Schwester</li>
 <li><b><a href="Eliza.md">Eliza</a>:</b> Kleine Schwester</li>

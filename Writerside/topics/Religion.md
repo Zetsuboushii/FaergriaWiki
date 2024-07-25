@@ -59,7 +59,7 @@ Abenteuer in Elyria lebendig machen.
 <p><b>Art des Glaubens:</b> Kult</p>
 </procedure>
 
-<procedure title="Orden der Heiligen Hand">
+<procedure title="Orden der Heilenden Hand">
 <p><b>Glaubenszentrum:</b> <a href="Hama.md"></a></p>
 <p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
 </procedure>

@@ -23,9 +23,9 @@ anstelle ihrer verstorbener Mutter die Haushaltstätigkeiten aus.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Maid</li>
+<li><b>Klasse:</b> Bürgerin</li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -43,7 +43,7 @@ anstelle ihrer verstorbener Mutter die Haushaltstätigkeiten aus.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Edgar.md">Edgar</a>:</b> Großer Bruder</li>
 <li><b><a href="Dorian.md"></a>:</b> Ehem. Herr</li>
 <li><b><a href="Grete.md">Grete</a>:</b> Freundin und Kollegin</li>

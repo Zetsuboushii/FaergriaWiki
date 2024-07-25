@@ -19,7 +19,7 @@ Waise in Obhut von Tannivh
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
 <li><b>Klasse:</b> </li>
 <li><b>Gesinnung:</b> </li>
@@ -38,7 +38,7 @@ Waise in Obhut von Tannivh
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

@@ -27,7 +27,7 @@ sie schnell in den Rängen hinauf, wurde zur Ritterin geschlagen und schließlic
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Ritterin</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -46,7 +46,7 @@ sie schnell in den Rängen hinauf, wurde zur Ritterin geschlagen und schließlic
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Marisa.md">Marisa</a>:</b> Beste Freundin</li>
 <li><b><a href="Lilia.md">Lilia</a>:</b> Schwester</li>
 </list>

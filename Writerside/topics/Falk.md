@@ -9,7 +9,10 @@
 <table>
 <tr><td>
 <p>
-Buchhändler in der Stadt.
+Falk ist der zurückhaltende Buchhändler aus <a href="Three-Winds-Valley.md" anchor="schachendorf"></a>. Sein Traum war
+es schon seit er klein war, eine eigene Buchhandlung zu führen. Falk liebt das Lesen und Teilen von Geschichten, sowie
+Wissen. Mit neuen Kunden fängt er trotz seiner Schüchternheit gerne Gespräche über die Bücher an, für die sich die
+Kunden interessieren. Jeden Goldagabend hält Falk einen Lesekreis in seiner Buchhandlung mit wenigen Mitgliedern.
 </p>
 
 </td><td width="300">
@@ -19,11 +22,11 @@ Buchhändler in der Stadt.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Klasse:</b> Bürger</li>
+<li><b>Gesinnung:</b> LG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
 
@@ -38,7 +41,7 @@ Buchhändler in der Stadt.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><a href="Alice.md"></a>: Lebenspartnerin</li>
 </list>
 </procedure>

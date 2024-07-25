@@ -21,7 +21,7 @@ Jäger in <a href="Duskwood.md" anchor="teryvnat"></a>. Beschützt das Dorf und 
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Jäger</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -40,7 +40,7 @@ Jäger in <a href="Duskwood.md" anchor="teryvnat"></a>. Beschützt das Dorf und 
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Caeda.md">Caeda</a>:</b> Kleine Schwester</li>
 </list>
 </procedure>

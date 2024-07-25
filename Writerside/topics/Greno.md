@@ -12,7 +12,7 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Volk:</b> Schutzgeister (Froschgeist)</li>
 <li><b>Klasse:</b> Schutzgeist</li>
 <li><b>Gesinnung:</b> TN</li>
@@ -31,7 +31,7 @@
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

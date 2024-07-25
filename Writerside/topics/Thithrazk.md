@@ -19,7 +19,7 @@ Ehemaliger Lehrmeister von Prof. Trans. Wulvarax Suskinox
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
 <li><b>Klasse:</b> </li>
 <li><b>Gesinnung:</b> </li>
@@ -38,7 +38,7 @@ Ehemaliger Lehrmeister von Prof. Trans. Wulvarax Suskinox
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

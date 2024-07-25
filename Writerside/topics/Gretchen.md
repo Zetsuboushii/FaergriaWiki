@@ -19,27 +19,26 @@ Apothekerin, betreibt eine Apotheke
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Hohefürst</li>
-<li><b>Gesinnung:</b> CG</li>
-<li><b>Verbleib:</b> am Leben</li>
+<list columns="2">
+<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
+<li><b>Klasse:</b> </li>
+<li><b>Gesinnung:</b> </li>
+<li><b>Verbleib:</b> </li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> Unbekannt</li>
-<li><b>Größe:</b> 1,59m</li>
-<li><b>Gewicht:</b> 48kg</li>
-<li><b>Augenfarbe:</b> Violett</li>
-<li><b>Haarfarbe:</b> Blond</li>
-<!-- <li><b>Maße:</b> 80/68-58-84</li> -->
+<li><b>Alter:</b> </li>
+<li><b>Größe:</b> </li>
+<li><b>Gewicht:</b> </li>
+<li><b>Augenfarbe:</b> </li>
+<li><b>Haarfarbe:</b> </li>
 </list>
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

@@ -26,7 +26,7 @@ zumindest bis <a href="Siegmund.md">Siegmund, der Meisterdieb</a> und
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Paladin</li>
 <li><b>Gesinnung:</b> LN</li>
@@ -45,7 +45,7 @@ zumindest bis <a href="Siegmund.md">Siegmund, der Meisterdieb</a> und
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Jervar.md">Kurfürst Jervar</a>:</b> Herr</li>
 <li><b>Diakon Hadubrandt:</b> Oberste Instanz der Kirche</li>
 <li><b><a href="Johann.md">Johann</a>:</b> Untergebener</li>

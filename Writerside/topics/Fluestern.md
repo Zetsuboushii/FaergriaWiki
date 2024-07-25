@@ -24,7 +24,7 @@ spielt.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="tieflinge"></a></li>
 <li><b>Klasse:</b> Hexenmeister</li>
 <li><b>Gesinnung:</b> ?</li>
@@ -43,7 +43,7 @@ spielt.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Morgen.md">Morgen</a>:</b> Große Schwester</li>
 <li><b><a href="Horizont.md">Herzog Horizont</a>:</b> Herr</li>
 <li><b><a href="Spitze.md">Spitze</a>:</b> Freundin und Kollegin</li>

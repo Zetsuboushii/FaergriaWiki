@@ -21,9 +21,9 @@ erfinden, die er am liebsten seine kleine Schwester <a href="Eris.md">Eris</a> v
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Koch</li>
+<li><b>Klasse:</b> Bürger</li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -40,7 +40,7 @@ erfinden, die er am liebsten seine kleine Schwester <a href="Eris.md">Eris</a> v
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Karl.md"></a>:</b> Freund und Kollege</li>
 <li><b><a href="Eris.md">Eris</a>:</b> Kleine Schwester</li>
 <li><b><a href="Dorian.md"></a>:</b> Ehem. Herr</li>

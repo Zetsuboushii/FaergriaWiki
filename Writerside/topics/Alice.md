@@ -28,7 +28,7 @@ diesen Vorfall.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
 <li><b>Klasse:</b> Nekromantin</li>
 <li><b>Gesinnung:</b> CN</li>
@@ -48,7 +48,7 @@ diesen Vorfall.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li>
 <a href="Falk.md"></a>: Lebenspartner
 </li>

@@ -25,7 +25,7 @@ Abenteurern zurückkommt.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Abenteurer</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -44,7 +44,7 @@ Abenteurern zurückkommt.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Hosgrid.md"></a>:</b> Vater</li>
 <li><b><a href="Jofina.md"></a>:</b> Künftige Verlobte</li>
 <li><b><a href="Burdig.md"></a>:</b> Guter Freund der Familie</li>

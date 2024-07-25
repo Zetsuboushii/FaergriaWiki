@@ -9,12 +9,14 @@
 <table>
 <tr><td>
 <p>
-Die hart arbeitende Göttin des Schicksals. Fortuna sitzt die meiste Zeit über alleine an ihrem Schreibtisch,
+Die hart arbeitende Göttin des Schicksals. Fortuna schuf einst die <a href="Folks.md" anchor="menschen"></a>, die
+<a href="Faergria.md">Faergria</a> bevölkern sollten, und schenkte ihnen die Gabe der Weisheit.
+<br></br><br></br>
+Fortuna sitzt die meiste Zeit über alleine an ihrem Schreibtisch,
 protokolliert Ereignisse in der Welt und hilft hier und da nach. Sie ist eine sehr spaßige Person, die es liebt Scherze
 auf Kosten anderer zu machen, wenn auch nur harmlose. Besonders <a href="U-Ranos.md">U-Ranos</a> wird oft Opfer ihrer
-Streiche. Eine weitere Lieblingsbeschäftigung ihrerseits ist es, Personen mit einander zu verkuppeln.
-<br></br><br></br>
-Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen Lagen aus dem Hintergrund.
+Streiche. Eine weitere Lieblingsbeschäftigung ihrerseits ist es, Personen mit einander zu verkuppeln. Fortuna hält sich
+aus den meisten Diskussionen zurück und agiert in brenzligen Lagen aus dem Hintergrund.
 </p>
 
 </td><td width="300">
@@ -24,7 +26,7 @@ Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Volk:</b> Gott</li>
 <li><b>Klasse:</b> Göttin des Schicksals</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -34,7 +36,7 @@ Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> Unbekannt</li>
+<li><b>Alter:</b> Geheim</li>
 <li><b>Größe:</b> 1,89m</li>
 <li><b>Gewicht:</b> 70kg</li>
 <li><b>Augenfarbe:</b> Gold</li>
@@ -44,7 +46,7 @@ Fortuna hält sich aus den meisten Diskussionen zurück und agiert in brenzligen
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <!-- <li><b><a href="Meilira.md">Meilira</a>:</b> Tochter</li> -->
 <!-- <li><b><a href="Inoro.md">Inoro</a>:</b> Neffe</li> -->
 <li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> Ungeliebter Neffe</li>

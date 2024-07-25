@@ -17,7 +17,7 @@ Letzter Drache Faergrias
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> Drachen</li>
 <li><b>Klasse:</b> </li>
 <li><b>Gesinnung:</b> </li>
@@ -36,7 +36,7 @@ Letzter Drache Faergrias
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

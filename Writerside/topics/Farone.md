@@ -9,6 +9,25 @@
 <table>
 <tr><td>
 <p>
+Farone ist die kindliche Göttin der Natur und der Magie. Sie verlieh <a href="Faergria.md">Faergria</a> den frischen, 
+grünen Anstrich der Pflanzen, schenkte Tieren im Wasser, auf dem Land und in den Lüften das Leben, und erschuf die
+berüchtigte Manaflamme; der Quell der Magie in Faergria, strengstens bewacht in
+<a href="Thicket-of-Truth.md" anchor="yerenas"></a> im <a href="Thicket-of-Truth.md" anchor="tempel-der-manaflamme"></a>
+wird sie alle 100 Jahre vor dem Erlischen bewahrt. Farone erschuf die <a href="Folks.md" anchor="elfen"></a>, die seit
+Anbeginn in den Wäldern von <a href="Farodris.md">Farodris</a> leben und diesen verehren.
+<br></br><br></br>
+Farone residiert im <a href="GardenOfMagic.md"></a>, den sie unter strengsten Anweisungen hat anlegen lassen. Diesen
+Garten hegt und pflegt sie und empfängt aus diesem Grund auch nur sehr selten Gäste bei sich, da sie Angst hat, dass
+ihr geliebter Garten ruiniert werden könne. 
+<br></br><br></br>
+Es hängt etwas vom Glück ab, ob Farone jemandem gegenüber friedlich oder feindlich gesinnt ist. Jedoch sollte man sich
+nicht täuschen lassen. Hinter ihrer eisigen Fassade verbirgt sich eine wohlgesinnte junge Dame, die jedoch aufgrund
+ihres schroffen Tons meist alleine ihren Nachmittagstee verköstigt. Wer sich mit Farone gut stellt, hat eine strahlende
+Zukunft als der nächste legendäre Magier Faergrias sicher.
+<br></br><br></br>
+Obwohl die anderen Götter ihre Recken als ihre Kinder ansehen, will es für Farone nicht so wirklich funktionieren.
+Trotz des Machtverhältnisses, referenzieren Farones Recken sie nur als "kleine Schwester", was Farone ganz und gar
+nicht in den Kram passt.
 </p>
 
 </td><td width="300">
@@ -18,27 +37,29 @@
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<list columns="2">
+<li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
+<li><b>Klasse:</b> Göttin der Natur und der Magie</li>
+<li><b>Gesinnung:</b> CN</li>
+<li><b>Verbleib:</b> ermordet</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> Alt genug</li>
+<li><b>Größe:</b> 1,44m</li>
+<li><b>Gewicht:</b> 36kg</li>
+<li><b>Augenfarbe:</b> Smaragdgrün</li>
+<li><b>Haarfarbe:</b> Grasgrün</li>
 </list>
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
-<li></li>
+<list columns="2">
+<li><a href="Finnea.md">Finnea</a>: Oberste Reckin</li>
+<li><a href="Adamar.md">Adamar</a>: Recke</li>
+<li><a href="Phaerille.md">Phaerille</a>: Reckin</li>
 </list>
 </procedure>
 

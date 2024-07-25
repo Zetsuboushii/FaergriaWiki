@@ -21,7 +21,7 @@ sich der Gebete an, die an sie gerichtet werden und lässt Gerechtigkeit dort wa
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Volk:</b> Gott</li>
 <li><b>Klasse:</b> Göttin der Gerechtigkeit und des Lichts</li>
 <li><b>Gesinnung:</b> LG</li>
@@ -41,7 +41,7 @@ sich der Gebete an, die an sie gerichtet werden und lässt Gerechtigkeit dort wa
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <!-- <li><b><a href="Inoro.md">Inoro</a>:</b> Erster "Sohn", Recke</li> -->
 <li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> "Sohn", Recke</li>
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> "Sohn", Recke</li>

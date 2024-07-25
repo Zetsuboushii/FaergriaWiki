@@ -27,7 +27,7 @@ Auf unerklärliche Weise entkam Cicero eines Nachts aus dem Kerker und wurde auf
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
 <li><b>Klasse:</b> Vasall</li>
 <li><b>Gesinnung:</b> NE</li>
@@ -46,7 +46,7 @@ Auf unerklärliche Weise entkam Cicero eines Nachts aus dem Kerker und wurde auf
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b>Serff:</b> Herr</li>
 </list>
 </procedure>

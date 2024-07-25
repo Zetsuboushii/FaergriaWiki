@@ -39,9 +39,9 @@ hinter einer Ecke hervor sieht, und beobachtet ihn heimlich.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Nonne</li>
+<li><b>Klasse:</b> Klerikerin</li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -59,7 +59,7 @@ hinter einer Ecke hervor sieht, und beobachtet ihn heimlich.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Felix.md"></a>:</b> Heimliche Liebe und Glaubensbruder</li>
 <li><b><a href="Perrotus.md"></a>:</b> Ziehvater</li>
 </list>

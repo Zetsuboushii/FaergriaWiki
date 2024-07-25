@@ -15,7 +15,8 @@ Zeit und der Weltlinien. Amlins Fähigkeit über die Zeit zu gebieten umfasst un
 der Zeit in einem Bereich, und das Entsenden von Personen in die Vergangenheit, Gegenwart und Zukunft.
 <br></br><br></br>
 Ihre Einsamkeit macht Amlin insgeheim ziemlich zu schaffen. Seit vielen Äonen halt sie ihren Plüschhasen in Ehren und
-kuschelt mit diesen, wenn sie sich einsam fühlt.
+kuschelt mit diesem, wenn sie sich einsam fühlt. Richtige Freunde hatte sie noch nie, wünscht sich aber nichts
+sehnlicher.
 </p>
 
 </td><td width="300">
@@ -25,9 +26,9 @@ kuschelt mit diesen, wenn sie sich einsam fühlt.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Hohefürst</li>
+<li><b>Klasse:</b> Hohefürstin</li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
@@ -35,8 +36,8 @@ kuschelt mit diesen, wenn sie sich einsam fühlt.
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> Unbekannt</li>
-<li><b>Größe:</b> 1,59m</li>
+<li><b>Alter:</b> Spielt keine Rolle</li>
+<li><b>Größe:</b> 1,51m</li>
 <li><b>Gewicht:</b> 48kg</li>
 <li><b>Augenfarbe:</b> Violett</li>
 <li><b>Haarfarbe:</b> Blond</li>
@@ -45,7 +46,7 @@ kuschelt mit diesen, wenn sie sich einsam fühlt.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li></li>
 </list>
 </procedure>

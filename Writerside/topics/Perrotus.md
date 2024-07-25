@@ -31,7 +31,7 @@ Hoffnung hegt, dass sie eines Tages seine Nachfolgerin werden könnte.
 </table>
 
 <procedure title="Allgemeine Informationen">
-<list columns="3">
+<list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> NG</li>
@@ -50,7 +50,7 @@ Hoffnung hegt, dass sie eines Tages seine Nachfolgerin werden könnte.
 </procedure>
 
 <procedure title="Beziehungen">
-<list columns="3">
+<list columns="2">
 <li><b><a href="Felix.md">Felix</a>:</b> Ziehsohn</li>
 <li><b><a href="Carmesine.md">Carmesine</a>:</b> Ziehtochter</li>
 </list>
