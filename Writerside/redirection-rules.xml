@@ -178,4 +178,8 @@
         <description>Created after removal of "Blathus" from Lorekeeper Wiki</description>
         <accepts>Blathus.html</accepts>
     </rule>
+    <rule id="2b292ddd">
+        <description>Created after removal of "FaergriaWiki" from Faergria Wiki</description>
+        <accepts>Homepage.html</accepts>
+    </rule>
 </rules>

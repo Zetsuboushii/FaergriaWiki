@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Faergria Wiki" id="Faergria-Wiki">
+
+    <section-starting-page>
+        <title>Faergria Wiki</title>
+        <description>
+            Willkommen im Wiki rund um alle Themen der Kampagnen in der Welt von Faergria
+        </description>
+
+        <primary>
+            <title>Tauche ein in die verwobene Lore</title>
+            <a href="Characters.md" type="account"
+               summary="Stöbere durch die Sammlung der bisher getroffenen Charaktere"/>
+            <a href="Places.md" type="navigation" summary="Schlage die vielen Ort aus der Welt von Faergria nach"/>
+        </primary>
+
+        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
+        <secondary>
+            <title>Festige dein Wissen</title>
+            <a href="Faergrian-Time.md" type="search"
+               summary="Erhalte Einblick in die Kalender der Jahre, in denen die Kampagne spielt"/>
+            <a href="Currency.md" type="data"
+               summary="Erfahre wie in Faergria gehandelt wird und bekomme ein Gefühl dafür, was Dinge kosten"/>
+            <a href="Folks.md" type="community"
+               summary="Mache dir ein Bild davon, wie reichhaltig die verschiedenen Kulturen in Faergria sind"/>
+            <a href="Religion.md" type="academy" summary="Habe Teil an den vielzahligen Glaubensrichtungen"/>
+        </secondary>
+
+        <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
+        <misc>
+            <cards narrow="true">
+                <title>Immer griffbereit</title>
+                <a href="Equipment.md" type="tools"
+                   summary="Labe dich an der immensen Auswahl an Ausrüstungsgegenständen"/>
+                <a href="Magic.md" type="offer" summary="Lies dich ein in die Welt der Magie"/>
+                <a href="Alchemy.md" type="experiment" summary="Werde Alchemist mit den passenden Lektüren"/>
+            </cards>
+        </misc>
+    </section-starting-page>
+
+</topic>

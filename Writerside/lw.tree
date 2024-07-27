@@ -4,9 +4,9 @@
 
 <instance-profile id="lw"
                  name="Lorekeeper Wiki"
-                 start-page="Homepage.md">
+                 start-page="Faergria-Wiki.topic">
 
-    <toc-element topic="Homepage.md"/>
+    <toc-element topic="Faergria-Wiki.topic"/>
     <toc-element topic="Places.md">
         <toc-element topic="Animus.md">
             <toc-element topic="CourtOfJustice.md"/>
