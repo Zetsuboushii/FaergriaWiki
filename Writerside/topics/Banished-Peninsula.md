@@ -25,4 +25,4 @@ In diesem uralten Sumpfland sollen sich riesige Schätze befinden. Dennoch kehre
 danach suchen. Wer sich in diesen dunklen Sumpf wagt, könnte dennoch mit sagenumwobenen Relikten sich Ruhm und Ehre
 erkaufen.
 
-![](drakensumpf.jpg)
+![](banshied_peninsula_swamp_of_drakes.jpg)
