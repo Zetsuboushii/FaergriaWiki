@@ -29,7 +29,7 @@ las Scarlet im Vorbeigehen das aufgeschlagene Tagebuch von Eliza, woraufhin dies
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
-<li><b>Klasse:</b> Paladin</li>
+<li><b>Klasse:</b> Paladina</li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

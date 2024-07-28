@@ -46,7 +46,7 @@ spielt.
 <list columns="2">
 <li><b><a href="Morgen.md">Morgen</a>:</b> Große Schwester</li>
 <li><b><a href="Horizont.md">Herzog Horizont</a>:</b> Herr</li>
-<li><b><a href="Spitze.md">Spitze</a>:</b> Freundin und Kollegin</li>
+<li><b><a href="Spitze.md">Spitze</a>:</b> Kollegin und heimliche Liebesbeziehung</li>
 <li><b><a href="Grund.md">Grund</a>:</b> Freund und Kollege</li>
 <li><b><a href="Grenze.md">Grenze</a>:</b> Vorgesetzte <!-- und heimliche Liebe --></li>
 </list>
