@@ -43,6 +43,9 @@ Obzession an, wird sie schnell beleidigt.
 
 <procedure title="Beziehungen">
 <list columns="2">
+<li><b><a href="Rai.md">Rai</a>:</b> Bester Freund</li>
+<li><b><a href="Farone.md">Farone</a>:</b> Gute Freundin</li>
+<li><b><a href="Fortuna.md">Fortuna</a>:</b> Gute Freundin</li>
 </list>
 </procedure>
 
