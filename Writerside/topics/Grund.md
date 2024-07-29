@@ -6,6 +6,8 @@
 
 <secondary-label ref="markath"/>
 
+<secondary-label ref="thanatos"/>
+
 <table>
 <tr><td>
 <p>

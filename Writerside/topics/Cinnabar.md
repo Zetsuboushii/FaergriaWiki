@@ -37,7 +37,7 @@ aufgeschlossener geworden.
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> 285</li>
+<li><b>Alter:</b> Unbekannt</li>
 <li><b>Größe:</b> 1,67m</li>
 <li><b>Gewicht:</b> 59kg</li>
 <li><b>Augenfarbe:</b> Rot</li>

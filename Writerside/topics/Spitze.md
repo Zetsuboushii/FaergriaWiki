@@ -6,6 +6,8 @@
 
 <secondary-label ref="markath"/>
 
+<secondary-label ref="thanatos"/>
+
 <table>
 <tr><td>
 <p>
@@ -49,7 +51,6 @@ vor allem Süßspeise kosten möchte. Das Gruppenbudget ist regelmäßig aus die
 
 <procedure title="Beziehungen">
 <list columns="2">
-<li><b><a href="Morgen.md">Morgen</a>:</b> Große Schwester</li>
 <li><b><a href="Horizont.md">Herzog Horizont</a>:</b> Herr</li>
 <li><b><a href="Fluestern.md">Flüstern</a>:</b> Kollege und heimliche Liebesbeziehung</li>
 <li><b><a href="Grund.md">Grund</a>:</b> Freund und Kollege</li>

@@ -1,5 +1,13 @@
 # Grenze, Schnitter der Verlorenen
 
+<primary-label ref="npc"/>
+
+<secondary-label ref="tenebris"/>
+
+<secondary-label ref="markath"/>
+
+<secondary-label ref="thanatos"/>
+
 <table>
 <tr><td>
 <p>
