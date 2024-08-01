@@ -8,8 +8,6 @@ Eine bunte Metropole, in der nach Wissen und Ästhetik gestrebt wird. Die vielen
 wurde von dem Vater von Kurfürstin Solenne in Auftrag gegeben, um seine Gattin glücklich zu machen. Dadurch hat sich
 Frelia und auch Hal neben der Großen Bibliothek einen Namen in Faergria gemacht.
 
-![](../images/places/Hal/frelia.png)
-
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Frille.md"></a></li> -->

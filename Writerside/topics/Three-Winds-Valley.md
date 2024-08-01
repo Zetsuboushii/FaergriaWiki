@@ -19,9 +19,4 @@ geschmackvollen Kräutern, die sich hier anbauen lassen. Die erste Zeitung Faerg
 
 ## Kirchenruine { collapsible="true" default-state="expanded" }
 
-![](three_winds_valley_church_ruins.jpg)
-
 ## Fortunas Tempel am Bergpass { collapsible="true" default-state="expanded" }
-
-![](three_winds_valley_temple.jpg)
-

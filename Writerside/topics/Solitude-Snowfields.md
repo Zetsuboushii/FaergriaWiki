@@ -6,8 +6,6 @@ als eine Bastion vor den harten Wintern.
 
 ## Nordholm { collapsible="true" default-state="expanded" }
 
-![](nordholm.png)
-
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <!-- <li><a href="Adrian.md"></a></li> -->
@@ -17,8 +15,6 @@ als eine Bastion vor den harten Wintern.
 ### Schneebergfried {collapsible="true" default-state="expanded"}
 
 Ein massives Bauwerk, die als sicherste Festung Faergrias gilt.
-
-![]()
 
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">

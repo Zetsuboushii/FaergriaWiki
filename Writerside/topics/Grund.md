@@ -1,4 +1,4 @@
-# Grund
+# Grund, Dritter Richter des Herzogs
 
 <primary-label ref="npc"/>
 

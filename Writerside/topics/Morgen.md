@@ -1,4 +1,4 @@
-# Morgen
+# Morgen, Herzogin von Markath
 
 <primary-label ref="npc"/>
 
@@ -29,18 +29,20 @@
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> 164</li>
+<li><b>Größe:</b> 1,82m</li>
+<li><b>Gewicht:</b> 63kg</li>
+<li><b>Augenfarbe:</b> Haselnussbraun</li>
+<li><b>Haarfarbe:</b> Sepia</li>
 <!-- <li><b>Maße:</b> </li> -->
 </list>
 </procedure>
 
 <procedure title="Beziehungen">
 <list columns="2">
-
+<li><b><a href="Horizont.md">Horizont</a>:</b> Gatte</li>
+<li><b><a href="Fluestern.md">Flüstern</a>:</b> Kleiner Bruder</li>
+<li><b><a href="Spitze.md">Spitze</a>:</b> Gute Freundin</li>
 </list>
 </procedure>
 

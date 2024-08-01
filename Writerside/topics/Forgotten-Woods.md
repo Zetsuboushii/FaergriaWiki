@@ -5,7 +5,7 @@ fortwährend als untoter Skelettkrieger verbringen muss.
 
 ## Tempel der Zeit { collapsible="true" default-state="expanded" }
 
-![](forgotten_woods_temple_of_time.jpg)
+An diesem Ort jenseits der Zeit, haust Amlin, die Hohefürstin der Zeit. In diesen mystischen
 
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">

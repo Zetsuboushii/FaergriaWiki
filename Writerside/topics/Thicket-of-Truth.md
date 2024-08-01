@@ -26,8 +26,6 @@ In diesen Hallen wird seit Anbeginn der Zeit die Manaflamme gehütet.
 
 ### Indial-Grenzposten {collapsible="true" default-state="expanded"}
 
-![](farodris_aussenposten.jpg)
-
 <p>
 Mutige Grenzpostler beschützer ihre Brüder und Schwestern der Wälder vor Monster aus <a href="Inidal.md">Inidal</a>.
 </p>

@@ -2,7 +2,7 @@
 
 Eine recht zurückgezogene und bewaldete Gegend im Zentrum Thaugriens.
 
-## Dünsberg
+## Dünsberg {collapsible="true" default-state="expanded"}
 
 Dieses unscheinbare Dörfchen abgelegen der Großstädte Thaugriens beherbergt die wohl herzlichsten Bewohner aus ganz
 Faergria. Die offenen Einwohner treffen sich regelmäßig gesellschaftlich in der lokalen Taverne. Tradition ist die

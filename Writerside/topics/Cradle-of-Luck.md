@@ -13,8 +13,6 @@ standhält, erhält den Titel "Bruder".
 <!--
 ### Langhaus des Chefs {collapsible="true" default-state="expanded"}
 
-![](garadzar_longhouse_4f.jpg)
-
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Igor.md"></a></li>
@@ -22,8 +20,6 @@ standhält, erhält den Titel "Bruder".
 </procedure>
 
 ### Garadzarwiesen {collapsible="true" default-state="expanded"}
-
-![](garadzar_pastures_3f.jpg)
 
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
@@ -33,8 +29,6 @@ standhält, erhält den Titel "Bruder".
 
 ### Unterwall {collapsible="true" default-state="expanded"}
 
-![](garadzar_blacksmith_3f.jpg)
-
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Olaf.md"></a></li>
@@ -43,20 +37,10 @@ standhält, erhält den Titel "Bruder".
 
 ### Taverne "Dwoggerlig" {collapsible="true" default-state="expanded"}
 
-![](garadzar_tavern_3f.jpg)
-
-
-
 ### Große Mine von Garadzar {collapsible="true" default-state="expanded"}
-
-![](garadzar_mine.jpg)
-
-
 -->
 
 ## Bernsteintempel {collapsible="true" default-state="expanded"}
-
-<!-- ![](amber_temple_1f.jpg) -->
 
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">

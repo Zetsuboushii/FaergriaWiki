@@ -12,8 +12,6 @@ Diese historische Stadt hält sich nicht zurück, sich selbst neu zu erfinden. T
 Neuheiten treten mit ziemlicher Sicherheit hier zuerst auf. Erst kürzlich wurde eine Teststrecke mitsamt zwei Stationen
 für eine neuartige Fortbewegungsmethode errichtet, die bei den Bewohnern auf gute Kritiken stößt.
 
-![](aegir.png)
-
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
 <li><a href="Ezekiel.md"></a></li>
@@ -40,8 +38,6 @@ Gäste aus ganz Faergria zu riesigen Banketten und Bällen, obwohl ihr Gatte, de
 </procedure>
 
 ### Adrestianische Eisenbahn {collapsible="true" default-state="expanded"}
-
-![](adrestian_railway_tfz.jpg)
 
 <procedure title="Charaktere von diesem Ort">
 <list columns="3">
