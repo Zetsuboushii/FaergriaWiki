@@ -52,7 +52,9 @@ auch ihren Liebhaber, nachdem sie ihn sieben Tage hat elendig unter körperliche
 </list>
 </procedure>
 
+<!--
 ## Notizen
 
 - **Ziele:**
-- **Geheimnisse:** 
+- **Geheimnisse:**
+-->
