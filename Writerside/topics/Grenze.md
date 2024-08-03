@@ -12,7 +12,7 @@
 <tr><td>
 <p>
 Die hoch angesehene Leibgarde des Herzogs von Markath. Im Kampf macht sie mit ihren Feinden kurzen Prozess. Wer sich
-mit und ihren Sensen aus Torheit oder Arroganz anlegt, wird dies bitterlichst bereuen.
+mit ihr und ihren Sensen aus Torheit oder Arroganz anlegt, wird dies bitterlichst bereuen.
 <br></br><br></br>
 Grenze ist einst als Kind von umherstreunenden Dämonen geboren worden und zog schon bald als kleines Kind von ihren
 Eltern zurückgelassen durch Markath. Früh musste sie sich allein gegen die grausame Wildnis Markaths beweisen können 
