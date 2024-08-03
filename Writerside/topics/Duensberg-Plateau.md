@@ -35,3 +35,9 @@ kommt der Butler dieses Schlosses öfters nach Dünsberg für Besorgungen und he
 <li><a href="Johann.md"></a></li>
 </list>
 </procedure>
+
+## Alt-Dünsberg {collapsible="true" default-state="expanded"}
+
+Östlich von Dünsberg liegen die Ruinen von Alt-Dünsberg. Das heutige Dünsberg dort entstand, wo es heute steht, siedelte
+sich einst eine Gruppe Bauern in den Wäldern von Dünsberg an, bis eines Tages ein gigantischer Erdspalt sich mitten
+durch das Dorf zog uns alles zunichtemachte, was die Bauersleute aufgebaut hatten.

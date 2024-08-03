@@ -1,4 +1,4 @@
-# Konrad von Silberbach
+# Konrad von Silberbach, Stellvertretender Großherzog von Tinorland
 
 <primary-label ref="npc"/>
 

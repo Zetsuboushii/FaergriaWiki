@@ -1,6 +1,6 @@
 # Prof. Trans. Wulvarax Suskinox
 
-<primary-label ref="npc"/>
+<primary-label ref="player"/>
 
 <secondary-label ref="faergria"/>
 

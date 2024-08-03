@@ -182,4 +182,8 @@
         <description>Created after removal of "FaergriaWiki" from Faergria Wiki</description>
         <accepts>Homepage.html</accepts>
     </rule>
+    <rule id="5a4b2c63">
+        <description>Created after removal of "Thaugrien2" from Faergria Wiki</description>
+        <accepts>Thaugrien2.html</accepts>
+    </rule>
 </rules>
