@@ -59,25 +59,29 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 
 <img src="boreanos.png" alt=""/>
 
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
+| HP  | AC | Move  |
+|-----|----|-------|
+| 225 | 19 | 80ft. |
 
 | Str | Dex | Con | Int | Wis | Cha |
 |-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
+| +5  | +2  | +4  | +1  | +3  | +4  |
 
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
+| Typ   | Weakness | Resistances | Immunities                                         |
+|-------|----------|-------------|----------------------------------------------------|
+| Untot | Feuer    |             | Cold, Poison, Psychic, Betäubt, Erschöpft, Charmed |
 
-| Ability | Description |
-|---------|-------------|
-|         |             |
+| Ability               | Description                                                  |
+|-----------------------|--------------------------------------------------------------|
+| Gefrorene Reflexionen | Erzeugt Spiegelbilder aus Eis, die Angriffe ablenken können. |
 
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
+| Action                | Description                                                               | Attack          | Damage             |
+|-----------------------|---------------------------------------------------------------------------|-----------------|--------------------|
+| Geistergeweih         | Melee, Reach 10 ft., ein Ziel                                             | +10 to hit      | 2d12+5 cold        |
+| Kältestrahl           | Ranged, 60 ft., ein Ziel                                                  | +9 to hit       | 4d8+4 cold         |
+| Frostige Hufe         | Melee, Reach 5 ft., ein Ziel                                              | +8 to hit       | 2d10+5 bludgeoning |
+| Eisschild             | Reaktion, reduziert den Schaden durch einen Angriff um 2d10.              | -               | -                  |
+| Eisiger Sturm (1/Tag) | 30 ft. Radius, verursacht Eis- und Kälteschaden sowie schwieriges Gelände | Dexterity DC 18 | 6d6 cold           |
 
 ## Steinernes Donnerungetüm Elektrabrax, Peiniger des Biltzaltars {collapsible="true" default-state="expanded"}
 

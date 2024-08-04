@@ -216,24 +216,25 @@
 
 | HP | AC | Move   |
 |----|----|--------|
-| 7  | 15 | 30 ft. |
+| 16 | 13 | 30 ft. |
 
 | Str | Dex | Con | Int | Wis | Cha |
 |-----|-----|-----|-----|-----|-----|
-| -1  | +2  | +0  | -1  | -1  | -2  |
+| +1  | +2  | +1  | -1  | +0  | -1  |
 
 | Typ      | Weakness | Resistances | Immunities |
 |----------|----------|-------------|------------|
-| Humanoid |          |             |            |
+| Humanoid | Keine    |             |            |
 
-| Ability  | Description                                                             |
-|----------|-------------------------------------------------------------------------|
-| Ausdauer | Kann zweimal angreifen bevor er müde wird                               |
-| Schlaf   | Schläft eine Runde lang; hat danach Adv. auf alle Throws für eine Runde |
+| Ability          | Description                                                            |
+|------------------|------------------------------------------------------------------------|
+| Hinterhältigkeit | Erhält Vorteil bei Angriffen gegen abgelenkte oder überraschte Feinde. |
+| Goblin-Akrobatik | Kann sich als Bonusaktion 10 ft. bewegen, um Angriffen auszuweichen.   |
 
-| Action      | Description        | Attack    | Damage            |
-|-------------|--------------------|-----------|-------------------|
-| Holzknüppel | Melee, Reach 5 ft. | +2 to hit | 1d6-1 bludgeoning |
+| Action           | Description                                                                                        | Attack    | Damage                         |
+|------------------|----------------------------------------------------------------------------------------------------|-----------|--------------------------------|
+| Knüppelschlag    | Melee, Reach 5 ft., ein Ziel                                                                       | +3 to hit | 1d6+1 bludgeoning              |
+| Rabiater Angriff | Kann einmal pro Runde, wenn unter 50% HP, mit Nachteil angreifen und doppelten Schaden verursachen | +3 to hit | 2d6+1 bludgeoning (bei Erfolg) |
 
 ## Halorischer Ritter {collapsible="true" default-state="expanded"}
 
@@ -290,25 +291,30 @@
 
 <img src="schwarzklingenassassine.png" alt="" height="400"/>
 
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
+| HP | AC | Move   |
+|----|----|--------|
+| 82 | 17 | 40 ft. |
 
 | Str | Dex | Con | Int | Wis | Cha |
 |-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
+| +1  | +5  | +2  | +3  | +2  | +3  |
 
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
+| Typ      | Weakness | Resistances | Immunities |
+|----------|----------|-------------|------------|
+| Humanoid | Licht    |             |            |
 
-| Ability | Description |
-|---------|-------------|
-|         |             |
+| Ability               | Description                                                                            |
+|-----------------------|----------------------------------------------------------------------------------------|
+| Schattenverschmelzung | Kann sich in Schatten nahezu unsichtbar machen.                                        |
+| Heimtückische Angriff | Verursacht zusätzlichen Schaden bei Angriffen aus dem Verborgenen.                     |
+| Rauchwolke            | Kann eine Rauchwolke erschaffen, die Sichtlinien blockiert und die Flucht erleichtert. |
 
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
+| Action               | Description                                                                           | Attack    | Damage                               |
+|----------------------|---------------------------------------------------------------------------------------|-----------|--------------------------------------|
+| Dolchstoß            | Melee, Reach 5 ft., ein Ziel                                                          | +8 to hit | 1d4+5 piercing plus 3d6 sneak attack |
+| Wurfdolch            | Ranged, 20/60 ft., ein Ziel                                                           | +8 to hit | 1d4+5 piercing                       |
+| Dunkler Hieb (1/Tag) | Ein mächtiger Angriff, der bei einem Überraschungsangriff verwendet wird              | +8 to hit | 2d6+5 necrotic                       |
+| Schattenlauf         | Kann sich durch Schatten bewegen, um 30 ft. ohne Angriff von Gelegenheit zu vermeiden | -         | -                                    |
 
 ## Stahlschuppe {collapsible="true" default-state="expanded"}
 

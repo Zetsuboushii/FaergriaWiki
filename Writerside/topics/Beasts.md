@@ -105,25 +105,27 @@
 
 <img src="grauer_wolf.png" alt="" height="400"/>
 
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
+| HP | AC | Move   |
+|----|----|--------|
+| 37 | 13 | 40 ft. |
 
 | Str | Dex | Con | Int | Wis | Cha |
 |-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
+| +2  | +2  | +2  | -4  | +1  | -2  |
 
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
+| Typ    | Weakness | Resistances | Immunities |
+|--------|----------|-------------|------------|
+| Bestie | Feuer    | Kälte       | Betäubt    |
 
-| Ability | Description |
-|---------|-------------|
-|         |             |
+| Ability              | Description                                                                            |
+|----------------------|----------------------------------------------------------------------------------------|
+| Rudel Taktik         | Erhält Vorteil auf Angriffe, wenn ein Verbündeter innerhalb von 5 ft. des Ziels steht. |
+| Scharfer Geruchssinn | Kann Kreaturen in Reichweite riechen und versteckte Feinde erschnüffeln.               |
 
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
+| Action | Description                                         | Attack         | Damage         |
+|--------|-----------------------------------------------------|----------------|----------------|
+| Biss   | Melee, Reach 5 ft., ein Ziel                        | +4 to hit      | 2d4+2 piercing |
+| Heulen | Verursacht Furcht bei Gegnern im Umkreis von 10 ft. | DC 12 Wis Save | -              |
 
 ## Prellkäfer {collapsible="true" default-state="expanded"}
 
