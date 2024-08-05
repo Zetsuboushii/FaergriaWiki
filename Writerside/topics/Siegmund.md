@@ -8,6 +8,8 @@
 
 <secondary-label ref="vasall"/>
 
+<secondary-label ref="diebesgilde"/>
+
 <warning>Keine Gewähr auf Richtigkeit! Einschätzung des DMs!</warning>
 
 <table>

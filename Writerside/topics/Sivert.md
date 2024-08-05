@@ -6,6 +6,8 @@
 
 <secondary-label ref="thaugrien"/>
 
+<secondary-label ref="diebesgilde"/>
+
 <table>
 <tr><td>
 <p>

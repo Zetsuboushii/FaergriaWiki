@@ -6,6 +6,8 @@
 
 <secondary-label ref="hal"/>
 
+<secondary-label ref="diebesgilde"/>
+
 <table>
 <tr><td>
 <p>

@@ -32,7 +32,7 @@ wurden von Seiten der Schule nie zur Rechenschaft gezogen. Zetta erschien auf ih
 mehr zum Unterricht und wurde seit diesem Tag auch von niemandem mehr gesehen. Aufgrund ihrer Erfahrungen hat Zetta
 einen unnatürlich starken Hass auf ihr Aussehen und ihre Abstammung, sowie ihre Eltern entwickelt.
 <br></br><br></br>
-Eines Nachts fand Arvel, die Dieb, das verwahrloste Mädchen, das von zuhause entlaufen war, in einer dreckigen
+Eines Nachts fand Arvel, der Dieb, das verwahrloste Mädchen, das von zuhause entlaufen war, in einer dreckigen
 Seitengasse auf. Arvel, der gerade auf einem Raubzug war, nahm Zetta aus Barmherzigkeit mit sich mit und sorgte sich
 eine Weile um sie. Über mehrere Monate hinweg wurde Zetta zu einem Mitglied der Diebesgilde, da viele Personen dort
 ähnlich schwere Schicksale teilten. Zumal befand sich auch ihr großer Retter stets dort.
