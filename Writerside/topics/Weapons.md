@@ -126,6 +126,8 @@ Zweihändig. (Piercing, Ranged, Dex)
 <table>
 <tr><td>Waffenname</td><td>Str</td><td>Dex</td><td>Con</td><td>Int</td><td>Wis</td><td>Cha</td><td>Schaden</td><td>Acid</td><td>Cold</td><td>Dark</td><td>Fire</td><td>Force</td><td>Lighting</td><td>Necrotic</td><td>Poison</td><td>Psychic</td><td>Radiant</td><td>Thunder</td><td>Fähigkeit</td></tr>
 <tr><td>Splittriger Kurzbogen</td><td> </td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
+<tr><td>Gewöhnlicher Kurzbogen</td><td> </td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>3d6+3</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
+<tr><td>Doppelschussbogen</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8+2 x2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
 </table>
 </tab>
 
@@ -142,8 +144,10 @@ Zweihändig. (Piercing, Ranged, Dex)
 Jede Armbrust kann mit einer Bonusaktion vorgeladen werden. (Piercing, Ranged, Dex)
 <table>
 <tr><td>Waffenname</td><td>Str</td><td>Dex</td><td>Con</td><td>Int</td><td>Wis</td><td>Cha</td><td>Schaden</td><td>Acid</td><td>Cold</td><td>Dark</td><td>Fire</td><td>Force</td><td>Lighting</td><td>Necrotic</td><td>Poison</td><td>Psychic</td><td>Radiant</td><td>Thunder</td><td>Fähigkeit</td></tr>
+<tr><td>Gewöhnliche Armbrust</td><td>11/E</td><td>11/E</td><td> </td><td> </td><td> </td><td> </td><td>2d6</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>80/300</td></tr>
 <tr><td>Schwere Armbrust</td><td>12/E</td><td>12/E</td><td> </td><td> </td><td> </td><td> </td><td>1d10</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>80/300</td></tr>
 <tr><td>Giftarmbrust</td><td>10/E</td><td>14/E</td><td> </td><td> </td><td> </td><td> </td><td>1d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>3d6</td><td> </td><td> </td><td> </td><td>80/300</td></tr>
+<tr><td>Harpunenkatapult</td><td>15/D</td><td>12/E</td><td> </td><td> </td><td> </td><td> </td><td>3d8+2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>3d6</td><td> </td><td> </td><td> </td><td>80/300, 5ft. Pull</td></tr>
 </table>
 </tab>
 </tabs>
