@@ -17,8 +17,8 @@ env:
   ALGOLIA_APP_NAME: 'TTX2CCX6SC'
   ALGOLIA_INDEX_NAME: 'prod_faergriawiki'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
-  CONFIG_JSON_PRODUCT: 'IN'
-  CONFIG_JSON_VERSION: '2.0'
+  CONFIG_JSON_PRODUCT: 'FaergriaWiki'
+  CONFIG_JSON_VERSION: '1.5.6'
 
 jobs:
   build:
