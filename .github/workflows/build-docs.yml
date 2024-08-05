@@ -13,12 +13,12 @@ env:
   INSTANCE: 'Writerside/in'
   ARTIFACT: 'webHelpIN2-all.zip'
   DOCKER_VERSION: '241.16003'
-  ALGOLIA_ARTIFACT: 'webHelpIN2-all.zip'
+  ALGOLIA_ARTIFACT: 'algolia-indexes-IN.zip'
   ALGOLIA_APP_NAME: 'TTX2CCX6SC'
   ALGOLIA_INDEX_NAME: 'prod_faergriawiki'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
-  CONFIG_JSON_PRODUCT: 'FaergriaWiki'
-  CONFIG_JSON_VERSION: '1.0'
+  CONFIG_JSON_PRODUCT: 'IN'
+  CONFIG_JSON_VERSION: '2.0'
 
 jobs:
   build:
