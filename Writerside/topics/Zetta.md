@@ -68,7 +68,7 @@ eine Weile um sie. Über mehrere Monate hinweg wurde Zetta zu einem Mitglied der
 <li><b>Arvel:</b> Verstorbene große Liebe</li>
 <li><b><a href="Valerius.md">Valerius</a>:</b> Langjähriger Freund</li>
 <li><b><a href="Carmesine.md">Carmesine</a>:</b> Freundin</li>
-<li><b><a href="Felix.md">Felix</a>:</b> Felix</li>
+<li><b><a href="Felix.md">Felix</a>:</b> Freund</li>
 <li><b><a href="Perrotus.md">Perrotus</a>:</b> Klostervater</li>
 <li><b><a href="Siegmund.md">Siegmund</a>:</b> Ehem. Feind</li>
 </list>
