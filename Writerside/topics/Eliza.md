@@ -51,8 +51,12 @@ las Scarlet im Vorbeigehen das aufgeschlagene Tagebuch von Eliza, woraufhin dies
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Ziehvater und Gott</li>
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> Größte Schwester</li>
 <li><b><a href="Cinnabar.md">Cinnabar</a>:</b> Große Schwester</li>
+<li><b><a href="Stephan.md">Stephan</a>:</b> Eigentlicher großer Bruder</li>
+<li><b><a href="Tristan.md">Tristan</a>:</b> Eigentlicher kleiner Bruder</li>
+<li><b><a href="Eliza.md">Eliza</a>:</b> Große Schwester</li>
 <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Liebster</li>
 <li><b><a href="Nayru.md">Nayru</a>:</b> Freundin</li>
+<li><b><a href="Jervar.md">Jervar</a>:</b> Cousin</li>
 </list>
 </procedure>
 

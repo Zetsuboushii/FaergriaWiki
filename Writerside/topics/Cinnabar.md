@@ -29,7 +29,7 @@ aufgeschlossener geworden.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
-<li><b>Klasse:</b> Reckin</li>
+<li><b>Klasse:</b> Meisterdiebin</li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> vermisst</li>
 </list>

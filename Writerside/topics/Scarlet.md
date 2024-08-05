@@ -29,7 +29,7 @@ Attacken schon oft zuteil.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
-<li><b>Klasse:</b> Recke</li>
+<li><b>Klasse:</b> Erzmagierin</li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> verschwunden</li>
 </list>
@@ -39,7 +39,7 @@ Attacken schon oft zuteil.
 <list columns="3">
 <li><b>Alter:</b> Unbekannt</li>
 <li><b>Größe:</b> 1,82m</li>
-<li><b>Gewicht:</b> 51kg</li>
+<li><b>Gewicht:</b> 71kg</li>
 <li><b>Augenfarbe:</b> Scharlachrot</li>
 <li><b>Haarfarbe:</b> Pechschwarz</li>
 <!-- <li><b>Maße:</b> 99/75-65-87</li> -->

@@ -57,7 +57,7 @@ bestiehlt, beziehungsweise ermordet.
 <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Vertrauter</li>
 <li><b><a href="Nayru.md">Nayru</a>:</b> Beste Komplizin</li>
 <li><b>Baumwächter:</b> Innige Bindung</li>
-<li><b><a href="O-Gall.md">O-Gall</a>:</b> <i>Innige</i> Bindung</li>
+<li><b><a href="En-Troad.md">En-Troad</a>:</b> <i>Innige</i> Bindung</li>
 <li><b><a href="Reichart.md">Reichart</a>:</b> Großes Vorbild</li>
 <li><b><a href="Fortuna.md">Fortuna</a>:</b> Ehem. Objekt der Begierde</li>
 <li><b><a href="Marisa.md">Marisa</a>:</b> Ehem. Objekt der Begierde</li>

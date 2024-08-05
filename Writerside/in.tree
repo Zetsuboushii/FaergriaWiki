@@ -8,6 +8,7 @@
 
     <toc-element topic="Faergria-Wiki.topic"/>
     <toc-element topic="Characters.md">
+        <toc-element topic="Adrian.md"/>
         <toc-element topic="Aelua.md"/>
         <toc-element topic="Alice.md"/>
         <toc-element topic="Amlin.md"/>
@@ -94,11 +95,13 @@
         <toc-element topic="Sivert.md"/>
         <toc-element topic="Sonya.md"/>
         <toc-element topic="Spitze.md"/>
+        <toc-element topic="Stephan.md"/>
         <toc-element topic="Suskinox.md"/>
         <toc-element topic="Tannivh.md"/>
         <toc-element topic="Thanatos.md"/>
         <toc-element topic="Thithrazk.md"/>
         <toc-element topic="Thorismund.md"/>
+        <toc-element topic="Tristan.md"/>
         <toc-element topic="Trost.md"/>
         <toc-element topic="Troy.md"/>
         <toc-element topic="U-Ranos.md"/>

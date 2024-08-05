@@ -3,7 +3,12 @@
 <table>
 <tr><td>
 <p>
-Aristokrat Schätzesammler aus <a href="Solitude-Snowfields.md" anchor="nordholm"></a>.
+Der freundliche und eifrige adlige Tavernenbesitzer von <a href="Solitude-Snowfields.md" anchor="adrians-schatzkiste"/>
+und leidenschaftlicher Schätzesammler.
+<br></br><br></br>
+Adrian kehrt oft erfolgreich von Schatzjagden zurück, wobei er seine Beute zum Großteil in den Ausbau seiner Taverne
+steckt. Diese bedeutet ihm alles. Die vielen Zimmer der Taverne sind oft ausgebucht, hauptsächlich wegen dem netten
+Ambiente, für das Adrian gerne sorgt.
 </p>
 
 </td><td width="300">
@@ -14,9 +19,9 @@ Aristokrat Schätzesammler aus <a href="Solitude-Snowfields.md" anchor="nordholm
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"/></li>
 <li><b>Klasse:</b> Aristokrat</li>
-<li><b>Gesinnung:</b></li>
+<li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>

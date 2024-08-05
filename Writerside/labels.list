@@ -57,4 +57,7 @@
     <secondary-label id="5" name="5. Generation" color="purple">Charakter ist Hohefürst der fünften Generation</secondary-label>
 
     <secondary-label id="vasall" name="Vasall" color="purple">Charakter ist/war Vasall eines Hohefürsten</secondary-label>
+    <secondary-label id="diebesgilde" name="Diebesgilde" color="purple">Charakter ist/war Teil der Diebesgilde in
+        Grenbrock
+    </secondary-label>
 </labels>
