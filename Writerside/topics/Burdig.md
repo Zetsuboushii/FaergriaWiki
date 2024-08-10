@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Der liebenswürdige, wenn auch etwas tollpatschige Wirt aus <a href="Duensberg-Plateau.md" anchor="d-nsberg"></a>. Als
+Der liebenswürdige, wenn auch etwas tollpatschige Wirt aus <a href="Duensberg.md"></a>. Als
 Kind schon half er seinen Eltern in der Taverne aus und übernahm jenen Familienbetrieb später nach dem Tod beider
 Elternteile. Burdigs Herz und Seele stecken in jenem Gasthaus und auch übernimmt er, ganz den Tradtitionen, das
 Apfelweinkeltern nach der alljährlichen Apfelernte in Dünsberg. Das Rezept liegt seit jeher im Besitz von Burdigs

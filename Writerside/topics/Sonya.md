@@ -14,10 +14,10 @@
 Sonya wuchs als Tochter von <a href="Solenne.md">Kurfürstin Solenne</a> auf. Als Sonya noch recht jung war, verstarb ihr
 Vater, der Kurfürst, in einer verheerenden Schlacht gegen Monster auf See. Seitdem war Sonya in sich gekehrt und jedem
 gegenüber abweisend. Als Sonya 16 Jahre alt war, kam der wanderende Kleriker <a href="U-Ranos.md">U-Ranos</a> zu Besuch
-im <a href="Blooming-Fjord.md" anchor="bl-tenschloss-frelia">Schloss</a>. Ihm konnte sie sich ihm in einem Gespräch
+im <a href="Frelia.md" anchor="bl-tenschloss-frelia">Schloss</a>. Ihm konnte sie sich ihm in einem Gespräch
 öffnen. Ab diesem Zeitpunkt schein alles bergauf zu gehen für Sonya, doch tagsdrauf wurde sie von
 <a href="Valerius.md">Valerius</a>, einem damals 16 Jahre alten Assassinen aus der
-<a href="Northern-Grenbrock.md" anchor="diebesgilde"></a> in Grenbrock, bei einem Raubcoup entführt. Seit diesem Tage
+<a href="Grenbrock.md" anchor="diebesgilde"></a> in Grenbrock, bei einem Raubcoup entführt. Seit diesem Tage
 hat Sonya ihre Mutter und Heimat nie wieder gesehen und vergaß allmälich alles über ihre Herkunft. Sie wurde mit der
 Zeit eine Assassinin in der Diebesgilde und feste Kollegin von Valerius.
 </p>

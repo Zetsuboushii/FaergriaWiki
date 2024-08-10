@@ -14,8 +14,8 @@
 <tr><td>
 <p>
 Erika ist seit 389 n.V. die oberste Ritterin und die Leibgarde der Königsfamilie in
-<a href="Kings-Cliffs.md" anchor="aegir"></a>. Sie hat angefangen als einfache Knappin am
-<a href="Kings-Cliffs.md" anchor="schloss-aegir"></a>, durch ihr Talent im Umgang mit Großäxten und Schwertern stieg
+<a href="Aegir.md"></a>. Sie hat angefangen als einfache Knappin am
+<a href="Aegir.md" anchor="schloss-aegir"></a>, durch ihr Talent im Umgang mit Großäxten und Schwertern stieg
 sie schnell in den Rängen hinauf, wurde zur Ritterin geschlagen und schließlich durch ihre Freudschaft zu
 <a href="Marisa.md"></a> zur Leibgarde der Königsfamilie ernannt.
 </p>

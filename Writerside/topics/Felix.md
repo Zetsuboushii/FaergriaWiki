@@ -12,7 +12,7 @@
 <tr><td>
 <p>
 Felix ist ein Kleriker für <a href="Farone.md">Farone</a> im
-<a href="Obsidian-Borderlands.md" anchor="kloster-schicksalsweg"></a>. Als er noch ein kleines Kind war, fand
+<a href="Kloster-Schicksalsweg.md"></a>. Als er noch ein kleines Kind war, fand
 <a href="Perrotus.md">Vater Perrotus</a> ihn eines Morgens vor den Türen des Klosters in einem Korb auf. Ohne jegliche
 Spur oder Anhaltspunkte auf die Eltern, die diesen Jungen dort ausgesetzt hatten, nahm Perrotus den kleinen Felix im
 Kloster auf. Seinen Namen bekam Felix durch Perrotus, der ihn wie seinen eigenen Sohn großzog. Schon in jungen Jahren

@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Der ängstliche und zerstreute Koch im <a href="Duensberg-Plateau.md" anchor="jagdschloss-d-nsberg"></a>. Schon als
+Der ängstliche und zerstreute Koch im <a href="Jagdschloss-Duensberg.md"></a>. Schon als
 Junge hat Edgar angefangen zu kochen und verfeinert seine Kochkünste seit jeher. Er liebt es neue Kreationen zu
 erfinden, die er am liebsten seine kleine Schwester <a href="Eris.md">Eris</a> verköstigen lässt. 
 </p>

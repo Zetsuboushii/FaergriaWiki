@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Einst ein versierter Wasserzauberer in <a href="Alljord-Bay.md" anchor="brodia"></a>, wurde Modaharius in seiner
+Einst ein versierter Wasserzauberer in <a href="Brodia.md"></a>, wurde Modaharius in seiner
 "wilden Zeit", wie er selbst immer sagt, legte er sich einst mit einer berüchtigten Hexe an, die ihn in einen Unten
 verwandelte. Nach einigen Missverständnissen mit der Bürgerwehr Brodias, hat sich Modaharius gut in seiner Heimat
 als Skelett eingelebt. Die Einwohner haben sich an die ungewöhnliche Erscheinung von ihm gewöhnt und mittlerweile ist

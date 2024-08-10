@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Im Vulkan am <a href="Smouldering-Alps-of-Nifl.md" anchor="glutberg">Glutberg</a> verkörpert Kaen das Element des
+Im Vulkan am <a href="Glutberg.md">Glutberg</a> verkörpert Kaen das Element des
 Feuers.
 <br></br><br></br>
 Ihre zynische und abweisende Art schreckt viele ab, doch so bekommen die meisten ihre zarte Seite nicht zu gesicht.

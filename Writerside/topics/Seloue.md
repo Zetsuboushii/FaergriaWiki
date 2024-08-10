@@ -10,7 +10,7 @@
 <tr><td>
 <p>
 Seloue ist die allwissende Hohefürstin der Weisheit. Sie betreibt die
-<a href="Blooming-Fjord.md" anchor="gro-e-bibliothek-von-hal"></a>, in der sie vor hat alles Wissen Faergria zu
+<a href="Frelia.md" anchor="gro-e-bibliothek-von-hal"></a>, in der sie vor hat alles Wissen Faergria zu
 archivieren. Auf ihre Bibliothek gibt sie gut acht und lernt zu diesem Zweck Lavande an.
 <br></br><br></br>
 Seloue ist eine sehr zugängliche und liebevolle Person, die einen mütterlichen Charakter hat. Dies lebt sie allemvoran

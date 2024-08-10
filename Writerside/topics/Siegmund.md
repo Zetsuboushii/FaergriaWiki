@@ -16,7 +16,7 @@
 <tr><td>
 <p>
 Siegmund ist ein selbsternannter "gütiger" Dieb, der lange Jahre in der
-<a href="Northern-Grenbrock.md" anchor="diebesgilde"></a> in Grenbrock aktiv und Vorzeigemitglied war.
+<a href="Grenbrock.md" anchor="diebesgilde"></a> in Grenbrock aktiv und Vorzeigemitglied war.
 <br></br><br></br>
 Siegmunds Charakter ist mysteriös und komplex. Er ist schwer einzuschätzen und macht meist nur das, was ihm selbst einen
 Vorteil verschafft. Seine Sturheit kommt im Umgang mit seiner eigentlichen Herrin zum Vorschein, die er meist mit

@@ -9,13 +9,13 @@
 <table>
 <tr><td>
 <p>
-Linus hat vor einigen Jahren ein altes Hofgut außerhalb von <a href="Alljord-Bay.md" anchor="brodia"></a> erworben und
+Linus hat vor einigen Jahren ein altes Hofgut außerhalb von <a href="Brodia.md"></a> erworben und
 wieder auf Vordermann gebracht. Sein gesamtes Herzblut steckt in der Taverne, die er heute dort betreibt.
 <br></br><br></br>
 Wo Linus eigentlich nach Aegir gehen sollte und dort Wirtschaft studieren sollte, entschied er sich in seiner Heimat zu
 bleiben und seinen Traum als Tavernenbesitzer verfolgen. Linus liebt das Interagieren mit seinen Gästen und neue
 Personen kennenzulernen. Über die Jahre hat er sich eine treue Stammkundschaft aufgebaut, die teils sogar aus
-<a href="Smouldering-Alps-of-Nifl.md" anchor="nifl"></a> und <a href="Storm-Shield-Taiga.md" anchor="daein"></a> kommen.
+<a href="Nifl.md"></a> und <a href="Daein.md"></a> kommen.
 Viele Gäste lieben Linus' aufgeschlossene Art und die gemütliche Atmosphäre der Taverne. Dieser gute Ruf hat sogar
 dafür gesorgt, dass <a href="Solenne.md">die Kurfürstin von Hal</a> einmal in der Taverne genächtigt hat, als sie
 auf der Durchreise nach Aegir war.

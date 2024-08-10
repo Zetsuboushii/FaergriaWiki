@@ -10,7 +10,7 @@
 <tr><td>
 <p>
 Deh ist eine ehemalige Schülerin von <a href="Suskinox.md"></a>, als dieser noch an der
-<a href="Eternal-Ice-Glacier.md" anchor="drakonische-magieakademie">Magieakademie in Darnax</a> gelehrt hat. Mit ihren
+<a href="Darnax.md" anchor="drakonische-magieakademie">Magieakademie in Darnax</a> gelehrt hat. Mit ihren
 Zaubern der Klerikerklasse will sie Leuten in Not helfen.
 </p>
 

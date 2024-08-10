@@ -11,13 +11,13 @@
 <table>
 <tr><td>
 <p>
-Carmesine ist eine gutherzige, reine Nonne im <a href="Obsidian-Borderlands.md" anchor="kloster-schicksalsweg"></a> in
+Carmesine ist eine gutherzige, reine Nonne im <a href="Kloster-Schicksalsweg.md"></a> in
 <a href="Hal.md"></a> und lernt aktuell bei <a href="Perrotus.md">Vater Perrotus</a>. Zusammen mit
 <a href="Felix.md"></a> hilft sie bei Arbeiten im Kloster und ist zuständig für Besorgungen aus
-<a href="Obsidian-Borderlands.md" anchor="elpis"></a>.
+<a href="Elpis.md"></a>.
 <br></br><br></br>
 An ihre Herkunft kann sie sich nicht erinnern. Vater Perrotus erzählte ihr einst, dass er sie damals mit sieben Jahren
-zusammengebrochen am Wegesrand auf der großen Straße zwischen <a href="Blooming-Fjord.md" anchor="frelia"></a> und dem
+zusammengebrochen am Wegesrand auf der großen Straße zwischen <a href="Frelia.md"></a> und dem
 Kloster aufgefunden und schließlich unter seine Fittiche genommen hat. Der Anblick des Mädchens, sagte Perrotus, sei so
 erschreckend gewesen, dass er sich nicht ausmalen möge, was Carmesine widerfahren sein könnte. Auf ihrem Körper, kann
 sich Perrotus erinnern, waren seltsame okkulte Male geritzt, die ihm gänzlich unbekannt waren. Über die nächsten Tage

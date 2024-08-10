@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Jäger in <a href="Duskwood.md" anchor="teryvnat"></a>. Beschützt das Dorf und vor allem seine Schwester.
+Jäger in <a href="Teryvnat.md"></a>. Beschützt das Dorf und vor allem seine Schwester.
 </p>
 
 </td><td width="300">

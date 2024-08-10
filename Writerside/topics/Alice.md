@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Nekromantin aus <a href="Three-Winds-Valley.md" anchor="schachendorf"></a>. Betreibt einen kleinen Laden, in dem sie
+Nekromantin aus <a href="Schachendorf.md"></a>. Betreibt einen kleinen Laden, in dem sie
 dubiose Tränke verkauft, und aus dem oft stechende Gestänke hervorkriechen.
 <br></br><br></br>
 Eine Zeit lang war Alice Stammkundin in der Buchhandlung von <a href="Falk.md"></a>. Allerdings war sie dort eher an

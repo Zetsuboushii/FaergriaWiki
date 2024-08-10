@@ -11,10 +11,10 @@
 <table>
 <tr><td>
 <p>
-Der alte Igmusur war einst Hofkleriker am <a href="Kings-Cliffs.md" anchor="schloss-aegir"></a> im Dienste des
+Der alte Igmusur war einst Hofkleriker am <a href="Aegir.md" anchor="schloss-aegir"></a> im Dienste des
 <a href="Gralnach.md">Königs</a>. <a href="Marisa.md">Prinzessin Marisa</a> war während dieser Zeit seine Schülerin.
 Aus unbekannten Gründen wurde er vom Hof verbannt und lebt seitdem wieder in seiner Heimat
-<a href="Duensberg-Plateau.md" anchor="d-nsberg"></a>.
+<a href="Duensberg.md"></a>.
 <br></br><br></br>
 Vor vielen vielen Jahren lernte Igmusur <a href="U-Ranos.md">U-Ranos</a> kennen. Seitdem pilgern die beiden Kumpanen
 gelegentlich durch Faergria. Ihre Pilgerreisen hat Igmusur säuberlichst dokumentiert und liest gerne ihren alten

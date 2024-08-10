@@ -12,7 +12,7 @@
 Farone ist die kindliche Göttin der Natur und der Magie. Sie verlieh <a href="Faergria.md">Faergria</a> den frischen, 
 grünen Anstrich der Pflanzen, schenkte Tieren im Wasser, auf dem Land und in den Lüften das Leben, und erschuf die
 berüchtigte Manaflamme; der Quell der Magie in Faergria, strengstens bewacht in
-<a href="Thicket-of-Truth.md" anchor="yerenas"></a> im <a href="Thicket-of-Truth.md" anchor="tempel-der-manaflamme"></a>
+<a href="Yerenas.md"></a> im <a href="Yerenas.md" anchor="tempel-der-manaflamme"></a>
 wird sie alle 100 Jahre vor dem Erlischen bewahrt. Farone erschuf die <a href="Folks.md" anchor="elfen"></a>, die seit
 Anbeginn in den Wäldern von <a href="Farodris.md">Farodris</a> leben und diesen verehren.
 <br></br><br></br>

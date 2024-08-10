@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Der gutherzige Vater im <a href="Obsidian-Borderlands.md" anchor="kloster-schicksalsweg"></a>. Perrotus sorgt sich seit
+Der gutherzige Vater im <a href="Kloster-Schicksalsweg.md"></a>. Perrotus sorgt sich seit
 jeher um seine Schützlinge und huldigt fromm <a href="Fortuna.md">seiner Göttin</a>. Er ist für fast jeden Spaß zu
 haben, doch Taten aus reiner Boshaftigkeit verurteilt er zu tiefst. Über die vielen Jahre, die er als Klostervater
 aktiv ist, hat er bereits viele Lehrlinge ausgebildet auf dem Pfad Fortunas zu wandeln, doch jedes Mal fällt ihm der

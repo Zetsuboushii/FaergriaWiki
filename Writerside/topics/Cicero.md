@@ -13,11 +13,12 @@
 <table>
 <tr><td>
 <p>
-Ein wahnsinniger Mörder, der sein erstes Opfer, seiner Mutter, in einem Sarg auf einem Karren durch Faergria gezogen
+Ein wahnsinniger Mörder aus <a href="Teryvnat.md"></a>, 
+der sein erstes Opfer, seiner Mutter, in einem Sarg auf einem Karren durch Faergria gezogen
 hat. Als seine wirre Aktion aufgeflogen ist, hat Cicero drei Stadtwachen in
-<a href="Smouldering-Alps-of-Nifl.md" anchor="nifl"></a> umgebracht und ist dafür vor das Tribunal gestellt worden.
+<a href="Nifl.md"></a> umgebracht und ist dafür vor das Tribunal gestellt worden.
 Auf unerklärliche Weise entkam Cicero eines Nachts aus dem Kerker und wurde auf dem Weg nach
-<a href="Three-Winds-Valley.md" anchor="schachendorf"></a> in einigen Ortschaften manisch lachend umwandern gesehen.
+<a href="Schachendorf.md"></a> in einigen Ortschaften manisch lachend umwandern gesehen.
 </p>
 
 </td><td width="300">

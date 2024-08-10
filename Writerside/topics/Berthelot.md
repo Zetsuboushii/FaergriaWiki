@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Berthelot wurde schon im frühen Jugendalter aus <a href="Obsidian-Borderlands.md" anchor="elpis"></a> verbannt, weil er
+Berthelot wurde schon im frühen Jugendalter aus <a href="Elpis.md"></a> verbannt, weil er
 dabei erwischt wurde, wie er einen fahrenden Händler in der Nähe des Dorfes überfallen und ermordet hat. Seitdem
 wanderte Berthelot durch <a href="Hal.md">Hal</a> und überfiel weiterhin Reisende und Händler, um über die Runden zu
 kommen. Über die Zeit nahm Berthelot immer mehr gleichgesinnte jeden Alters unter seine Fittiche, da er sich für sie

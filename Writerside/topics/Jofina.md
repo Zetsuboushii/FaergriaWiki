@@ -11,9 +11,9 @@
 <table>
 <tr><td>
 <p>
-Die amtierende Bürgermeisterin von <a href="Duensberg-Plateau.md" anchor="d-nsberg">Dünsberg</a>.
+Die amtierende Bürgermeisterin von <a href="Duensberg.md">Dünsberg</a>.
 <br></br><br></br>
-Jofina wurde in gutem Hause in <a href="Kings-Cliffs.md" anchor="aegir">Aegir</a> als Tochter von Diplomaten geboren.
+Jofina wurde in gutem Hause in <a href="Aegir.md">Aegir</a> als Tochter von Diplomaten geboren.
 Schon früh lernte sie den höfischen Umgang mit wichtigen Persönlichkeiten. Als ihre Eltern auf einem Faergria-weiten
 Kongress in Aegir Opfer eines Giftanschlags wurden, war Jofina gerade acht Jahre alt. An diesem Abend war Jofina krank
 alleine zu Hause und wartete sehnsüchtig auf die Rückkehr ihrer Eltern. Als aber die Stunden verflogen, es immer später
@@ -25,7 +25,7 @@ Jofina allerdings nie so wirklich wohl.
 <br></br><br></br>
 Zu ihrem zwanzigsten Geburtstag, beschloss Jofina aus der großen Stadt wegzuziehen und ein neues, schlichteres Leben
 zu führen, in dem man nicht aufgrund seines Status umgebracht werden würde. Sie legte also ihren Adelstitel ab und zog
-ins entfernte <a href="Duensberg-Plateau.md" anchor="d-nsberg">Dünsberg</a>. Leider musste sie feststellen, dass sie
+ins entfernte <a href="Duensberg.md">Dünsberg</a>. Leider musste sie feststellen, dass sie
 nun nicht aufgrund ihrer Herkunft aus wohlhabenden Hause, sondern ihres Aussehens, speziell ihrer spitzen Ohren, oft
 merkwürdig angesehen wurde und nicht wirklich in der Gemeinschaft aufgenommen wurde. Besser wurde nicht, da schon bald
 im Dorf die Kunde die Runde gemacht hatte, dass Jofina in der Tat eine Tochter aus adligem Hause ist. Lediglich ein

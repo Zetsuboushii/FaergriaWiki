@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Als Hohefürstin der Gier hat Iddra in <a href="Banished-Peninsula.md" anchor="niddarvellir"></a> ihren Platz gefunden.
+Als Hohefürstin der Gier hat Iddra in <a href="Niddarvellir.md"></a> ihren Platz gefunden.
 Dort hat sie sich in Windeseile als Gouvernante einen Namen gemacht. Die Einwohner Niddarvellirs, mögen sie auch noch
 so skrupellos sein, respektieren Iddra zu tiefst.
 <br></br><br></br>

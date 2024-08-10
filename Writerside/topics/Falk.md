@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Falk ist der zurückhaltende Buchhändler aus <a href="Three-Winds-Valley.md" anchor="schachendorf"></a>. Sein Traum war
+Falk ist der zurückhaltende Buchhändler aus <a href="Schachendorf.md"></a>. Sein Traum war
 es schon seit er klein war, eine eigene Buchhandlung zu führen. Falk liebt das Lesen und Teilen von Geschichten, sowie
 Wissen. Mit neuen Kunden fängt er trotz seiner Schüchternheit gerne Gespräche über die Bücher an, für die sich die
 Kunden interessieren. Jeden Goldagabend hält Falk einen Lesekreis in seiner Buchhandlung mit wenigen Mitgliedern.

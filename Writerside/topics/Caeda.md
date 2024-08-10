@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Eine einfache Krämerin in <a href="Duskwood.md" anchor="teryvnat"></a>. Ihr breites und wechselndes Angebot lockt
+Eine einfache Krämerin in <a href="Teryvnat.md"></a>. Ihr breites und wechselndes Angebot lockt
 Reisende an ihren Stand.
 <br></br><br></br>
 Ihr Bruder <a href="Elkazel.md"></a> bedeutet ihr sehr viel, da die Eltern der beiden vor vielen Jahren bei der Jagd

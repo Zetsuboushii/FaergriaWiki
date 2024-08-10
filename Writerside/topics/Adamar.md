@@ -4,7 +4,7 @@
 <tr><td>
 <p>
 Adamar ist einer der Recken der Göttin <a href="Farone.md"></a>. Er verweilt derzeit im Tempel der Manaflamme in
-<a href="Thicket-of-Truth.md" anchor="yerenas"></a>, wo er seiner Bestimmung als Hüter der Manaflamme nachgeht.
+<a href="Yerenas.md"></a>, wo er seiner Bestimmung als Hüter der Manaflamme nachgeht.
 <br></br><br></br>
 Adamar ist sehr zurückhaltend, dennoch wissberierig und zuverlässig. Er gibt sich größte Mühe seine kleine Schwester
 <a href="Phaerille.md">Phaerille</a> zu beschützen, wobei sie oft umgekehrt diese Rolle einnehmen muss, da Adamar öfters

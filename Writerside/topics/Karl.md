@@ -9,7 +9,7 @@
 <table>
 <tr><td>
 <p>
-Der eifrige Butler im <a href="Duensberg-Plateau.md" anchor="jagdschloss-d-nsberg"></a>. Einst unterstützte er den
+Der eifrige Butler im <a href="Jagdschloss-Duensberg.md"></a>. Einst unterstützte er den
 vorherigen Schlossherren <a href="Dorian.md"></a>, seit einem gewissen Vorfall aber dient er
 <a href="Nayru.md">Nayru</a>, <a href="Siegmund.md">Siegmund</a> und <a href="U-Ranos.md">U-Ranos</a>. Dabei hat er
 alle Hände voll zu tun. Er befolgt Anweisungen strikt, was bei Misskommunikation zu brenzligen Situationen kommen kann.

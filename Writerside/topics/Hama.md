@@ -16,7 +16,7 @@ Diese lebensfrohe Hohefürstin sorgt sich gerne um andere, wobei sie dabei auch 
 Gerade mit ihren Freunden kann sie stundenlang plaudern, was vielen mit der Zeit auf die Nerven geht. Wenn es mal nicht
 nach ihrem Kopf geht, wird sie schnell traurig und fängt an zu weinen, was man nur durch Umarmungen wieder gut machen
 kann. <a href="Seloue.md">Seloue</a> weiß sehr viel über Hama, da sie sehr oft bei ihr in der
-<a href="Blooming-Fjord.md" anchor="gro-e-bibliothek-von-hal">Bibliothek</a> reinschneit.
+<a href="Frelia.md" anchor="gro-e-bibliothek-von-hal">Bibliothek</a> reinschneit.
 </p>
 
 </td><td width="300">

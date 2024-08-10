@@ -15,7 +15,7 @@ Niemand kennt so ganz die Hintergründe von Invidianoir, noch was ihre genauen A
 den Hohefürsten, dass Invidianoir gefürchtet für ihre nachtragende, giftige Persönlichkeit, als auch ihre enorme Stärke
 ist. Wenn ihr ausnahmsweise etwas nicht zu 100%iger Perfektion gelingt oder sie von ihren dunklen Gefühlen übermannt
 wird, wird Invidianoir zum garstigsten Wesen, das die Welt kennt. Als sie sich einst in ihrer menschlichen Gestalt in
-einen Mann aus <a href="Blooming-Fjord.md" anchor="frelia"></a> verliebte und dieser sie einmal für sechs Minuten vor
+einen Mann aus <a href="Frelia.md"></a> verliebte und dieser sie einmal für sechs Minuten vor
 einem Gasthaus warten ließ, ermordete Invidianoir aus Eifersucht alle Frauen in diesem Gasthaus und schließlich
 auch ihren Liebhaber, nachdem sie ihn sieben Tage hat elendig unter körperlicher und mentaler Folter hat leiden lassen.
 </p>

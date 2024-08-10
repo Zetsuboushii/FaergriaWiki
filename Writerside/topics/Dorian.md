@@ -10,7 +10,7 @@
 <tr><td>
 <p>
 Dorian ist der verstorbene und ehemalige Schlossherr des
-<a href="Duensberg-Plateau.md" anchor="jagdschloss-d-nsberg"></a>.
+<a href="Jagdschloss-Duensberg.md"></a>.
 </p>
 
 </td><td width="300">

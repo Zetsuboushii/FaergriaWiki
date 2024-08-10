@@ -14,12 +14,12 @@
 <tr><td>
 <p>
 Zetta ist eine ehemalige Diebin der <a href="Northern-Grenbrock.md" anchor="diebesgilde">Diebesgilde in Grenbrock</a>,
-derzeitig aber im <a href="Obsidian-Borderlands.md" anchor="kloster-schicksalsweg"/> als Unterstützung für
+derzeitig aber im <a href="Kloster-Schicksalsweg.md"/> als Unterstützung für
 <a href="Perrotus.md">Perrotus</a>.
 <br></br><br></br>
-Zetta wurde in ihrer Kindheit und Jugend in der Schule in <a href="Northern-Grenbrock.md" anchor="grenbrock"/> täglich
+Zetta wurde in ihrer Kindheit und Jugend in der Schule in <a href="Grenbrock.md"/> täglich
 Opfer harschem verbalen und physischen Missbrauchs; einzig wegen ihrer Herkunft. Als Halbelfin mit einem elfischen
-Vater aus <a href="Duskwood.md" anchor="teryvnat"/> und einer menschlichen Mutter aus Grenbrock geboren, übernahm sie
+Vater aus <a href="Teryvnat.md"/> und einer menschlichen Mutter aus Grenbrock geboren, übernahm sie
 die spitzen Ohren ihres Vaters. Lange Zeit ließ Zetta die Schikane über sich ergehen, bis eines Tages ein paar Kinder
 aus ihrer Klasse ihr nach Schulschluss auflauerten und sie gegen ihren Willen in einen nicht verwendeten Abstellraum im
 Keller des Schulgebäudes mitnahmen. Dort auf einem Stuhl festgebunden, hatten Zettas Mitschüler vor, ihr mit einer

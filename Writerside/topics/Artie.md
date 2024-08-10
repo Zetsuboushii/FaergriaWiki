@@ -9,8 +9,8 @@
 <table>
 <tr><td>
 <p>
-Ehemaliger Ortsvorsteher von <a href="Three-Winds-Valley.md" anchor="schachendorf"></a>. Artie war ein ängstlicher 
-Versager, der es durch Korruption mit Hilfe der <a href="Northern-Grenbrock.md" anchor="diebesgilde"></a>. Durch seine
+Ehemaliger Ortsvorsteher von <a href="Schachendorf.md"></a>. Artie war ein ängstlicher 
+Versager, der es durch Korruption mit Hilfe der <a href="Grenbrock.md" anchor="diebesgilde"></a>. Durch seine
 schmierigen Mittel hat er den vorherigen Ortsvorsteher, den Onkel von <a href="Marjorie.md"></a> in enorme Bredouillen
 gebracht, weshalb dieser sich später selbst umgebracht hat.
 <br></br><br></br>

@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Eris ist eine der Dienstmädchen im <a href="Duensberg-Plateau.md" anchor="jagdschloss-d-nsberg"></a>. Ihre Familie hat
+Eris ist eine der Dienstmädchen im <a href="Jagdschloss-Duensberg.md"></a>. Ihre Familie hat
 bereits viele Generationen dem Hause <a href="Dorian.md">Sturmthal</a> gedient. Seit sie achtzehn ist, übt sie selbst
 anstelle ihrer verstorbener Mutter die Haushaltstätigkeiten aus.
 </p>

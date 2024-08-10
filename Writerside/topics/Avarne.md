@@ -15,20 +15,20 @@ Avarne ist ein junger Abenteurer, der seit dem Einverständnis seines Vaters <a 
 <a href="Faergria.md">Faergria</a> streift und auf seinen Reisen Erfahrungen und allerlei Kuriositäten sammelt.
 <br></br><br></br>
 Bevor Avarne als Abenteurer aufbrechen konnte, erwartete sein Vater von ihm, dass Avarne eines Tages nach dem
-Rücktritt seines Vaters seinen Posten als Bürgermeister von <a href="Duensberg-Plateau.md" anchor="d-nsberg"/> innehält.
+Rücktritt seines Vaters seinen Posten als Bürgermeister von <a href="Duensberg.md"/> innehält.
 Als kleiner Junge, noch nicht viele Ziele vor sich habend, stimmte Avarne dem zu, da sein Vater die einzige Familie war,
 die er noch hatte, und diesen nicht enttäuschen wollte.
 <br></br><br></br>
 Avarne entwickelte sich über die Jahre bis hin zum
 Erwachsenwerden zu einem selbstsicheren jungen Mann, wobei sich seine Einstellung gegenüber seiner Zukunft drastisch
 änderte. Als eines Tages Avarne von einem großen Einkauf für das Dorf aus
-<a href="Northern-Grenbrock.md" anchor="grenbrock"/> mit einem Karren zurückkehrte, überfielen ihn eine Horde Goblins.
+<a href="Grenbrock.md"/> mit einem Karren zurückkehrte, überfielen ihn eine Horde Goblins.
 In tiefster Not wusste sich Avarne nicht mehr selbst zu helfen, bis schließlich ein mutiger Abenteurer den Monstern
 den Garaus machte. Avarne, fasziniert von der Heldenhaftigkeit dieses Mannes, bedankte sich aus tiefster Seele, als
 der unbekannte Mann auch schon wieder verschwand. Seit diesem Tag hegte Avarne den tiefen Wunsch einmal selbst ein
 solch heldenhafter Abenteurer zu werden. Jedoch stieß dies bei seinem Vater auf taube Ohren. Oft stritten sie sich
 um das Erbe des Bürgermeisteramts. Verstärkt wurde dies, als eine <a href="Jofina.md">junge Halbelfin</a> aus
-<a href="Kings-Cliffs.md" anchor="aegir"/> nach Dünsberg zog. Sofort als Avarne diese junge Frau sah, hatte er sich
+<a href="Aegir.md"/> nach Dünsberg zog. Sofort als Avarne diese junge Frau sah, hatte er sich
 Hals über Kopf in sie verliebt. Da er zu diesem Zeitpunkt jedoch noch zu jung war, traute er sich nicht sie auch nur
 anzusprechen. 
 <br></br><br></br>

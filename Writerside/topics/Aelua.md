@@ -11,7 +11,7 @@
 <table>
 <tr><td>
 <p>
-Dorfälteste von <a href="Duskwood.md" anchor="teryvnat"></a> und Besitzerin der örtlichen Taverne.
+Dorfälteste von <a href="Teryvnat.md"></a> und Besitzerin der örtlichen Taverne.
 </p>
 
 </td><td width="300">
