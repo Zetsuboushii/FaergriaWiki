@@ -46,7 +46,7 @@ Recken, da sie die Aufgabe der Organisation und Koordination von Gebetserfüllun
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
 <li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> Bruder</li>
 <li><b><a href="O-Gall.md">O-Gall</a>:</b> Bruder</li>
-<!-- <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Bruder</li> -->
+<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Bruder</li>
 <li><b><a href="Fortuna.md">Fortuna</a>:</b> "Tante"</li>
 </list>
 </procedure>

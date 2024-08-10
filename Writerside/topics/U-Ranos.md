@@ -9,8 +9,8 @@
 <table>
 <tr><td>
 <p>
-Ein stets fröhlicher <!--Himmelsbewohner--> Kleriker, der immer für Späße zu haben ist, selbst wenn sie auf seine Kosten
-sind. Für ihn sind seine Freunde <!--im Himmel--> wie eine Familie, die ihm sehr am Herzen liegt. Ränge und Macht sind
+Ein stets fröhlicher Himmelsbewohner, der immer für Späße zu haben ist, selbst wenn sie auf seine Kosten
+sind. Für ihn sind seine Freunde wie eine Familie, die ihm sehr am Herzen liegt. Ränge und Macht sind
 für U-Ranos bedeutungslos; er sieht sie lediglich als Werkzeuge, um seine Familie und Freunde zu schützen. Dies spiegelt
 sich auch in seiner Wahrnehmung anderer wider: Für ihn zählt nur, was eine Person tut und wie sie mit anderen
 interagiert, nicht ihr Rang oder Alter. Wenn es nach ihm ginge, wären alle Barrieren, die durch Rangunterschiede
@@ -22,27 +22,25 @@ getreten wird. In jedem Leben sieht er das Potenzial, gerecht zu handeln, und w�
 frei entwickeln und ihr Potenzial ausschöpfen können. Stets versucht er, an das Gute im Menschen (oder Lebewesen)
 zu appellieren. Manche bezeichnen seine Zielstrebigkeit und das Festhalten an seinen Idealen als dickköpfig und sehen
 es als Wunschdenken an.
-<!--
 <br></br><br></br>
 U-Ranos ist einer der momentanen fünf Recken Justicias und vertritt die unbeugsame Gerechtigkeit.
 Er wuchs in den himmlischen Gefilden Justicias auf und verbrachte dort einen großteil seiner Zeit.
 Dort half er vor allem anderen Himmelsbewohnern oder ging ihnen etwas auf die Nerven (silly him).
 Vor ungefähr 69 Jahren verließ er denn Himmel und wandert seither auf der Erde umher.
-Um zu sehen wie die Welt und ihre Bewohner wirklich sind, nahm er das Alter-ego eines alten Mannes in einer Vollkörperrüstung ein, um sein himmlisches Aussehen und seine Präsenz zu verbergen.
-Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er auf seinen Weg trifft, um die Welt zu einem etwas besseren Ort zu machen und um die Worte Justicias zu verbreiten, auch wenn dieser Teil seiner Aufgabe manchmal etwas zu kurz kommt.
--->
+Um zu sehen wie die Welt und ihre Bewohner wirklich sind, nahm er das Alter-ego eines alten Mannes in einer
+Vollkörperrüstung ein, um sein himmlisches Aussehen und seine Präsenz zu verbergen. Seit jeher wandert er als Kleriker
+durch die Welt und hilft jeder Person, die er auf seinen Weg trifft, um die Welt zu einem etwas besseren Ort zu machen
+und um die Worte Justicias zu verbreiten, auch wenn dieser Teil seiner Aufgabe manchmal etwas zu kurz kommt.
 </p>
 
 </td><td width="300">
-<!-- Ignore -->
-<img src="u-ranos.png" alt="" />
-
+<img src="true-ranos.png" alt="" />
 </td></tr>
 </table>
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="engel"></a></li>
 <li><b>Klasse:</b> Kleriker</li>
 <li><b>Gesinnung:</b> LG/NG</li>
 <li><b>Verbleib:</b> am Leben</li>
@@ -64,12 +62,12 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 <li><b><a href="Nayru.md">Nayru</a>:</b> Reisegefährtin (inoffiziell Teil seiner Familie)</li>
 <li><b><a href="Siegmund.md">Siegmund</a>:</b> Reisegefährte (inoffiziell Teil seiner Familie)</li>
 <!--<li><b><a href="">Inoro</a>:</b> Großer Bruder</li>-->
-<!--<li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> missverstandener Bruder</li>-->
-<!--<li><b><a href="">En-Troad</a>:</b> Bruder</li>-->
-<!--<li><b><a href="">Il-Vernia</a>:</b> Schwester</li>-->
-<!--<li><b><a href="">O-Gall</a>:</b> Bruder</li>-->
+<li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> missverstandener Bruder</li>
+<li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
+<li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester</li>
+<li><b><a href="O-Gall.md">O-Gall</a>:</b> Bruder</li>
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Guter Freund und comfy-spot (soon to be Schwiegervater? :eyes:)</li>
-<li><b><a href="Justicia.md">Jusicia</a>:</b> Göttin <!--/ Schöpferin (wird nicht Mutter genannt!)--></li>
+<li><b><a href="Justicia.md">Jusicia</a>:</b> Göttin / Schöpferin (wird nicht Mutter genannt!)</li>
 <li><b><a href="Fortuna.md">Fortuna</a>:</b> Lieblings Tante</li>
 <li><b><a href="Farone.md">Farone</a>:</b> Teil der Familie (wenn auch manchmal etwas schwierig)</li>
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> Gute Freundin</li>
@@ -79,17 +77,17 @@ Seit jeher wandert er als Kleriker durch die Welt und hilft jeder Person, die er
 <!--<li><b><a href="">Adamar</a>:</b> :handshake: ??</li>-->
 <!--<li><b><a href="Finnea.md">Finnea</a>:</b> ?</li>-->
 <li><b><a href="Seloue.md">Seloue</a>:</b> Ziehmutter</li>
-<!--<li><b><a href="">Amlin</a>:</b> ?</li>-->
-<!--<li><b><a href="">Avila</a>:</b> Shipping buddies</li>-->
-<!--<li><b><a href="Fubuki.md">Fubuki</a>:</b> (soon to be adopted)</li>-->
-<!--<li><b><a href="Hama.md">Hama</a>:</b> inoffiziell etwas chaotische große Schwester</li>-->
+<li><b><a href="Amlin.md">Amlin</a>:</b> ?</li>
+<li><b><a href="Avila.md">Avila</a>:</b> Shipping buddies</li>
+<li><b><a href="Fubuki.md">Fubuki</a>:</b> (soon to be adopted)</li>
+<li><b><a href="Hama.md">Hama</a>:</b> inoffiziell etwas chaotische große Schwester</li>
 <li><b><a href="Iddra.md">Iddra</a>:</b> Freundin (Leidensgenossin)</li>
 <li><b><a href="Kaen.md">Kaen</a>:</b> Freundin</li>
-<!--<li><b><a href="Kaze.md">Kaze</a>:</b> ?</li>-->
+<li><b><a href="Kaze.md">Kaze</a>:</b> ?</li>
 <li><b><a href="Mudo.md">Mudo</a>:</b> Freund</li>
-<!--<li><b><a href="Ouin.md">Ouin</a>:</b> Sehr guter Freund</li>-->
-<!--<li><b><a href="Rai.md">Rai</a>:</b> Bester Freund (the goat)</li>-->
-<!--<li><b><a href="Zora.md">Zora</a>:</b> Gute Freundin</li>-->
+<li><b><a href="Ouin.md">Ouin</a>:</b> Sehr guter Freund</li>
+<li><b><a href="Rai.md">Rai</a>:</b> Bester Freund (the goat)</li>
+<li><b><a href="Zora.md">Zora</a>:</b> Gute Freundin</li>
 <li><b><a href="Burdig.md">Burdig</a>:</b> Barman des Vertrauens</li>
 <li><b><a href="Solenne.md">Solenne</a>:</b> Freundin</li>
 <li><b><a href="Igmusur.md">Igmusur</a>:</b> Guter Freund (Teil der legendären Rentnerbrigarde)</li>

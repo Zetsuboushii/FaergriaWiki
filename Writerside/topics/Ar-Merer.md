@@ -56,7 +56,7 @@ Ar-Merer etwas über die Stränge.
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
 <li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester</li>
 <li><b><a href="O-Gall.md">O-Gall</a>:</b> Bruder</li>
-<!-- <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Bruder, Rivale</li> -->
+<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> Bruder, Rivale</li>
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Todfeind</li>
 <li><b><a href="Fortuna.md">Fortuna</a>:</b> "Tante"</li>
 </list>
