@@ -2,7 +2,9 @@
 
 <primary-label ref="player"/>
 
-<secondary-label ref="faergria"/>
+<secondary-label ref="animus"/>
+
+<secondary-label ref="justice"/>
 
 <secondary-label ref="justicia_recke"/>
 

@@ -12,7 +12,7 @@
 <tr><td>
 <p>
 Einer der treuen Recken <a href="Justicia.md">Justicias</a>. Als Inquisitor ist er die direkte Exekutive der Lehren
-Justicias. Vor dem Himmlischen Gericht bringt er kürzlich Verstorbe auf die Anklagebank, wo sie sich vor ihren
+Justicias. Vor dem Himmlischen Gericht bringt er kürzlich Verstorbene auf die Anklagebank, wo sie sich vor ihren
 Missetaten und Sünden rechtfertigen müssen. Anschließend entscheidet Ar-Merer über die Bestimmung der Seele des
 Verstorbenen.
 <br></br><br></br>
@@ -45,7 +45,7 @@ Ar-Merer etwas über die Stränge.
 <li><b>Alter:</b> Unbekannt</li>
 <li><b>Größe:</b> 2,01m</li>
 <li><b>Gewicht:</b> 77kg</li>
-<li><b>Augenfarbe:</b> Blau-Gelb</li>
+<li><b>Augenfarbe:</b> Blau</li>
 <li><b>Haarfarbe:</b> Dunkelblau</li>
 </list>
 </procedure>

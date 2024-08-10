@@ -3,15 +3,9 @@
 Der Tellius versorgt Thaugrien mit Wasser und füllt den Tarporsee im Landesinneren mit reinem Quellwasser. Das
 Bestreiten der Klamm kann sich als Kraftakt herausstellen, gerade wenn es regnet.
 
-## Tellius
-
-Die "Stadt des Wassers". Die ansässigen Bewohner sind vernarrt von ihrem klaren Wasser und hegen eine tiefe Verbindung
-zum Meer. Irgendwo in den Bergen bei der Quelle soll es einen alten Gang geben.
-
-### Meerestempel { collapsible="true" default-state="expanded" }
-
-<procedure title="Charaktere von diesem Ort">
+<procedure title="Städte und besondere Orte">
 <list columns="3">
-<li>Zora, Hohefürstin des Wassers</li>
+<li><a href="Tellius.md"></a></li>
+<li><a href="Meerestempel.md"></a></li>
 </list>
 </procedure>

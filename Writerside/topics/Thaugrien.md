@@ -7,3 +7,9 @@ die lokalen Kostbarkeiten, egal ob Essen oder Spirituosen, genießen. In der Hau
 <a href="Northern-Grenbrock.md">Grenbrock</a> befindet sie die größte Pilgerstätte für Gläubiger der Kirche des
 Himmlischen Glaubens.
 </p>
+
+<procedure title="Hauptstadt">
+<list columns="2">
+<li><b><a href="Grenbrock.md"></a></b></li>
+</list>
+</procedure>

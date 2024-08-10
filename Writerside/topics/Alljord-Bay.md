@@ -1,12 +1,9 @@
 # Alljordbucht
 
-## Brodia
-
-<procedure title="Charaktere von diesem Ort">
+<procedure title="Städte und besondere Orte">
 <list columns="3">
-<li><a href="Viktor.md"></a></li>
-<li><a href="Modaharius.md"></a></li>
-<li><a href="Hindrik.md"></a></li>
-<li><a href="Linus.md"></a></li>
+<li><a href="Brodia.md"></a></li>
+<li><a href="Linus-Taverne.md"></a></li>
+<li><a href="Saegewerk-am-See.md"></a></li>
 </list>
 </procedure>

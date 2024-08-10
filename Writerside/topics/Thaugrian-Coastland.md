@@ -1,9 +1,7 @@
 # Thaugrisches Küstenland
 
-## Korshaven
-
-<procedure title="Charaktere von diesem Ort">
+<procedure title="Städte und besondere Orte">
 <list columns="3">
-<!-- <li><a href="Marina.md"></a></li> -->
+<li><a href="Korshaven.md"></a></li>
 </list>
 </procedure>

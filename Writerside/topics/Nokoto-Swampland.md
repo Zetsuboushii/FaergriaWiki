@@ -1,9 +1,7 @@
 # Nokoto-Sumpfland
 
-## Sümpfe des Vergessens { collapsible="true" default-state="expanded" }
-
-<procedure title="Charaktere von diesem Ort">
+<procedure title="Städte und besondere Orte">
 <list columns="3">
-<li>Uralter Baumwächter</li>
+<li><a href="Suempfe-des-Vergessens.md"></a></li>
 </list>
 </procedure>

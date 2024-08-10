@@ -3,20 +3,10 @@
 Im Norden des Gebirges des Windes kreuzen sich Winde aus West, Nord und Ost. Daher kann es recht starke
 Temperaturschwankungen geben. In den dichten Wäldern ist es zudem oft neblig.
 
-## Schachendorf { collapsible="true" default-state="expanded" }
-
-Ein beliebter Wegpunkt vieler Reisender und Händler, die Nordholm als Ziel haben. Die lokale Küche lebt von den
-geschmackvollen Kräutern, die sich hier anbauen lassen. Die erste Zeitung Faergrias soll hier gedruckt worden sein.
-
-<procedure title="Charaktere von diesem Ort">
+<procedure title="Städte und besondere Orte">
 <list columns="3">
-<li><a href="Falk.md"></a></li>
-<li><a href="Gretchen.md"></a></li>
-<li><a href="Vernia.md"></a></li>
-<li><a href="Alice.md"></a></li>
+<li><a href="Schachendorf.md"></a></li>
+<li><a href="Kirchenruine.md"></a></li>
+<li><a href="Tempel-am-Bergpass.md"></a></li>
 </list>
 </procedure>
-
-## Kirchenruine { collapsible="true" default-state="expanded" }
-
-## Fortunas Tempel am Bergpass { collapsible="true" default-state="expanded" }

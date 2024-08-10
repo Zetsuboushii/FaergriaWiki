@@ -1,4 +1,4 @@
-# Wulvarax Suskinox, Professor für Transmutationsmagie
+# Suskinox, Professor für Transmutationsmagie
 
 <primary-label ref="player"/>
 

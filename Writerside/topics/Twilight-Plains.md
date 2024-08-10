@@ -1,8 +1,7 @@
 # Zwielicht-Steppe
 
-Start typing here...
-
-## Larudia
-
-Start typing here...
-
+<procedure title="Städte und besondere Orte">
+<list columns="3">
+<li><a href="Larudia.md"></a></li>
+</list>
+</procedure>
