@@ -20,7 +20,7 @@
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
-<li><b>Klasse:</b> Aristokrat</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="adliger"/></li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

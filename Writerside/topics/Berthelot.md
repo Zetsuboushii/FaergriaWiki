@@ -27,7 +27,8 @@ verantwortlich fühlte.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Bandit</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="barbar"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="bandit"/></li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> verstorben</li>
 </list>

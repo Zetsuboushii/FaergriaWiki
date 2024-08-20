@@ -12,7 +12,7 @@
 Stephan ist der lange Zeit totgeglaubte rechtmäßige Thronfolger des Hauses Nordholm.
 <br></br><br></br>
 Für acht Jahre lebte Stephan seit dem missglückten Anschlag, der von seinem Vater und seiner Stiefmutter beauftragten
-Assassinen, in einer <a href="Icy-Farlands.md" anchor="versteckte-h-tte">einsamen Hütte</a> in einem Waldstück in den
+Assassinen, in einer einsamen Hütte in einem Waldstück in den
 <a href="Icy-Farlands.md">eisigen Hinterlanden</a> Escrigrias.
 </p>
 
@@ -25,7 +25,8 @@ Assassinen, in einer <a href="Icy-Farlands.md" anchor="versteckte-h-tte">einsame
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Volk:</b> <a href="Folks.md" anchor="menschen"/></li>
-<li><b>Klasse:</b> Aristokrat</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="zauberer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="lord"/></li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

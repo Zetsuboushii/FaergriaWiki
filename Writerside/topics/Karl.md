@@ -25,7 +25,8 @@ Während der Abwesenheit der Schlossherren kümmert sich Karl um das Grundstück
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Bürger</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="b-rger"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="butler"/></li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

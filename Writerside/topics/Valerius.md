@@ -11,14 +11,14 @@
 <table>
 <tr><td>
 <p>
-Valerius ist ein ehemaliger Assassine der <a href="Northern-Grenbrock.md" anchor="diebesgilde"></a> in Grenbrock. Schon
+Valerius ist ein ehemaliger Assassine der <a href="Grenbrock.md" anchor="diebesgilde"></a> in Grenbrock. Schon
 als kleiner Junge hat er angefangen zu stehlen, bis er schließlich mit sieben Jahren aus Affekt seinen ersten Mord
 begangen hat. Während er im Kerker Grenbrocks verweilte, holte ihn sein großer Bruder Avarne, der in der Diebesgilde
 aktiv war, von dort raus. Schnell wurde Valerius ein Mitglied der Diebesgilde und arbeitete sich in den Rängen bis an
 die Spitze.
 <br></br><br></br>
 Als Arvel und <a href="Siegmund.md">Siegmund</a> auf einem Beutezug im
-<a href="Northern-Grenbrock.md" anchor="schloss-grenbrock"></a> waren, kam Arvel tragischerweise ums Leben. Lange Zeit
+<a href="Grenbrock.md" anchor="schloss-grenbrock"/> waren, kam Arvel tragischerweise ums Leben. Lange Zeit
 gab Valerius Siegmund die Schuld für den Tod seines Bruders. Als ihm schließlich der Auftrag zu teil wurde, Siegmund
 zu assassinieren, sah er seine Chance gekommen. Doch es kam anders, als Valerius es sich ausgemalt hatte. In einem
 zehrenden Kampf zwischen dem Assassinen-Duo Valerius und <a href="Sonya.md">Sonya</a> mit Siegmunds Party, mussten sich
@@ -38,7 +38,8 @@ Valerius wurde offizieller Vasall von Mudo und ist nun unter dem Namen "Silberne
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Assassine</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="schurke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="assassine"/></li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

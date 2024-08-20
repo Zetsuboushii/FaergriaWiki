@@ -27,8 +27,8 @@ aus den meisten Diskussionen zurück und agiert in brenzligen Lagen aus dem Hint
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Volk:</b> Gott</li>
-<li><b>Klasse:</b> Göttin des Schicksals</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="gott"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> verschwunden</li>
 </list>

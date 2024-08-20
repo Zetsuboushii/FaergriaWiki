@@ -39,7 +39,7 @@ nicht in den Kram passt.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
-<li><b>Klasse:</b> Göttin der Natur und der Magie</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="gott"/></li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> ermordet</li>
 </list>

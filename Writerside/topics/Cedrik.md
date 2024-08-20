@@ -22,7 +22,8 @@ verwandelt, um unbemerkt im Haushalt des Opfers unterzukommen.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Dieb</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="schurke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="arkaner-betr-ger"/></li>
 <li><b>Gesinnung:</b> NE</li>
 <li><b>Verbleib:</b> unbekannt</li>
 </list>

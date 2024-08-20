@@ -24,7 +24,7 @@ Ihre zynische und abweisende Art schreckt viele ab, doch so bekommen die meisten
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Hohefürst</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="hohef-rst"/></li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

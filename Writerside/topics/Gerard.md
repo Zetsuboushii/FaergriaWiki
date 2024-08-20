@@ -13,20 +13,21 @@
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Volk:</b> </li>
-<li><b>Klasse:</b> Kämpfer</li>
-<li><b>Gesinnung:</b> </li>
-<li><b>Verbleib:</b> </li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="k-mpfer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="faustk-mpfer"/></li>
+<li><b>Gesinnung:</b> NG</li>
+<li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> </li>
-<li><b>Größe:</b> </li>
-<li><b>Gewicht:</b> </li>
-<li><b>Augenfarbe:</b> </li>
-<li><b>Haarfarbe:</b> </li>
+<li><b>Alter:</b> 32</li>
+<li><b>Größe:</b> 1,96m</li>
+<li><b>Gewicht:</b> 91kg</li>
+<li><b>Augenfarbe:</b> Braun</li>
+<li><b>Haarfarbe:</b> Schwarz</li>
 </list>
 </procedure>
 

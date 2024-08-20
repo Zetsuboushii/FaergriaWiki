@@ -34,7 +34,8 @@ Ar-Merer etwas über die Stränge.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="engel"></a></li>
-<li><b>Klasse:</b> Recke</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="recke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="erzbischof"/></li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

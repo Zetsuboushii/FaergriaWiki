@@ -27,7 +27,8 @@ Grund ist der einzige Sohn eines Gutsherren in <a href="Llurthargothr.md"/> und 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="tieflinge"></a></li>
-<li><b>Klasse:</b> Scharfschütze</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="k-mpfer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="sch-tze"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

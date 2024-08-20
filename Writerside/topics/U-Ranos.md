@@ -43,7 +43,8 @@ und um die Worte Justicias zu verbreiten, auch wenn dieser Teil seiner Aufgabe m
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="engel"></a></li>
-<li><b>Klasse:</b> Kleriker</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="recke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="kleriker"/></li>
 <li><b>Gesinnung:</b> LG/NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

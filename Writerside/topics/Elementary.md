@@ -63,9 +63,9 @@
 |-----|-----|-----|-----|-----|-----|
 | +2  | +4  | +2  | +1  | +3  | +2  |
 
-| Typ   | Weakness | Resistances                                                 | Immunities               |
-|-------|----------|-------------------------------------------------------------|--------------------------|
-| Untot | Feuer    | Bludgeoning, Piercing, and Slashing from Nonmagical Attacks | Kälte, Poison, Erschöpft |
+| Typ       | Weakness | Resistances                                                 | Immunities               |
+|-----------|----------|-------------------------------------------------------------|--------------------------|
+| Elementar | Feuer    | Bludgeoning, Piercing, and Slashing from Nonmagical Attacks | Kälte, Poison, Erschöpft |
 
 | Ability              | Description                                                         |
 |----------------------|---------------------------------------------------------------------|
@@ -115,9 +115,9 @@
 |-----|-----|-----|-----|-----|-----|
 | +3  | +2  | +0  | -2  | +1  | -3  |
 
-| Typ       | Weakness                            | Resistances | Immunities      |
-|-----------|-------------------------------------|-------------|-----------------|
-| Elementar | Bludgeoning (zweimal => insta kill) | Kälte       | Gift, Erschöpft |
+| Typ       | Weakness                                   | Resistances | Immunities      |
+|-----------|--------------------------------------------|-------------|-----------------|
+| Elementar | Bludgeoning, force (zweimal => insta kill) | Kälte       | Gift, Erschöpft |
 
 | Ability         | Description                                                                                  |
 |-----------------|----------------------------------------------------------------------------------------------|

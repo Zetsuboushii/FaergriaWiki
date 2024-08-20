@@ -24,7 +24,8 @@ Gefühle zu verstecken.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Volk:</b> <a href="Folks.md" anchor="menschen"/></li>
-<li><b>Klasse:</b> Aristokrat</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="adliger"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="lord"/></li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

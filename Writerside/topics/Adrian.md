@@ -20,7 +20,7 @@ Ambiente, für das Adrian gerne sorgt.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"/></li>
-<li><b>Klasse:</b> Aristokrat</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="abenteurer"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

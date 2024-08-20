@@ -24,7 +24,7 @@ Obzession an, wird sie schnell beleidigt.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
-<li><b>Klasse:</b> Hohefürstin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="hohef-rst"/></li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

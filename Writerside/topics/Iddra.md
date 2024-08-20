@@ -33,7 +33,7 @@ Bunde zu ihrer Hohefürstengeneration hat sie gebrochen und schlägt sich aktuel
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
-<li><b>Klasse:</b> Diebin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="hohef-rst"/></li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

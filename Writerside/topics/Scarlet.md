@@ -29,7 +29,8 @@ Attacken schon oft zuteil.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="d-monen"></a></li>
-<li><b>Klasse:</b> Erzmagierin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="recke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="erzmagier"/></li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> verschwunden</li>
 </list>

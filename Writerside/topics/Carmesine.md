@@ -41,7 +41,7 @@ hinter einer Ecke hervor sieht, und beobachtet ihn heimlich.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Klerikerin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="kleriker"/></li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

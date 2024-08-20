@@ -27,7 +27,8 @@ Eliyens größter Wunsch ist es, einmal nach <a href="Yerenas.md"></a> zu gehen.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
-<li><b>Klasse:</b> Bogenschützin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="waldl-ufer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="sch-tze"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> ?</li>
 </list>

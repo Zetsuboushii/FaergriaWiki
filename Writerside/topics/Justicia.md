@@ -22,8 +22,8 @@ sich der Gebete an, die an sie gerichtet werden und lässt Gerechtigkeit dort wa
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Volk:</b> Gott</li>
-<li><b>Klasse:</b> Göttin der Gerechtigkeit und des Lichts</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="gott"/></li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> verschwunden</li>
 </list>

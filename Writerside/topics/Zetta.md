@@ -47,7 +47,8 @@ eine Weile um sie. Über mehrere Monate hinweg wurde Zetta zu einem Mitglied der
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"/></li>
-<li><b>Klasse:</b> Diebin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="schurke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="dieb"/></li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

@@ -29,7 +29,7 @@ seit jeher Junggeselle).
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Bürger</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="b-rger"/></li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

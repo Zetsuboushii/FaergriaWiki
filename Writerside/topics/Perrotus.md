@@ -33,7 +33,8 @@ Hoffnung hegt, dass sie eines Tages seine Nachfolgerin werden könnte.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Kleriker</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="kleriker"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="bischof"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

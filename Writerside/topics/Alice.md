@@ -30,7 +30,8 @@ diesen Vorfall.
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="halbelfen"></a></li>
-<li><b>Klasse:</b> Nekromantin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="hexer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="nekromant"/></li>
 <li><b>Gesinnung:</b> CN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

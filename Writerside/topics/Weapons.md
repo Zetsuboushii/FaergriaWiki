@@ -147,7 +147,7 @@ Jede Armbrust kann mit einer Bonusaktion vorgeladen werden. (Piercing, Ranged, D
 <tr><td>Gewöhnliche Armbrust</td><td>11/E</td><td>11/E</td><td> </td><td> </td><td> </td><td> </td><td>2d6</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>80/300</td></tr>
 <tr><td>Schwere Armbrust</td><td>12/E</td><td>12/E</td><td> </td><td> </td><td> </td><td> </td><td>1d10</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>80/300</td></tr>
 <tr><td>Giftarmbrust</td><td>10/E</td><td>14/E</td><td> </td><td> </td><td> </td><td> </td><td>1d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>3d6</td><td> </td><td> </td><td> </td><td>80/300</td></tr>
-<tr><td>Harpunenkatapult</td><td>15/D</td><td>12/E</td><td> </td><td> </td><td> </td><td> </td><td>3d8+2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>3d6</td><td> </td><td> </td><td> </td><td>80/300, 5ft. Pull</td></tr>
+<tr><td>Harpunenkatapult</td><td>15/D</td><td>12/E</td><td> </td><td> </td><td> </td><td> </td><td>3d8+2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td><td> </td><td> </td><td> </td><td>80/300, 5ft. Pull</td></tr>
 </table>
 </tab>
 </tabs>

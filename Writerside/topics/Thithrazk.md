@@ -20,8 +20,9 @@ Ehemaliger Lehrmeister von Prof. Trans. Wulvarax Suskinox
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Rasse:</b> <a href="Folks.md" anchor=""></a></li>
-<li><b>Klasse:</b> </li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="drakonier"></a></li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="zauberer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="erzmagier"/></li>
 <li><b>Gesinnung:</b> </li>
 <li><b>Verbleib:</b> </li>
 </list>

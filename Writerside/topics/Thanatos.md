@@ -27,8 +27,8 @@ leidet Thanatos sehr unter den Diskriminierungen, die seit jenem Vorfall über i
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Volk:</b> Gott</li>
-<li><b>Klasse:</b> Gott der Sünde und der Finsternis</li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="g-tter"></a></li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="gott"/></li>
 <li><b>Gesinnung:</b> CG</li>
 <li><b>Verbleib:</b> getötet</li>
 </list>

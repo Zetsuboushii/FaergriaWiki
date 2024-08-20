@@ -28,7 +28,8 @@ zumindest bis <a href="Siegmund.md">Siegmund, der Meisterdieb</a> und
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Paladin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="paladin"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="ritter"/></li>
 <li><b>Gesinnung:</b> LN</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

@@ -24,7 +24,8 @@ Recken, da sie die Aufgabe der Organisation und Koordination von Gebetserfüllun
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="engel"></a></li>
-<li><b>Klasse:</b> Reckin</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="recke"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="kleriker"/></li>
 <li><b>Gesinnung:</b> LG</li>
 <li><b>Verbleib:</b> getötet</li>
 </list>

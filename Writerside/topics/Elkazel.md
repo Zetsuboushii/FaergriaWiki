@@ -23,7 +23,8 @@ Jäger in <a href="Teryvnat.md"></a>. Beschützt das Dorf und vor allem seine Sc
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="elfen"></a></li>
-<li><b>Klasse:</b> Jäger</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="waldl-ufer"/></li>
+<li><b>Sub-Klasse:</b> <a href="Classes.md" anchor="j-ger"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>

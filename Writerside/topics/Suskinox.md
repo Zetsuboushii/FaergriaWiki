@@ -21,7 +21,7 @@ Professor für Transmutationsmagie
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="drakonier"></a></li>
-<li><b>Klasse:</b> </li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="zauberer"/></li>
 <li><b>Gesinnung:</b> </li>
 <li><b>Verbleib:</b> </li>
 </list>

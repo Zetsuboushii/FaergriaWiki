@@ -26,7 +26,7 @@ tatsächlich ermöglichen sollte, sich aus den Fängen seiner Vergangenheit zu b
 <procedure title="Allgemeine Informationen">
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
-<li><b>Klasse:</b> Hexer</li>
+<li><b>Klasse:</b> <a href="Classes.md" anchor="hexer"/></li>
 <li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
