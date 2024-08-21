@@ -10,9 +10,9 @@ Person gleichzeitig verwendet werden. Bei Benutzung wachsen die Fähigkeiten her
 <tr><td>Stufe</td><td>Anzahl Verwendungen</td></tr>
 <tr><td>1</td><td>0</td></tr>
 <tr><td>2</td><td>20</td></tr>
-<tr><td>3</td><td>35</td></tr>
-<tr><td>4</td><td>50</td></tr>
-<tr><td>5</td><td>75</td></tr>
+<tr><td>3</td><td>50</td></tr>
+<tr><td>4</td><td>75</td></tr>
+<tr><td>5</td><td>100</td></tr>
 </table>
 
 ## Loderndes Feuer von Kaen {collapsible="true" default-state="expanded"}
