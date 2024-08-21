@@ -12,4 +12,5 @@ Ein Trank ist äquivalent zu einer Portion.
 <tr><td>Ultimativer Heiltrank</td><td>SS</td><td>10d4+20</td><td>10.000S</td><td> </td></tr>
 <tr><td>Gegengift</td><td>G</td><td>Adv. auf ST</td><td>200S</td><td>Purpurhut</td></tr>
 <tr><td>Leuchttinktur</td><td>U</td><td>Leuchten für 1h</td><td>410S</td><td>Höhlenglühwürmchen</td></tr>
+<tr><td>Frostschutz</td><td>U</td><td>Res. gegen Frostschaden für 3 Rd.</td><td>650S</td><td>Frostkraut</td></tr>
 </table>
