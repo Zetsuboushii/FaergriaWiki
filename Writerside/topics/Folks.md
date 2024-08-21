@@ -18,7 +18,7 @@ erlangen und ihren Zorn zu vermeiden. In den Geschichten der Welt sind die Gött
 verstrickt, ob durch direkte Intervention oder durch subtile Einflüsse. Helden suchen oft den Beistand ihrer Götter,
 während Bösewichte versuchen, deren Macht zu missbrauchen. Diese göttlichen Wesenheiten prägen das moralische und
 ethische Gefüge der Welt und bieten Orientierung, Inspiration und manchmal auch Herausforderung für alle, die unter
-ihrem Himmel wandeln.
+ihrem Himmel wandeln. Götter sind unsterblich.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -34,7 +34,7 @@ kompensieren. Menschen gibt es in allen Formen und Farben, mit unterschiedlichst
 Traditionen. Ihre Siedlungen reichen von kleinen Dörfern bis hin zu riesigen Metropolen, und sie sind oft Pioniere in
 unbekannten Regionen. Dank ihrer Neugier und ihrem Streben nach Wissen haben Menschen oft einen starken Einfluss auf die
 Politik und Wirtschaft der Welt. Trotz ihrer Unterschiede sind sie durch ein gemeinsames Streben nach Fortschritt und
-dem Wunsch, ihre Umgebung zu formen und zu verbessern, verbunden.
+dem Wunsch, ihre Umgebung zu formen und zu verbessern, verbunden. Menschen haben eine Lebenserwartung von 100 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -56,7 +56,7 @@ die Geheimnisse der Welt bewahren. Elfen besitzen eine natürliche Affinität zu
 Kultur und ihren Bräuchen widerspiegelt. Die Göttin Farone wird von ihnen verehrt, und ihre Priester und Priesterinnen
 sind angesehene Führer, die den Segen der Göttin über ihr Volk bringen. Durch ihre Hingabe an Farone streben die Elfen
 danach, das Gleichgewicht der Natur zu bewahren und die Schönheit der Welt zu schützen, was sie zu Hütern alter
-Weisheiten und magischer Geheimnisse macht.
+Weisheiten und magischer Geheimnisse macht. Elfen haben eine Lebenserwartung von 1000 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -74,7 +74,7 @@ geschickten Diplomaten, Abenteurern und Magiern. Halbelfen neigen dazu, eine unb
 nach persönlicher Freiheit zu besitzen, was sie in viele verschiedene Richtungen führt. Ihre Fähigkeit, sowohl die
 Kurzlebigkeit der Menschen als auch die Tiefe der elfischen Weisheit zu schätzen, verleiht ihnen eine einzigartige
 Perspektive auf die Welt und macht sie zu wertvollen Verbündeten und einzigartigen Persönlichkeiten in jeder
-Gesellschaft.
+Gesellschaft. Halbelfen haben eine Lebenserwartung von 100 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -97,6 +97,7 @@ die von ihren Ahnen überliefert wurden. Zwerge sind hervorragende Schmiede und 
 Kunstfertigkeit bei der Herstellung von Waffen, Rüstungen und Schmuck. Ihr starkes Gemeinschaftsgefühl und ihre
 Loyalität zu Familie und Clan sind zentral für ihr Leben. Trotz ihres oft grimmigen Äußeren sind Zwerge bekannt für
 ihren trockenen Humor und ihre Gastfreundschaft, besonders wenn es um das Teilen von gutem Essen und starkem Bier geht.
+Zwerge haben eine Lebenserwartung von 350 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -114,7 +115,8 @@ den Gletschern und Eisbergen errichtet haben, leben sie in einer strengen Hierar
 Weisheit bestimmt wird. Drakonier sind sowohl geschickte Krieger als auch weise Magier, deren Kenntnisse über das Eis
 und die Kälte sie zu gefürchteten Gegnern und wertvollen Verbündeten machen. Trotz ihrer rauen Umgebung und ihres oft
 ernsthaften Wesens schätzen sie Gemeinschaft und sind bekannt für ihre kunstvollen Eisskulpturen und feierlichen
-Rituale, die das Leben und die Natur in den unwirtlichen Weiten des Eises ehren.
+Rituale, die das Leben und die Natur in den unwirtlichen Weiten des Eises ehren. Drakonier haben eine Lebenserwartung
+von 100 Jahren, sind mit 12 Jahren erwachsen.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -133,7 +135,8 @@ beherrschen. Trotz ihrer oft furchteinflößenden Erscheinung sind Tieflinge ind
 mit einem tiefen inneren Konflikt zwischen ihrem Erbe und ihrem Streben nach eigenem Weg. Ihre Kultur ist geprägt von
 einem ständigen Kampf um Akzeptanz und die Suche nach Identität, was sie zu faszinierenden und vielschichtigen
 Charakteren macht. Tieflinge sind oft Außenseiter, aber ihre Entschlossenheit und ihre Fähigkeit, Widrigkeiten zu
-überwinden, machen sie zu beeindruckenden und unerschrockenen Abenteurern.
+überwinden, machen sie zu beeindruckenden und unerschrockenen Abenteurern. Tieflinge haben eine Lebenserwartung von
+500 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -170,7 +173,8 @@ wo sie den Willen der Götter verkörpern und ausführen. Engel sind bekannt fü
 unbeirrbaren Glauben an das Gute, was sie zu gefürchteten Gegnern des Bösen und zu verehrten Beschützern der
 Rechtschaffenen macht. Ihre Anwesenheit auf der sterblichen Ebene ist selten und bedeutungsvoll, oft mit großen
 Prophezeiungen oder epischen Schlachten verbunden. Sterbliche, die das Privileg haben, einem Engel zu begegnen, sind
-tief bewegt von deren göttlicher Präsenz und inspirieren durch ihre Taten oft ganze Völker zu Mut und Glaube.
+tief bewegt von deren göttlicher Präsenz und inspirieren durch ihre Taten oft ganze Völker zu Mut und Glaube. Engel
+haben eine fixe Lebensspanne von 1500 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -187,7 +191,8 @@ aufmerksamsten und reinsten Herzen ihre Anwesenheit zu offenbaren. Die Pikori si
 ihr tiefes Verständnis der Natur, oft als Hüter kleiner Geheimnisse und verlorener Schätze. Einige wenige unter ihnen
 besitzen mysteriöse Kräfte, die es ihnen ermöglichen, sich auf menschliche Größe zu bringen, um in besonderen Momenten
 direkt mit den größeren Völkern zu interagieren. Diese Fähigkeit verleiht ihnen eine einzigartige Rolle als heimliche
-Beschützer und Helfer, die das Gleichgewicht der Welt bewahren und unbemerkt zum Wohle aller wirken.
+Beschützer und Helfer, die das Gleichgewicht der Welt bewahren und unbemerkt zum Wohle aller wirken. Pikori haben eine
+Lebenserwartung von 350 Jahren.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">
@@ -207,7 +212,7 @@ Schutzgeistes bringt oft Glück und Schutz, indem er Gefahren abwehrt und die In
 Schützlings stärkt. Diese Wesen handeln stets im Einklang mit den natürlichen Gesetzen und sind bekannt für ihre
 Loyalität und Weisheit, die sie denen schenken, die sie beschützen. Die Verbindung zwischen einem Schutzgeist und seinem
 Schützling ist stark und kann ein Leben lang halten, wobei sie oft als stille Wächter agieren, die unermüdlich über das
-Wohl ihres Schützlings wachen.
+Wohl ihres Schützlings wachen. Schutzgeister sind unsterblich.
 
 <procedure title="Häuptsächlich aufzufinden in">
 <list columns="2">

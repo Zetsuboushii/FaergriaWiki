@@ -31,7 +31,7 @@ Zaubern der Klerikerklasse will sie Leuten in Not helfen.
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> 17</li>
+<li><b>Alter:</b> 12</li>
 <li><b>Größe:</b> 1,62m</li>
 <li><b>Gewicht:</b> 55kg</li>
 <li><b>Augenfarbe:</b> Blau</li>
