@@ -40,17 +40,22 @@ Abenteuer in Elyria lebendig machen.
 ## Bekannte Religionen und Kulte { collapsible="false" default-state="expanded" }
 
 <procedure title="Kirche der Himmlischen Gerechtigkeit">
-<p><b>Glaubenszentrum:</b> <a href="Justicia.md"></a></p>
+<p><b>Glaubenszentrum:</b> <a href="Justicia.md"/></p>
 <p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
 </procedure>
 
 <procedure title="Abgrundkirche der Glimmenden Sünde">
-<p><b>Glaubenszentrum:</b> <a href="Thanatos.md"></a></p>
+<p><b>Glaubenszentrum:</b> <a href="Thanatos.md"/></p>
 <p><b>Art des Glaubens:</b> Kult</p>
 </procedure>
 
 <procedure title="Schicksalsjünger Fortunas">
-<p><b>Glaubenszentrum:</b> <a href="Fortuna.md"></a></p>
+<p><b>Glaubenszentrum:</b> <a href="Fortuna.md"/></p>
+<p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
+</procedure>
+
+<procedure title="Kinder des Waldes">
+<p><b>Glaubenszentrum:</b> <a href="Farone.md"/></p>
 <p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
 </procedure>
 
@@ -60,11 +65,47 @@ Abenteuer in Elyria lebendig machen.
 </procedure>
 
 <procedure title="Orden der Heilenden Hand">
-<p><b>Glaubenszentrum:</b> <a href="Hama.md"></a></p>
+<p><b>Glaubenszentrum:</b> <a href="Hama.md"/></p>
 <p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
 </procedure>
 
-<procedure title="Kinder des Waldes">
-<p><b>Glaubenszentrum:</b> <a href="Farone.md"></a></p>
-<p><b>Art des Glaubens:</b> Anerkannte Glaubensgemeinschaft</p>
+## Götter Faergrias { collapsible="false" default-state="expanded" }
+
+<procedure>
+<list columns="3">
+<li><a href="Justicia.md"/></li>
+<li><a href="Fortuna.md"/></li>
+<li><a href="Alcuin.md"/></li>
+<li><a href="Farone.md"/></li>
+<li><a href="Thanatos.md"/></li>
+</list>
+</procedure>
+
+## Hohefürsten Faergrias { collapsible="false" default-state="expanded" }
+
+<procedure>
+<list columns="3">
+<li><a href="Kaen.md"/></li>
+<li><a href="Fubuki.md"/></li>
+<li><a href="Rai.md"/></li>
+<li><a href="Kaze.md"/></li>
+<li><a href="Zora.md"/></li>
+<li><a href="Seloue.md"/></li>
+<li><a href="Amlin.md"/></li>
+<li><a href="Avila.md"/></li>
+<li><a href="Hama.md"/></li>
+<li><a href="Bellum.md"/></li>
+<li><a href="Craindre.md"/></li>
+<li><a href="Iddra.md"/></li>
+<li><a href="Invidianoir.md"/></li>
+<li><a href="Malusdur.md"/></li>
+<li><a href="Memoriae.md"/></li>
+<li><a href="Mudo.md"/></li>
+<li><a href="Niruin.md"/></li>
+<li><a href="Ouin.md"/></li>
+<li><a href="Mei.md"/></li>
+<li><a href="Serff.md"/></li>
+<li><a href="Terralion.md"/></li>
+<li><a href="Volo.md"/></li>
+</list>
 </procedure>

@@ -1,3 +1,3 @@
-# Kurfürstin Solenne von Hal
+# Solenne von Frelia, Kurfürstin von Hal
 
 Start typing here...

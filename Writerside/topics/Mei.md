@@ -1,4 +1,4 @@
-# Mei, Hohefürstin des Blitzes
+# Mei, Hohefürstin des Donners
 
 <primary-label ref="npc"/>
 
