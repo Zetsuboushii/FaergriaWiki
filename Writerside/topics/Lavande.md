@@ -22,7 +22,7 @@
 <list columns="2">
 <li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
 <li><b>Klasse:</b> <a href="Classes.md" anchor="hexer">Hexe</a></li>
-<li><b>Gesinnung:</b> CG</li>
+<li><b>Gesinnung:</b> NG</li>
 <li><b>Verbleib:</b> am Leben</li>
 </list>
 </procedure>
