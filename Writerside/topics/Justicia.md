@@ -42,12 +42,12 @@ sich der Gebete an, die an sie gerichtet werden und lässt Gerechtigkeit dort wa
 
 <procedure title="Beziehungen">
 <list columns="2">
-<!-- <li><b><a href="Inoro.md">Inoro</a>:</b> Erster "Sohn", Recke</li> -->
+<li><b><a href="Inoro.md">Inoro</a>:</b> Erster "Sohn", Recke</li>
 <li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> "Sohn", Recke</li>
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> "Sohn", Recke</li>
 <li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> "Tochter", Reckin</li>
 <li><b><a href="O-Gall.md">O-Gall</a>:</b> "Sohn", Recke</li>
-<!-- <li><b><a href="U-Ranos.md">U-Ranos</a>:</b> "Sohn", Recke</li> -->
+<li><b><a href="U-Ranos.md">U-Ranos</a>:</b> "Sohn", Recke</li>
 <li><b><a href="Fortuna.md">Fortuna</a>:</b> Schwester</li>
 <li><b><a href="Thanatos.md">Thanatos</a>:</b> Freund</li>
 <li><b><a href="Farone.md">Farone</a>:</b> Kollegin</li>
