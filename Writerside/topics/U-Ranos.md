@@ -52,7 +52,7 @@ und um die Worte Justicias zu verbreiten, auch wenn dieser Teil seiner Aufgabe m
 
 <procedure title="Aussehen">
 <list columns="3">
-<li><b>Alter:</b> 69</li>
+<li><b>Alter:</b> 349</li>
 <li><b>Größe:</b> 1,82m</li>
 <li><b>Gewicht:</b> 80kg</li>
 <li><b>Augenfarbe:</b> Gold</li>
@@ -64,7 +64,7 @@ und um die Worte Justicias zu verbreiten, auch wenn dieser Teil seiner Aufgabe m
 <list columns="2">
 <li><b><a href="Nayru.md">Nayru</a>:</b> Reisegefährtin (inoffiziell Teil seiner Familie)</li>
 <li><b><a href="Siegmund.md">Siegmund</a>:</b> Reisegefährte (inoffiziell Teil seiner Familie)</li>
-<!--<li><b><a href="">Inoro</a>:</b> Großer Bruder</li>-->
+<li><b><a href="Inoro.md">Inoro</a>:</b> Großer Bruder</li>
 <li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> missverstandener Bruder</li>
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
 <li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester</li>
