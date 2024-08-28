@@ -19,7 +19,7 @@
 
 <procedure title="Allgemeine Informationen">
 <list columns="2">
-<li><b>Rasse:</b> <a href="Folks.md" anchor="menschen"></a></li>
+<li><b>Rasse:</b> <a href="Folks.md" anchor="schutzgeister"></a></li>
 <li><b>Klasse:</b> Hohefürst</li>
 <li><b>Gesinnung:</b> TN</li>
 <li><b>Verbleib:</b> am Leben</li>

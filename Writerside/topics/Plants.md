@@ -54,7 +54,6 @@
 | Dornenschlag | Melee, Reach 10 ft., alle Ziele in Reichweite | +4 to hit | 1d10+2 slashing |
 | Dornensalve  | Ranged, 20 ft. cone, einmal pro Tag           | +4 to hit | 2d6 piercing    |
 
-
 ## Schlundgrün {collapsible="true" default-state="expanded"}
 
 <img src="schlundgruen.png" alt="" height="400"/>
@@ -75,10 +74,11 @@
 |-----------------|----------------------------------------------------------------------------|
 | Verdauungssäure | Jedes Wesen, das von der Pflanze verschlungen wird, erleidet Säureschaden. |
 
-| Action       | Description                                         | Attack                                                      | Damage                       |
-|--------------|-----------------------------------------------------|-------------------------------------------------------------|------------------------------|
-| Biss         | Melee, Reach 5 ft.                                  | +5 to hit                                                   | 2d8+3 piercing plus 1d6 acid |
-| Verschlingen | Melee, Reach 5 ft., ein Medium oder kleineres Wesen | Automatisch bei Biss, wenn Ziel auf 25% HP oder weniger ist | 3d6 acid damage pro Runde    |
+| Action       | Description                                         | Attack                                                      | Damage                                           |
+|--------------|-----------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------|
+| Biss         | Melee, Reach 5 ft.                                  | +5 to hit                                                   | 2d8+3 piercing plus 1d6 acid                     |
+| Verschlingen | Melee, Reach 5 ft., ein Medium oder kleineres Wesen | Automatisch bei Biss, wenn Ziel auf 25% HP oder weniger ist | 3d6 acid damage pro Runde                        |
+| Wasserspeien | Ranged, 30 ft. line, alle getroffenen Kreaturen     | DC 14 Str Save                                              | 3d6 bludgeoning, Ziel wird 10 ft. zurückgestoßen |
 
 ## Wandelgrün {collapsible="true" default-state="expanded"}
 
@@ -101,11 +101,12 @@
 | Ambulante Anpassung     | Kann sich auf zwei Beinen fortbewegen, um Jagd auf Beute zu machen. |
 | Chlorophyllregeneration | Regeneriert Gesundheit im Sonnenlicht.                              |
 
-| Action        | Description                                  | Attack       | Damage                                                                   |
-|---------------|----------------------------------------------|--------------|--------------------------------------------------------------------------|
-| Verschlingen  | Melee, Reach 5 ft., ein Ziel                 | +4 to hit    | 2d8+2 piercing plus 1d4 Säure bei Beginn jedes Zuges des Opfers im Griff |
-| Giftsporen    | 15 ft. Radius um sich selbst, einmal pro Tag | Kein Angriff | Constitution DC 14 oder vergiftet für 1d6 Runden                         |
-| Schnappsprung | Melee, Reach 10 ft., ein Ziel                | +3 to hit    | 1d6+2 slashing                                                           |
+| Action        | Description                                     | Attack         | Damage                                                                   |
+|---------------|-------------------------------------------------|----------------|--------------------------------------------------------------------------|
+| Verschlingen  | Melee, Reach 5 ft., ein Ziel                    | +4 to hit      | 2d8+2 piercing plus 1d4 Säure bei Beginn jedes Zuges des Opfers im Griff |
+| Giftsporen    | 15 ft. Radius um sich selbst, einmal pro Tag    | Kein Angriff   | Constitution DC 14 oder vergiftet für 1d6 Runden                         |
+| Schnappsprung | Melee, Reach 10 ft., ein Ziel                   | +3 to hit      | 1d6+2 slashing                                                           |
+| Wasserspeien  | Ranged, 30 ft. line, alle getroffenen Kreaturen | DC 14 Str Save | 3d6 bludgeoning, Ziel wird 10 ft. zurückgestoßen                         |
 
 ## Winselnder Hibiskus {collapsible="true" default-state="expanded"}
 

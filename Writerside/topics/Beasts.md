@@ -127,6 +127,34 @@
 | Biss   | Melee, Reach 5 ft., ein Ziel                        | +4 to hit      | 2d4+2 piercing |
 | Heulen | Verursacht Furcht bei Gegnern im Umkreis von 10 ft. | DC 12 Wis Save | -              |
 
+## Plattenhelm {collapsible="true" default-state="expanded"}
+
+<img src="plattenhelm.png" alt="" height="400"/>
+
+| HP | AC | Move   |
+|----|----|--------|
+| 55 | 16 | 30 ft. |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+| +4  | +1  | +3  | -3  | +1  | -2  |
+
+| Typ    | Weakness | Resistances | Immunities |
+|--------|----------|-------------|------------|
+| Bestie | Blitz    | Wasser      | Betäubt    |
+
+| Ability             | Description                                                                                          |
+|---------------------|------------------------------------------------------------------------------------------------------|
+| Eiserner Kopfpanzer | Der Kopfpanzer bietet zusätzlichen Schutz gegen Angriffe, reduziert kritische Treffer um die Hälfte. |
+| Wasserspeien        | Kann einen kraftvollen Wasserstrahl abfeuern, der Gegner zurückstoßen kann.                          |
+| Robuste Natur       | Reduziert erlittenen Schaden durch Bludgeoning, Piercing und Slashing um 2.                          |
+
+| Action       | Description                                                                       | Attack         | Damage                                              |
+|--------------|-----------------------------------------------------------------------------------|----------------|-----------------------------------------------------|
+| Kopfstoß     | Melee, Reach 5 ft., ein Ziel                                                      | +6 to hit      | 2d6+4 bludgeoning                                   |
+| Wasserspeien | Ranged, 30 ft. line, alle getroffenen Kreaturen                                   | DC 14 Str Save | 3d6 bludgeoning, Ziel wird 10 ft. zurückgestoßen    |
+| Stampfen     | Verursacht kleine Erdbeben, die Kreaturen in der Nähe für eine Runde verlangsamen | DC 13 Dex Save | 2d4 bludgeoning und 10 ft. Reduzierung der Bewegung |
+
 ## Prellkäfer {collapsible="true" default-state="expanded"}
 
 <img src="prellkaefer.png" alt="" height="400"/>

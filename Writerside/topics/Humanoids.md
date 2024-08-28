@@ -345,49 +345,74 @@
 
 <img src="thaugriner_reiter.png" alt="" height="400"/>
 
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
+| HP  | AC | Move                            |
+|-----|----|---------------------------------|
+| 120 | 18 | 30 ft. (Ritter), 60 ft. (Pferd) |
 
 | Str | Dex | Con | Int | Wis | Cha |
 |-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
+| +4  | +1  | +3  | +1  | +2  | +3  |
 
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
+| Typ      | Weakness | Resistances | Immunities |
+|----------|----------|-------------|------------|
+| Humanoid | Keine    |             |            |
 
-| Ability | Description |
-|---------|-------------|
-|         |             |
+| Ability            | Description                                                                             |
+|--------------------|-----------------------------------------------------------------------------------------|
+| Berittener Angriff | Der Ritter erhält einen Bonus von +2 auf Angriffe, während er auf dem Pferd reitet.     |
+| Kampf in Formation | Wenn der Ritter neben einem Verbündeten angreift, erhält er Vorteil auf Angriffsrollen. |
+| Sturmangriff       | Wenn der Ritter mindestens 20 ft. geradeaus reitet, verursacht er zusätzlichen Schaden. |
 
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
+| Action        | Description                   | Attack    | Damage                                    |
+|---------------|-------------------------------|-----------|-------------------------------------------|
+| Lanze         | Melee, Reach 10 ft., ein Ziel | +7 to hit | 1d12+4 piercing (2d12+4 bei Sturmangriff) |
+| Schwertschlag | Melee, Reach 5 ft., ein Ziel  | +6 to hit | 1d8+4 slashing                            |
+| Pferdetritt   | Melee, Reach 5 ft., ein Ziel  | +5 to hit | 2d6+3 bludgeoning                         |
+
+| Pferd | AC | Move   |
+|-------|----|--------|
+| 30    | 13 | 60 ft. |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+| +3  | +2  | +2  | -4  | +1  | -2  |
+
+| Ability         | Description                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
+| Treues Ross     | Das Pferd bleibt an der Seite des Ritters und gehorcht seinen Befehlen ohne Zögern.                       |
+| Schnelle Flucht | Das Pferd kann als Reaktion auf einen Angriff schnell aus dem Weg springen und seine Bewegung verdoppeln. |
+
+| Action   | Description                                                                      | Attack         | Damage                                           |
+|----------|----------------------------------------------------------------------------------|----------------|--------------------------------------------------|
+| Tritt    | Melee, Reach 5 ft., ein Ziel                                                     | +5 to hit      | 2d6+3 bludgeoning                                |
+| Stampfen | Verursacht kleine Erschütterungen im Umkreis von 5 ft., die Gegner verlangsamen. | DC 13 Dex Save | 1d6 bludgeoning und Bewegung um 10 ft. reduziert |
 
 ## Thaugriner Ritter {collapsible="true" default-state="expanded"}
 
 <img src="thaugriner_ritter.png" alt="" height="400"/>
 
-| HP | AC | Move |
-|----|----|------|
-|    |    |      |
+| HP  | AC | Move   |
+|-----|----|--------|
+| 130 | 18 | 30 ft. |
 
 | Str | Dex | Con | Int | Wis | Cha |
 |-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |
+| +4  | +2  | +3  | +1  | +2  | +3  |
 
-| Typ | Weakness | Resistances | Immunities |
-|-----|----------|-------------|------------|
-|     |          |             |            |
+| Typ      | Weakness | Resistances | Immunities |
+|----------|----------|-------------|------------|
+| Humanoid | Keine    |             |            |
 
-| Ability | Description |
-|---------|-------------|
-|         |             |
+| Ability              | Description                                                                               |
+|----------------------|-------------------------------------------------------------------------------------------|
+| Vielseitiger Kämpfer | Kann nahtlos zwischen Nah- und Fernkampfwaffen wechseln.                                  |
+| Sturmangriff         | Verursacht zusätzlichen Schaden mit der Lanze, wenn er mindestens 20 ft. geradeaus rennt. |
 
-| Action | Description | Attack | Damage |
-|--------|-------------|--------|--------|
-|        |             |        |        |
+| Action     | Description                   | Attack    | Damage                                               |
+|------------|-------------------------------|-----------|------------------------------------------------------|
+| Lanze      | Melee, Reach 10 ft., ein Ziel | +8 to hit | 1d12+4 piercing (2d12+4 bei Sturmangriff)            |
+| Langbogen  | Ranged, 150/600 ft., ein Ziel | +7 to hit | 1d8+2 piercing                                       |
+| Schildstoß | Melee, Reach 5 ft., ein Ziel  | +6 to hit | 1d6+4 bludgeoning und Ziel wird 5 ft. zurückgestoßen |
 
 ## Tinorischer Ritter {collapsible="true" default-state="expanded"}
 

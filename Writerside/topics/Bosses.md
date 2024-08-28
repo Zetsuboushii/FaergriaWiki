@@ -304,3 +304,33 @@ Bossgegner sind enorm starke, einzigartige Gegner.
 | Action | Description | Attack | Damage |
 |--------|-------------|--------|--------|
 |        |             |        |        |
+
+## Kommandant Felldir, Erschütternde Klinge der Kirche {collapsible="true" default-state="expanded"}
+
+<img src="felldir.png" alt=""/>
+
+| HP  | AC | Move   |
+|-----|----|--------|
+| 210 | 22 | 30 ft. |
+
+| Str | Dex | Con | Int | Wis | Cha |
+|-----|-----|-----|-----|-----|-----|
+| +5  | +1  | +4  | +1  | +3  | +4  |
+
+| Typ      | Weakness                      | Resistances                                                 | Immunities          |
+|----------|-------------------------------|-------------------------------------------------------------|---------------------|
+| Humanoid | Dunkelheit, Nekrotische Magie | Bludgeoning, Piercing, and Slashing from Nonmagical Attacks | Charm, Fear, Poison |
+
+| Ability                   | Description                                                                                                 |
+|---------------------------|-------------------------------------------------------------------------------------------------------------|
+| Heiliger Zorn             | Wenn HP unter 50% fallen, verdoppelt sich der Schaden, den er verursacht.                                   |
+| Heiliges Leuchten         | Umhüllt sich in einem strahlenden Licht, das Verbündete stärkt und Feinde blendet.                          |
+| Unerschütterlicher Glaube | Immun gegen Angst- und Charmeffekte; kann einmal pro Kampf automatisch einen kritischen Treffer verhindern. |
+
+| Action                   | Description                                                                                                                  | Attack     | Damage          |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
+| Großschwertschlag        | Melee, Reach 10 ft., ein Ziel                                                                                                | +9 to hit  | 2d12+5 slashing |
+| Strahl des Glaubens      | Ranged Spell Attack, 60 ft., ein Ziel                                                                                        | +8 to hit  | 4d8 radiant     |
+| Göttlicher Ansturm       | Macht einen Sturmlauf mit dem Großschwert und trifft alle Gegner in einer geraden Linie                                      | +9 to hit  | 3d12+5 slashing |
+| Heiliges Gebot           | Alle Verbündeten in einem Umkreis von 30 ft. erhalten einen Bonus von +2 auf Angriffs- und Rettungswürfe für 1 Minute.       | -          | -               |
+| Segnender Schlag (1/Tag) | Ein besonders mächtiger Angriff, der nicht blockiert oder pariert werden kann und zusätzlichen Strahlungsschaden verursacht. | +10 to hit | 5d10+5 radiant  |
