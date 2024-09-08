@@ -49,7 +49,7 @@ aufgeschlossener geworden.
 
 <procedure title="Beziehungen">
 <list columns="2">
-<li><b><a href="Thanatos.md">Thanatos</a>:</b> "Vater" und Gott</li>
+<li><b><a href="Thanatos.md">Thanatos</a>:</b> Vater und Gott</li>
 <li><b><a href="Scarlet.md">Scarlet</a>:</b> Große Schwester</li>
 <li><b><a href="Eliza.md">Eliza</a>:</b> Schwester</li>
 <li><b><a href="Farone.md">Farone</a>:</b> Freundin</li>

@@ -1,7 +1,7 @@
 # Klassen
 
 <procedure title="Nicht-kämpfende Klassen">
-<list columns="4">
+<list columns="3">
 <li><a href="" anchor="adliger">Adliger</a></li>
 <li><a href="" anchor="b-rger">Bürger</a></li>
 <li><a href="" anchor="h-ndler">Händler</a></li>
@@ -9,7 +9,7 @@
 </procedure>
 
 <procedure title="Grundklassen">
-<list columns="4">
+<list columns="3">
 <li><a href="" anchor="barbar">Barbar</a></li>
 <li><a href="" anchor="barde">Barde</a></li>
 <li><a href="" anchor="druide">Druide</a></li>
@@ -27,7 +27,7 @@
 </procedure>
 
 <procedure title="Erweiterte Klassen">
-<list columns="4">
+<list columns="3">
 <li><a href="" anchor="alchemist">Alchemist</a></li>
 <li><a href="" anchor="arkaner-betr-ger">Barbar</a></li>
 <li><a href="" anchor="assassine">Assassine</a></li>
@@ -61,7 +61,7 @@
 </procedure>
 
 <procedure title="Meisterklassen">
-<list columns="4">
+<list columns="3">
 <li><a href="" anchor="apotheker">Apotheker</a></li>
 <li><a href="" anchor="bogenritter">Bogenritter</a></li>
 <li><a href="" anchor="drachenritter">Drachenritter</a></li>
@@ -82,7 +82,7 @@
 </procedure>
 
 <procedure title="Einzigartige Klassen">
-<list columns="4">
+<list columns="3">
 <li><a href="" anchor="gott">Gott</a></li>
 <li><a href="" anchor="hohef-rst">Hohefürst</a></li>
 <li><a href="" anchor="recke">Recke</a></li>

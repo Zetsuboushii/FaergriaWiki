@@ -53,7 +53,7 @@ Ar-Merer etwas über die Stränge.
 
 <procedure title="Beziehungen">
 <list columns="2">
-<li><b><a href="Justicia.md">Justicia</a>:</b> "Mutter" und Göttin</li>
+<li><b><a href="Justicia.md">Justicia</a>:</b> Mutter und Göttin</li>
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
 <li><b><a href="Il-Vernia.md">Il-Vernia</a>:</b> Schwester</li>
 <li><b><a href="O-Gall.md">O-Gall</a>:</b> Bruder</li>

@@ -45,7 +45,7 @@ in Schwierigkeiten gerät, wenn er mit Leuten umgehen muss.
 <b><a href="Phaerille.md">Phaerille</a>:</b> Kleine Schwester
 </li>
 <li>
-<b><a href="Farone.md">Farone</a>:</b> "Mutter" und Göttin
+<b><a href="Farone.md">Farone</a>:</b> Mutter und Göttin
 </li>
 <li>
 <b><a href="Nayru.md">Nayru</a>:</b> Reckenkollegin

@@ -49,7 +49,7 @@ Attacken schon oft zuteil.
 
 <procedure title="Beziehungen">
 <list columns="2">
-<li><b><a href="Thanatos.md">Thanatos</a>:</b> "Vater" und Gott</li>
+<li><b><a href="Thanatos.md">Thanatos</a>:</b> Vater und Gott</li>
 <li><b><a href="Cinnabar.md">Cinnabar</a>:</b> Kleine Schwester</li>
 <li><b><a href="Eliza.md">Eliza</a>:</b> Kleine Schwester</li>
 <li><b><a href="Nayru.md">Nayru</a>:</b> Freundin</li>

@@ -8,7 +8,7 @@ Zauber werden durch Forschung und Wissen erschaffen. Es ist möglich Zauber zu e
 
 <table>
 <tr><td>Name</td><td>Rahmen</td><td>Level</td><td>Beschreibung</td><td>Effekt</td></tr>
-<tr><td><h3>Siedewasser</h3></td><td> </td><td>Lvl. 1</td><td>Der Anwender feuert in einem Strahl kochendes Wasser</td><td>1d6 bludgeoning + 1d6 fire</td></tr>
+<tr><td><h3>Siedewasser</h3></td><td>60ft.</td><td>Lvl. 1</td><td>Der Anwender feuert in einem Strahl kochendes Wasser</td><td>1d6 bludgeoning + 1d6 fire</td></tr>
 </table>
 
 ## Schimmersteinmagie {collapsible="true" default-state="expanded"}

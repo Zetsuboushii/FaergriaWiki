@@ -43,7 +43,7 @@ Recken, da sie die Aufgabe der Organisation und Koordination von Gebetserfüllun
 
 <procedure title="Beziehungen">
 <list columns="2">
-<li><b><a href="Justicia.md">Justicia</a>:</b> "Mutter" und Göttin</li>
+<li><b><a href="Justicia.md">Justicia</a>:</b> Mutter und Göttin</li>
 <li><b><a href="En-Troad.md">En-Troad</a>:</b> Bruder</li>
 <li><b><a href="Ar-Merer.md">Ar-Merer</a>:</b> Bruder</li>
 <li><b><a href="O-Gall.md">O-Gall</a>:</b> Bruder</li>
