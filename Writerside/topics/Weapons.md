@@ -2,6 +2,8 @@
 
 <primary-label ref="mechanics"/>
 
+## Scaling { collapsible="true" default-state="expanded" }
+
 Waffen skalieren auf die Attribute Stärke, Geschicklichkeit, Konsitution, Intelligenz, Weisheit und Charisma mit
 folgenden Klassen:
 
@@ -18,6 +20,8 @@ folgenden Klassen:
 Je nach Waffe besitzt diese verschiedene Attributskalierungen, die zum Schaden als Bonus von Attributsmodifiern
 ausgehend addiert werden.
 
+## Reichweiten { collapsible="true" default-state="expanded" }
+
 <table>
 <tr><td>Waffentyp</td><td>Reichweite</td></tr>
 <tr><td>Melee</td><td>5ft.</td></tr>
@@ -25,8 +29,12 @@ ausgehend addiert werden.
 <tr><td>Ranged</td><td>various</td></tr>
 </table>
 
+## Übung { collapsible="true" default-state="expanded" }
+
 Der Übungsbonus wird auf den Trefferwurf addiert, wenn Übung auf eine Waffenart besteht und diese geführt
 werden kann.
+
+## Waffen { collapsible="true" default-state="expanded" }
 
 <tabs>
 <tab title="Kurzschwerter">
@@ -128,6 +136,7 @@ Zweihändig. (Piercing, Ranged, Dex)
 <tr><td>Splittriger Kurzbogen</td><td> </td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
 <tr><td>Gewöhnlicher Kurzbogen</td><td> </td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>3d6+3</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
 <tr><td>Doppelschussbogen</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8+2 x2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
+<tr><td>Doppelschussbogen</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8+2 x2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
 </table>
 </tab>
 
@@ -151,3 +160,9 @@ Jede Armbrust kann mit einer Bonusaktion vorgeladen werden. (Piercing, Ranged, D
 </table>
 </tab>
 </tabs>
+
+## Pfeile { collapsible="true" default-state="expanded" }
+
+<table>
+<tr><td></td></tr>
+</table>

@@ -58,6 +58,7 @@
         <toc-element topic="Hosgrid.md"/>
         <toc-element topic="Iddra.md"/>
         <toc-element topic="Igmusur.md"/>
+        <toc-element topic="Ignaz.md"/>
         <toc-element topic="Il-Vernia.md"/>
         <toc-element topic="Invidianoir.md"/>
         <toc-element topic="Isabella.md"/>
@@ -313,4 +314,5 @@
         <toc-element topic="Potions.md"/>
         <toc-element topic="Poisons.md"/>
     </toc-element>
+    <toc-element topic="Herstellung.md"/>
 </instance-profile>
