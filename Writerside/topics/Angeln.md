@@ -97,3 +97,159 @@ Meer oder raues Gewässer: DC 18
 </li>
 </list>
 </procedure>
+
+<table border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Größe</th>
+      <th>Ort</th>
+      <th>Jahreszeit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Süßwasser Fische -->
+    <tr>
+      <td>Goldforelle</td>
+      <td>Mittel</td>
+      <td>Süßwasser (Flüsse, Seen)</td>
+      <td>Frühling, Herbst</td>
+    </tr>
+    <tr>
+      <td>Faergria-Karpfen</td>
+      <td>Groß</td>
+      <td>Süßwasser (Seen, langsam fließende Flüsse)</td>
+      <td>Frühling, Sommer, Herbst</td>
+    </tr>
+    <tr>
+      <td>Faergria-Barsch</td>
+      <td>Klein bis Mittel</td>
+      <td>Süßwasser (Teiche, Seen)</td>
+      <td>Frühling, Sommer, Herbst</td>
+    </tr>
+    <tr>
+      <td>Thaugrien-Aal</td>
+      <td>Mittel</td>
+      <td>Süßwasser (Flüsse, Mündungen)</td>
+      <td>Frühling, Sommer</td>
+    </tr>
+    <tr>
+      <td>Posthecht</td>
+      <td>Groß</td>
+      <td>Süßwasser (Seen, Flüsse)</td>
+      <td>Sommer, Herbst</td>
+    </tr>
+    <tr>
+      <td>Süßer Zander</td>
+      <td>Groß</td>
+      <td>Süßwasser (Seen, Flüsse)</td>
+      <td>Sommer</td>
+    </tr>
+    <tr>
+      <td>Sonnenbarsch</td>
+      <td>Klein</td>
+      <td>Süßwasser (Teiche, Seen)</td>
+      <td>Sommer</td>
+    </tr>
+    <tr>
+      <td>Antiker Wels</td>
+      <td>Groß</td>
+      <td>Süßwasser (Flüsse, Seen)</td>
+      <td>Sommer, Herbst</td>
+    </tr>
+    <tr>
+      <td>Regenbogenforelle</td>
+      <td>Mittel</td>
+      <td>Süßwasser (Flüsse, Seen)</td>
+      <td>Herbst</td>
+    </tr>
+    <tr>
+      <td>Katzenschleie</td>
+      <td>Mittel</td>
+      <td>Süßwasser (Seen, Teiche)</td>
+      <td>Herbst</td>
+    </tr>
+    <tr>
+      <td>Rotäugiger Faulfisch</td>
+      <td>Klein</td>
+      <td>Süßwasser (Seen, Flüsse)</td>
+      <td>Frühling, Herbst</td>
+    </tr>
+    <tr>
+      <td>Weißer Hahnenbarsch</td>
+      <td>Klein bis Mittel</td>
+      <td>Süßwasser (Flüsse, Seen)</td>
+      <td>Herbst, Winter</td>
+    </tr>
+    <tr>
+      <td>Herzog des Sees</td>
+      <td>Riesig</td>
+      <td>Süßwasser (Seen)</td>
+      <td>Herbst, Winter</td>
+    </tr>
+    <!-- Brackwasser Fische -->
+    <tr>
+      <td>Grünäsche</td>
+      <td>Mittel</td>
+      <td>Brackwasser (Mündungen)</td>
+      <td>Frühling, Sommer</td>
+    </tr>
+    <tr>
+      <td>Tanzender Hecht</td>
+      <td>Groß</td>
+      <td>Brackwasser (Mündungen, Sumpfgebiete)</td>
+      <td>Frühling, Herbst</td>
+    </tr>
+    <!-- Salzwasser Fische -->
+    <tr>
+      <td>Neptuna</td>
+      <td>Groß</td>
+      <td>Salzwasser (Meer, Küste)</td>
+      <td>Frühling, Sommer</td>
+    </tr>
+    <tr>
+      <td>Dorade</td>
+      <td>Mittel</td>
+      <td>Salzwasser (Küste)</td>
+      <td>Frühling, Herbst</td>
+    </tr>
+    <tr>
+      <td>Rostiger Schwertfisch</td>
+      <td>Groß</td>
+      <td>Salzwasser (Meer)</td>
+      <td>Sommer</td>
+    </tr>
+    <tr>
+      <td>Flüchtiger Blubberfisch</td>
+      <td>Groß</td>
+      <td>Salzwasser (Tiefe Gewässer, Küste)</td>
+      <td>Sommer, Herbst</td>
+    </tr>
+<tr>
+      <td>Kolossaler Katzenhai</td>
+      <td>Riesig</td>
+      <td>Salzwasser (Tiefe Gewässer, Küste)</td>
+      <td>Sommer, Herbst</td>
+    </tr>
+    <!-- Unterirdische Gewässer Fische -->
+    <tr>
+      <td>Blinder Tümmler</td>
+      <td>Klein</td>
+      <td>Unterirdische Gewässer (Höhlenseen, Flüsse)</td>
+      <td>Immer</td>
+    </tr>
+    <tr>
+      <td>Fungus-Karpfen</td>
+      <td>Mittel</td>
+      <td>Unterirdische Gewässer (Tiefen Höhlen)</td>
+      <td>Immer</td>
+    </tr>
+<tr>
+      <td>Feenfisch</td>
+      <td>Mittel</td>
+      <td>Unterirdische Gewässer (Tiefen Höhlen)</td>
+      <td>Immer</td>
+    </tr>
+  </tbody>
+</table>
+

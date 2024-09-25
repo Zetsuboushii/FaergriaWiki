@@ -136,7 +136,7 @@ Zweihändig. (Piercing, Ranged, Dex)
 <tr><td>Splittriger Kurzbogen</td><td> </td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
 <tr><td>Gewöhnlicher Kurzbogen</td><td> </td><td>14/D</td><td> </td><td> </td><td> </td><td> </td><td>3d6+3</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
 <tr><td>Doppelschussbogen</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8+2 x2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
-<tr><td>Doppelschussbogen</td><td> </td><td>15/D</td><td> </td><td> </td><td> </td><td> </td><td>2d8+2 x2</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90</td></tr>
+<tr><td>Dornenbogen</td><td> </td><td>14/E</td><td> </td><td> </td><td> </td><td> </td><td>2d12+4 + 3d4 Dornen</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>60/90, Erschafft mit einer Dornenrankenexplosion in einem 3x3 Kreuz umschlingt und grappled Gegner</td></tr>
 </table>
 </tab>
 
